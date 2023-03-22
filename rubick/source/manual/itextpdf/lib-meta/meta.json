@@ -1,0 +1,42 @@
+{
+	"funcMeta" : {
+	}, 
+	"dataDeps" : [
+                [
+                        "constant",
+                        "true",
+			"<com.itextpdf.kernel.pdf.PdfPage: java.util.List getOutlines(boolean)>",
+                        "arg0",
+                        "manually add"
+                ],
+                [
+                        "constant",
+                        "true",
+			"<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfOutline getOutlines(boolean)>",
+                        "arg0",
+                        "manually add"
+                ],
+                [
+                        "constant",
+                        "true",
+			"<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfNumTree getPageLabelsTree(boolean)>",
+                        "arg0",
+                        "manually add"
+                ],
+                [
+                        "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>",
+                        "ret",
+			"<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader)>",
+                        "arg0",
+                        "manually add"
+                ],
+                [
+                        "input",
+                        "input",
+			"<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>",
+                        "arg0",
+                        "manually add"
+                ]
+
+	]
+}

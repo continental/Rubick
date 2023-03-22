@@ -1,0 +1,753 @@
+{
+  "alias2event": {
+    "E": [
+      "Z",
+      "v_12_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "O": [
+      "Z",
+      "v_31_ <= 16384",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ]
+    ],
+    "\u3435": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isPaxGNU1XSparse()>"
+    ],
+    "\u3442": [
+      "Z",
+      "Extract(8, 8, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u34a8": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isStreamContiguous()>"
+    ],
+    "\u34e2": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getDataOffset()>"
+    ],
+    "\u34ea": [
+      "Z",
+      "v_24_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ]
+    ],
+    "\u34f9": [
+      "Z",
+      "v_19_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>.RET"
+      ]
+    ],
+    "\u3500": [
+      "Z",
+      "Extract(4, 4, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3501": [
+      "Z",
+      "v_11_ == v_10_",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 1521985949_$i6_LOOPVAR__((int)-1)()>.RET",
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 1521985949_$i6_LOOPVAR__((int)-1)()>.RET",
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ]
+    ],
+    "\u350d": [
+      "Z",
+      "Not(v_22_ <= 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET"
+      ]
+    ],
+    "\u3518": [
+      "Z",
+      "Not(v_31_ <= 16384)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ]
+    ],
+    "\u3550": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String,byte)>"
+    ],
+    "\u35f1": [
+      "Z",
+      "v_28_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>.RET"
+      ]
+    ],
+    "\u3635": [
+      "Z",
+      "And(Extract(0, 0, v_12_) == 0,\n    Extract(3, 3, v_12_) == 0,\n    Extract(6, 6, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u365f": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveStructSparse: long getNumbytes()>"
+    ],
+    "\u368d": [
+      "Z",
+      "Not(Extract(1, 1, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u368f": [
+      "Z",
+      "Not(Extract(8, 8, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u36d9": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.String getName()>"
+    ],
+    "\u3742": [
+      "Z",
+      "Extract(2, 2, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3775": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>"
+    ],
+    "\u37ae": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.io.File,java.lang.String)>"
+    ],
+    "\u37f0": [
+      "Z",
+      "Not(Extract(7, 7, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u37f5": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>"
+    ],
+    "\u3806": [
+      "Z",
+      "Extract(7, 7, v_12_) == 1",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3826": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>"
+    ],
+    "\u3835": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.String getLinkName()>"
+    ],
+    "\u3903": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int getRecordSize()>"
+    ],
+    "\u396c": [
+      "Z",
+      "Not(And(Extract(0, 0, v_12_) == 0,\n        Extract(3, 3, v_12_) == 0,\n        Extract(6, 6, v_12_) == 0))",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3985": [
+      "Z",
+      "Extract(6, 6, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u39e4": [
+      "Z",
+      "Not(v_11_ <= 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ]
+    ],
+    "\u3b1f": [
+      "Z",
+      "Not(v_8_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>.RET"
+      ]
+    ],
+    "\u3b52": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String)>"
+    ],
+    "\u3bd1": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>"
+    ],
+    "\u3c1c": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>"
+    ],
+    "\u3c48": [
+      "Z",
+      "v_13_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>.RET"
+      ]
+    ],
+    "\u3c68": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>"
+    ],
+    "\u3c8a": [
+      "Z",
+      "Extract(1, 1, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3c9c": [
+      "Z",
+      "Not(Extract(3, 3, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3d12": [
+      "Z",
+      "v_25_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ]
+    ],
+    "\u3d6b": [
+      "Z",
+      "Not(v_24_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ]
+    ],
+    "\u3da7": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>"
+    ],
+    "\u3dfd": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void <init>(java.io.InputStream)>"
+    ],
+    "\u3e18": [
+      "Z",
+      "v_6_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>.RET"
+      ]
+    ],
+    "\u3e59": [
+      "Z",
+      "Not(Extract(6, 6, v_12_) == 1)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3e61": [
+      "Z",
+      "v_11_ <= 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ]
+    ],
+    "\u3e76": [
+      "Z",
+      "Not(Extract(4, 4, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3e7f": [
+      "Z",
+      "Not(Extract(6, 6, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u3f03": [
+      "Z",
+      "Not(v_25_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ]
+    ],
+    "\u3f88": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Map getExtraPaxHeaders()>"
+    ],
+    "\u3f95": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.Object <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_next(java.util.Iterator)>"
+    ],
+    "\u4070": [
+      "Z",
+      "Extract(6, 6, v_12_) == 1",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u407d": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>"
+    ],
+    "\u4168": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>"
+    ],
+    "\u4299": [
+      "Z",
+      "Not(v_28_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>.RET"
+      ]
+    ],
+    "\u42ba": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 958272236_$i19_LOOPVAR_<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET_((int)(((long)((int)(((long)arg0) + 0L))) cmp \ud83d\udfae))(int)>"
+    ],
+    "\u43b0": [
+      "Z",
+      "Not(v_19_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>.RET"
+      ]
+    ],
+    "\u43d3": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 1521985949_$i6_LOOPVAR__((int)-1)()>"
+    ],
+    "\u43f6": [
+      "Z",
+      "v_22_ <= 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET"
+      ]
+    ],
+    "\u445d": [
+      "Z",
+      "Not(v_13_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>.RET"
+      ]
+    ],
+    "\u4467": [
+      "Z",
+      "Extract(3, 3, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4522": [
+      "Z",
+      "Extract(0, 0, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4596": [
+      "Z",
+      "v_7_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>.RET"
+      ]
+    ],
+    "\u45d0": [
+      "Z",
+      "Extract(8, 8, v_12_) == 1",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u45f5": [
+      "Z",
+      "Not(v_6_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>.RET"
+      ]
+    ],
+    "\u4650": [
+      "Z",
+      "Not(Extract(8, 8, v_12_) == 1)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4685": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Date getModTime()>"
+    ],
+    "\u46a5": [
+      "Z",
+      "Not(Extract(2, 2, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4735": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>"
+    ],
+    "\u4870": [
+      "Z",
+      "Not(Extract(7, 7, v_12_) == 1)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u48f0": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>"
+    ],
+    "\u491b": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>"
+    ],
+    "\u4a36": [
+      "Z",
+      "Extract(7, 7, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4a41": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void close()>"
+    ],
+    "\u4a57": [
+      "Z",
+      "Extract(5, 5, v_12_) == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4a5e": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Date getLastModifiedDate()>"
+    ],
+    "\u4abf": [
+      "Z",
+      "Not(v_31_ <= 1024)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ]
+    ],
+    "\u4acb": [
+      "Z",
+      "Not(Extract(0, 0, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4b43": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>"
+    ],
+    "\u4b56": [
+      "Z",
+      "Not(v_12_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4bb6": [
+      "Z",
+      "Not(v_7_ == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>.RET"
+      ]
+    ],
+    "\u4c26": [
+      "Z",
+      "Not(v_11_ == v_10_)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 1521985949_$i6_LOOPVAR__((int)-1)()>.RET",
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 1521985949_$i6_LOOPVAR__((int)-1)()>.RET",
+        "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET"
+      ]
+    ],
+    "\u4c5b": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: org.apache.commons.compress.archivers.tar.TarArchiveEntry[] getDirectoryEntries()>"
+    ],
+    "\u4c69": [
+      "Z",
+      "v_8_ == 0",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>.RET"
+      ]
+    ],
+    "\u4c7e": [
+      "Z",
+      "Not(Extract(5, 5, v_12_) == 0)",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET"
+      ]
+    ],
+    "\u4c9b": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>"
+    ],
+    "\u4cec": [
+      "F",
+      "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.Object <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_next(java.util.Iterator)>"
+    ],
+    "\u4dba": [
+      "Z",
+      "v_31_ <= 1024",
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ],
+      [
+        "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET"
+      ]
+    ]
+  },
+  "def2var": {
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.ITR": "v_24_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET": "v_24_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.ITR": "v_25_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_hasNext(java.util.Iterator)>.RET": "v_25_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>.ITR": "v_13_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isDirectory()>.RET": "v_13_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>.ITR": "v_19_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isLink()>.RET": "v_19_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isPaxGNU1XSparse()>.ITR": "v_17_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isPaxGNU1XSparse()>.RET": "v_17_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isStreamContiguous()>.ITR": "v_15_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isStreamContiguous()>.RET": "v_15_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>.ITR": "v_8_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: boolean isSymbolicLink()>.RET": "v_8_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.ITR": "v_12_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: int getMode()>.RET": "v_12_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.Object <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_next(java.util.Iterator)>.ITR": "v_5_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.Object <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>_ITERABLE_next(java.util.Iterator)>.RET": "v_5_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.Object <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_next(java.util.Iterator)>.ITR": "v_23_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.Object <org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>_ITERABLE_next(java.util.Iterator)>.RET": "v_23_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.String getLinkName()>.ITR": "v_21_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.String getLinkName()>.RET": "v_21_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.String getName()>.ITR": "v_30_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.lang.String getName()>.RET": "v_30_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Date getLastModifiedDate()>.ITR": "v_2_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Date getLastModifiedDate()>.RET": "v_2_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Date getModTime()>.ITR": "v_16_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Date getModTime()>.RET": "v_16_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>.ITR": "v_14_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getOrderedSparseHeaders()>.RET": "v_14_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>.ITR": "v_1_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.List getSparseHeaders()>.RET": "v_1_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Map getExtraPaxHeaders()>.ITR": "v_20_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: java.util.Map getExtraPaxHeaders()>.RET": "v_20_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getDataOffset()>.ITR": "v_32_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getDataOffset()>.RET": "v_32_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.ITR": "v_31_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: long getSize()>.RET": "v_31_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: org.apache.commons.compress.archivers.tar.TarArchiveEntry[] getDirectoryEntries()>.ITR": "v_18_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: org.apache.commons.compress.archivers.tar.TarArchiveEntry[] getDirectoryEntries()>.RET": "v_18_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.io.File,java.lang.String)>.ITR": "v_26_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.io.File,java.lang.String)>.RET": "v_26_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String)>.ITR": "v_3_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String)>.RET": "v_3_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String,byte)>.ITR": "v_33_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String,byte)>.RET": "v_33_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>.ITR": "v_6_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean canReadEntryData(org.apache.commons.compress.archivers.ArchiveEntry)>.RET": "v_6_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 1521985949_$i6_LOOPVAR__((int)-1)()>.RET": "v_10_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int 958272236_$i19_LOOPVAR_<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET_((int)(((long)((int)(((long)arg0) + 0L))) cmp \ud83d\udfae))(int)>.RET": "v_0_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int getRecordSize()>.ITR": "v_29_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int getRecordSize()>.RET": "v_29_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.ITR": "v_22_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>.RET": "v_22_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.ITR": "v_11_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>.RET": "v_11_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>.ITR": "v_7_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.ArchiveEntry getNextEntry()>.RET": "v_7_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>.ITR": "v_28_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: org.apache.commons.compress.archivers.tar.TarArchiveEntry getNextTarEntry()>.RET": "v_28_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void <init>(java.io.InputStream)>.ITR": "v_27_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void <init>(java.io.InputStream)>.RET": "v_27_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void close()>.ITR": "v_4_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void close()>.RET": "v_4_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveStructSparse: long getNumbytes()>.ITR": "v_9_itr_",
+    "<org.apache.commons.compress.archivers.tar.TarArchiveStructSparse: long getNumbytes()>.RET": "v_9_",
+    "null": "null"
+  }
+}

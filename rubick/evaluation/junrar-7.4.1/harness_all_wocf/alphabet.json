@@ -1,0 +1,2683 @@
+{
+  "alias2event": {
+    "H": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeaderType: void <init>(java.lang.String,int,short)>"
+    ],
+    "l": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: void startModelRare(int)>"
+    ],
+    "r": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void doUnpack(int,boolean)>"
+    ],
+    "\u3417": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: void incRunLength(int)>"
+    ],
+    "\u341b": [
+      "F",
+      "<com.github.junrar.Archive: boolean isOldFormat()>"
+    ],
+    "\u3424": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: short getHeadCRC()>"
+    ],
+    "\u3436": [
+      "F",
+      "<com.github.junrar.Archive: boolean isEncrypted()>"
+    ],
+    "\u344a": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void <init>()>"
+    ],
+    "\u346f": [
+      "F",
+      "<com.github.junrar.rarfile.UnixOwnersHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>"
+    ],
+    "\u348d": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarMemBlock: int getPrev()>"
+    ],
+    "\u34a3": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getScale()>"
+    ],
+    "\u34af": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int getFakeUnitsStart()>"
+    ],
+    "\u34ba": [
+      "F",
+      "<com.github.junrar.exception.MainHeaderNullException: void <init>()>"
+    ],
+    "\u34cb": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SEE2Context[][] getSEE2Cont()>"
+    ],
+    "\u34ee": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void optimize(com.github.junrar.unpack.vm.VMPreparedProgram)>"
+    ],
+    "\u3519": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isEncrypted()>"
+    ],
+    "\u351b": [
+      "F",
+      "<com.github.junrar.unpack.decode.Decode: int[] getDecodeLen()>"
+    ],
+    "\u3526": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(java.io.File,com.github.junrar.UnrarCallback)>"
+    ],
+    "\u3539": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void UnpWriteData(byte[],int,int)>"
+    ],
+    "\u3540": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void decodeArg(com.github.junrar.unpack.vm.VMPreparedOperand,boolean)>"
+    ],
+    "\u3548": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyByteChannel: long getPosition()>"
+    ],
+    "\u3549": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getInitRL()>"
+    ],
+    "\u354a": [
+      "F",
+      "<com.github.junrar.exception.RarException: void <init>(java.lang.Throwable)>"
+    ],
+    "\u3567": [
+      "F",
+      "<com.github.junrar.unpack.ppm.FreqData: int getStats()>"
+    ],
+    "\u3574": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarMemBlock: int getNext()>"
+    ],
+    "\u3593": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: short getFlags()>"
+    ],
+    "\u3594": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: int getFileCRC()>"
+    ],
+    "\u3599": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: int readInt()>"
+    ],
+    "\u359e": [
+      "F",
+      "<com.github.junrar.rarfile.UnrarHeadertype: byte getHeaderByte()>"
+    ],
+    "\u35bc": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: long getUnpSize()>"
+    ],
+    "\u35ca": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void init()>"
+    ],
+    "\u35ce": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int[] getNS2BSIndx()>"
+    ],
+    "\u35d5": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isSolid()>"
+    ],
+    "\u35d7": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileNameW()>"
+    ],
+    "\u35ed": [
+      "F",
+      "<com.github.junrar.Archive: java.io.InputStream getInputStream(com.github.junrar.rarfile.FileHeader)>"
+    ],
+    "\u35f6": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: int getValue(boolean,byte[],int)>"
+    ],
+    "\u35fe": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarMemBlock: void <init>(byte[])>"
+    ],
+    "\u360b": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void longLZ()>"
+    ],
+    "\u3612": [
+      "F",
+      "<com.github.junrar.rarfile.NewSubHeaderType: boolean byteEquals(byte[])>"
+    ],
+    "\u361a": [
+      "F",
+      "<com.github.junrar.unpack.decode.BitDecode: void <init>()>"
+    ],
+    "\u3624": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int[] getCharMask()>"
+    ],
+    "\u3625": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: void print()>"
+    ],
+    "\u3632": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: void <init>()>"
+    ],
+    "\u363a": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: com.github.junrar.unpack.vm.VMPreparedProgram getPrg()>"
+    ],
+    "\u3642": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: int getBlockStart()>"
+    ],
+    "\u3647": [
+      "F",
+      "<com.github.junrar.unpack.decode.CodeType: void <init>(java.lang.String,int)>"
+    ],
+    "\u364d": [
+      "F",
+      "<com.github.junrar.exception.RarException: void <init>()>"
+    ],
+    "\u366a": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(java.io.File)>"
+    ],
+    "\u3672": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: void initDecoder(com.github.junrar.unpack.Unpack)>"
+    ],
+    "\u367a": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int[] getNS2Indx()>"
+    ],
+    "\u367c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void freeUnits(int,int)>"
+    ],
+    "\u36b2": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: byte[] getMem()>"
+    ],
+    "\u36ba": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>"
+    ],
+    "\u36bb": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: int getPosAv()>"
+    ],
+    "\u36bc": [
+      "F",
+      "<com.github.junrar.Junrar: java.util.List extract(java.io.File,java.io.File,java.lang.String)>"
+    ],
+    "\u36cf": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void splitBlock(int,int,int)>"
+    ],
+    "\u36eb": [
+      "F",
+      "<com.github.junrar.io.RawDataIo: void <init>(com.github.junrar.io.SeekableReadOnlyByteChannel)>"
+    ],
+    "\u36fa": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilterSignature: int getLength()>"
+    ],
+    "\u36fd": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int[][] getBinSumm()>"
+    ],
+    "\u36fe": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void corrHuff(int[],int[])>"
+    ],
+    "\u370d": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.State getOneState()>"
+    ],
+    "\u372a": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyInputStream: int readFully(byte[],int)>"
+    ],
+    "\u3740": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: int decodeNumber(com.github.junrar.unpack.decode.Decode)>"
+    ],
+    "\u374f": [
+      "F",
+      "<com.github.junrar.Archive$1: void <init>(com.github.junrar.Archive)>"
+    ],
+    "\u3773": [
+      "F",
+      "<com.github.junrar.unpack.ppm.FreqData: void <init>(byte[])>"
+    ],
+    "\u3775": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: void ariDecNormalize()>"
+    ],
+    "\u37b3": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int sizeOfFreeList()>"
+    ],
+    "\u37b7": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int allocContext()>"
+    ],
+    "\u37c1": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.util.Date getCTime()>"
+    ],
+    "\u37cb": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void unpInitData(boolean)>"
+    ],
+    "\u37f5": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: int getParentFilter()>"
+    ],
+    "\u37fc": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileName()>"
+    ],
+    "\u383c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void incPText()>"
+    ],
+    "\u3869": [
+      "F",
+      "<com.github.junrar.rarfile.MarkHeader: boolean isSignature()>"
+    ],
+    "\u386b": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: int filterItanium_GetBits(int,int,int)>"
+    ],
+    "\u387c": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: void <init>(java.io.InputStream)>"
+    ],
+    "\u3893": [
+      "F",
+      "<com.github.junrar.rarfile.EndArcHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>"
+    ],
+    "\u3895": [
+      "F",
+      "<com.github.junrar.volume.FileVolume: void <init>(com.github.junrar.Archive,java.io.File)>"
+    ],
+    "\u38c3": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isEncrypted()>"
+    ],
+    "\u38d0": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isLocked()>"
+    ],
+    "\u38d5": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: byte getUnpMethod()>"
+    ],
+    "\u38dd": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: boolean hasEncryptVersion()>"
+    ],
+    "\u38e8": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>"
+    ],
+    "\u38e9": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedCommand: boolean isByteMode()>"
+    ],
+    "\u38ed": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isSplitAfter()>"
+    ],
+    "\u38fd": [
+      "F",
+      "<com.github.junrar.unpack.ppm.StateRef: int getSuccessor()>"
+    ],
+    "\u3902": [
+      "F",
+      "<com.github.junrar.Archive: boolean isPasswordProtected()>"
+    ],
+    "\u3911": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SEE2Context: void <init>()>"
+    ],
+    "\u391e": [
+      "F",
+      "<com.github.junrar.unpack.ppm.Pointer: void <init>(byte[])>"
+    ],
+    "\u3925": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int allocUnitsRare(int)>"
+    ],
+    "\u394c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarNode: int getNext()>"
+    ],
+    "\u394f": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.util.Date getDateDos(int)>"
+    ],
+    "\u396a": [
+      "F",
+      "<com.github.junrar.io.Raw: long readIntLittleEndianAsLong(byte[],int)>"
+    ],
+    "\u396c": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: boolean hasVolumeNumber()>"
+    ],
+    "\u3979": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: void <init>()>"
+    ],
+    "\u3987": [
+      "F",
+      "<com.github.junrar.rarfile.EAHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>"
+    ],
+    "\u3990": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: boolean readVMCodePPM()>"
+    ],
+    "\u39a7": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: int getbits()>"
+    ],
+    "\u39af": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: boolean ExecuteCode(java.util.List,int)>"
+    ],
+    "\u39e1": [
+      "F",
+      "<com.github.junrar.unpack.decode.Decode: int[] getDecodePos()>"
+    ],
+    "\u39f0": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMFlags: void <init>(java.lang.String,int,int)>"
+    ],
+    "\u3a0f": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: int getChar()>"
+    ],
+    "\u3a21": [
+      "F",
+      "<com.github.junrar.rarfile.RARVersion: void <init>(java.lang.String,int)>"
+    ],
+    "\u3a26": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: boolean readVMCode()>"
+    ],
+    "\u3a29": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean hasArchCmt()>"
+    ],
+    "\u3a47": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void initHuff()>"
+    ],
+    "\u3a5e": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedOperand: int getOffset()>"
+    ],
+    "\u3a64": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isNewNumbering()>"
+    ],
+    "\u3a68": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void execute(com.github.junrar.unpack.vm.VMPreparedProgram)>"
+    ],
+    "\u3a76": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(java.io.InputStream,java.lang.String)>"
+    ],
+    "\u3a89": [
+      "F",
+      "<com.github.junrar.unpack.ppm.StateRef: int getSymbol()>"
+    ],
+    "\u3a8e": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int[] getDif()>"
+    ],
+    "\u3ade": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: boolean unpReadBuf()>"
+    ],
+    "\u3af6": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: long getFullPackSize()>"
+    ],
+    "\u3b04": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getRunLength()>"
+    ],
+    "\u3b12": [
+      "F",
+      "<com.github.junrar.UnrarCallback: boolean isNextVolumeReady(com.github.junrar.volume.Volume)>"
+    ],
+    "\u3b1c": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: int decodeNum(int,int,int[],int[])>"
+    ],
+    "\u3b22": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: int getNumStats()>"
+    ],
+    "\u3b2c": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeaderType: boolean equals(short)>"
+    ],
+    "\u3b32": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: int getSymbol()>"
+    ],
+    "\u3b5f": [
+      "F",
+      "<com.github.junrar.unpack.decode.Decode: int[] getDecodeNum()>"
+    ],
+    "\u3b6b": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: int read(byte[],int,int)>"
+    ],
+    "\u3b77": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void <init>()>"
+    ],
+    "\u3b82": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: long getUnpFileCRC()>"
+    ],
+    "\u3b88": [
+      "F",
+      "<com.github.junrar.unpack.decode.DistDecode: void <init>()>"
+    ],
+    "\u3b94": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SEE2Context: void init(int)>"
+    ],
+    "\u3b9e": [
+      "F",
+      "<com.github.junrar.volume.Volume: long getLength()>"
+    ],
+    "\u3bd1": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMOpType: boolean equals(int)>"
+    ],
+    "\u3bdc": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getK3()>"
+    ],
+    "\u3bf4": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int MBPtr(int,int)>"
+    ],
+    "\u3bf6": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.volume.VolumeManager getVolumeManager()>"
+    ],
+    "\u3bfd": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: void decode()>"
+    ],
+    "\u3c0b": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getD2()>"
+    ],
+    "\u3c2e": [
+      "F",
+      "<com.github.junrar.volume.VolumeHelper: java.lang.String nextVolumeName(java.lang.String,boolean)>"
+    ],
+    "\u3c3b": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedCommand: void <init>()>"
+    ],
+    "\u3c61": [
+      "F",
+      "<com.github.junrar.rarfile.BlockHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>"
+    ],
+    "\u3c6b": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SEE2Context getDummySEE2Cont()>"
+    ],
+    "\u3c7c": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: void <init>(byte[])>"
+    ],
+    "\u3c83": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: int getArrayIndex(com.github.junrar.unpack.ppm.ModelPPM,com.github.junrar.unpack.ppm.State)>"
+    ],
+    "\u3c94": [
+      "F",
+      "<com.github.junrar.Archive: void doExtractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>"
+    ],
+    "\u3ca2": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean hasEncryptVersion()>"
+    ],
+    "\u3ca6": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMCommands getOpCode()>"
+    ],
+    "\u3cd3": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean hasSalt()>"
+    ],
+    "\u3cdd": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.UnrarCallback getUnrarCallback()>"
+    ],
+    "\u3ce7": [
+      "F",
+      "<com.github.junrar.rarfile.HostSystem: com.github.junrar.rarfile.HostSystem findHostSystem(byte)>"
+    ],
+    "\u3cf6": [
+      "F",
+      "<com.github.junrar.rarfile.BlockHeader: void <init>(com.github.junrar.rarfile.BlockHeader)>"
+    ],
+    "\u3d0b": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: void unpack20(boolean)>"
+    ],
+    "\u3d11": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMFlags: boolean equals(int)>"
+    ],
+    "\u3d30": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: byte getEncryptVersion()>"
+    ],
+    "\u3d42": [
+      "F",
+      "<com.github.junrar.Archive$1: boolean hasNext()>"
+    ],
+    "\u3d49": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeader: byte getLevel()>"
+    ],
+    "\u3d4d": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SEE2Context: void incSumm(int)>"
+    ],
+    "\u3d53": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: boolean isSubBlock()>"
+    ],
+    "\u3dc0": [
+      "F",
+      "<com.github.junrar.unpack.decode.Decode: void <init>()>"
+    ],
+    "\u3dc1": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarNode: void <init>(byte[])>"
+    ],
+    "\u3dca": [
+      "F",
+      "<com.github.junrar.rarfile.MacInfoHeader: void print()>"
+    ],
+    "\u3dd3": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: boolean decodeSymbol1(com.github.junrar.unpack.ppm.ModelPPM)>"
+    ],
+    "\u3dd8": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getEscCount()>"
+    ],
+    "\u3dda": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: long getPackedCRC()>"
+    ],
+    "\u3df1": [
+      "F",
+      "<com.github.junrar.rarfile.BlockHeader: long getPackSize()>"
+    ],
+    "\u3e08": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isDirectory()>"
+    ],
+    "\u3e0b": [
+      "F",
+      "<com.github.junrar.Archive$1: com.github.junrar.rarfile.FileHeader next()>"
+    ],
+    "\u3e30": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: void rescale(com.github.junrar.unpack.ppm.ModelPPM)>"
+    ],
+    "\u3e36": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getK2()>"
+    ],
+    "\u3e45": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getK4()>"
+    ],
+    "\u3e4c": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: long getFullUnpackSize()>"
+    ],
+    "\u3e55": [
+      "F",
+      "<com.github.junrar.Archive: java.lang.String getPassword()>"
+    ],
+    "\u3e5c": [
+      "F",
+      "<com.github.junrar.rarfile.MacInfoHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>"
+    ],
+    "\u3e75": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileNameString()>"
+    ],
+    "\u3e79": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: byte[] getInBuf()>"
+    ],
+    "\u3e91": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.rarfile.FileHeader nextFileHeader()>"
+    ],
+    "\u3e99": [
+      "F",
+      "<com.github.junrar.Junrar: java.util.List getContentsDescriptionFromArchive(com.github.junrar.Archive)>"
+    ],
+    "\u3ea8": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: long getPositionInFile()>"
+    ],
+    "\u3ebd": [
+      "F",
+      "<com.github.junrar.Archive: void close()>"
+    ],
+    "\u3ecd": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: int getSuccessor()>"
+    ],
+    "\u3eed": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void prepare(byte[],int,com.github.junrar.unpack.vm.VMPreparedProgram)>"
+    ],
+    "\u3ef1": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: void close()>"
+    ],
+    "\u3f04": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: long readUntil(long)>"
+    ],
+    "\u3f07": [
+      "F",
+      "<com.github.junrar.io.Raw: short readShortLittleEndian(byte[],int)>"
+    ],
+    "\u3f0a": [
+      "F",
+      "<com.github.junrar.io.RawDataIo: int readFully(byte[],int)>"
+    ],
+    "\u3f0e": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMCommands: void <init>(java.lang.String,int,int)>"
+    ],
+    "\u3f3b": [
+      "F",
+      "<com.github.junrar.rarfile.HostSystem: void <init>(java.lang.String,int,byte)>"
+    ],
+    "\u3f40": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: boolean readTables()>"
+    ],
+    "\u3f4a": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void unpack15(boolean)>"
+    ],
+    "\u3f4b": [
+      "F",
+      "<com.github.junrar.UnrarCallback: void volumeProgressChanged(long,long)>"
+    ],
+    "\u3f4e": [
+      "F",
+      "<com.github.junrar.crypt.Rijndael: javax.crypto.Cipher buildDecipherer(java.lang.String,byte[])>"
+    ],
+    "\u3f5b": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void ExecuteStandardFilter(com.github.junrar.unpack.vm.VMStandardFilters)>"
+    ],
+    "\u3f5d": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void huffDecode()>"
+    ],
+    "\u3f6d": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: void seek(long)>"
+    ],
+    "\u3f7f": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.util.Date getMTime()>"
+    ],
+    "\u3f99": [
+      "F",
+      "<com.github.junrar.Archive: void readHeaders(long)>"
+    ],
+    "\u3fa2": [
+      "F",
+      "<com.github.junrar.rarfile.AVHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>"
+    ],
+    "\u3fb7": [
+      "F",
+      "<com.github.junrar.Archive: java.util.List getHeaders()>"
+    ],
+    "\u3fbb": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilters: void <init>(java.lang.String,int,int)>"
+    ],
+    "\u3fbe": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: com.github.junrar.rarfile.UnrarHeadertype getHeaderType()>"
+    ],
+    "\u3fc3": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: void CopyString20(int,int)>"
+    ],
+    "\u3fcc": [
+      "F",
+      "<com.github.junrar.unpack.ppm.StateRef: void decFreq(int)>"
+    ],
+    "\u3fd3": [
+      "F",
+      "<com.github.junrar.unpack.ppm.StateRef: void <init>()>"
+    ],
+    "\u4017": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarMemBlock: int getStamp()>"
+    ],
+    "\u4025": [
+      "F",
+      "<com.github.junrar.rarfile.ProtectHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>"
+    ],
+    "\u4027": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: int getFreq()>"
+    ],
+    "\u4029": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: boolean Overflow(int)>"
+    ],
+    "\u402d": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeader: com.github.junrar.rarfile.SubBlockHeaderType getSubType()>"
+    ],
+    "\u4035": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void decPText(int)>"
+    ],
+    "\u4044": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void getFlagsBuf()>"
+    ],
+    "\u404f": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getPrevSuccess()>"
+    ],
+    "\u4055": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: void <init>(byte[])>"
+    ],
+    "\u405f": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getK5()>"
+    ],
+    "\u4063": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: void unpInitData20(boolean)>"
+    ],
+    "\u406d": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: void <init>()>"
+    ],
+    "\u4074": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int U2B(int)>"
+    ],
+    "\u4089": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void <init>()>"
+    ],
+    "\u4093": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: void print()>"
+    ],
+    "\u40ca": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedOperand: void <init>()>"
+    ],
+    "\u40cb": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: void incFreq(int)>"
+    ],
+    "\u40d8": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: long getLongFilePointer()>"
+    ],
+    "\u40da": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: void init(com.github.junrar.rarfile.FileHeader)>"
+    ],
+    "\u40f9": [
+      "F",
+      "<com.github.junrar.exception.BadRarArchiveException: void <init>()>"
+    ],
+    "\u410d": [
+      "F",
+      "<com.github.junrar.rarfile.MarkHeader: boolean isOldFormat()>"
+    ],
+    "\u4111": [
+      "F",
+      "<com.github.junrar.volume.InputStreamVolume: void <init>(com.github.junrar.Archive,java.io.InputStream,int)>"
+    ],
+    "\u4118": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: int getShortLen2(int)>"
+    ],
+    "\u4119": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyInputStream: void <init>(java.io.InputStream)>"
+    ],
+    "\u4126": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.State getFoundState()>"
+    ],
+    "\u412a": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilterSignature: void <init>(int,int,com.github.junrar.unpack.vm.VMStandardFilters)>"
+    ],
+    "\u413a": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void clean()>"
+    ],
+    "\u4140": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getHiBitsFlag()>"
+    ],
+    "\u4169": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: int read()>"
+    ],
+    "\u416c": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMCommands: int getVMCommand()>"
+    ],
+    "\u4185": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void glueFreeBlocks()>"
+    ],
+    "\u4192": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int expandUnits(int,int)>"
+    ],
+    "\u419a": [
+      "F",
+      "<com.github.junrar.unpack.decode.LitDecode: void <init>()>"
+    ],
+    "\u419b": [
+      "F",
+      "<com.github.junrar.Archive$lambda_getInputStream_0__2: java.lang.Runnable bootstrap$(com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader,java.io.PipedOutputStream)>"
+    ],
+    "\u41a7": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: void print()>"
+    ],
+    "\u41a9": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int decodeChar()>"
+    ],
+    "\u41b5": [
+      "F",
+      "<com.github.junrar.rarfile.UnixOwnersHeader: void print()>"
+    ],
+    "\u41c5": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(com.github.junrar.volume.VolumeManager,com.github.junrar.UnrarCallback,java.lang.String)>"
+    ],
+    "\u41fe": [
+      "F",
+      "<com.github.junrar.Archive$isEncrypted__1: java.util.function.Predicate bootstrap$()>"
+    ],
+    "\u4204": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMFlags: int getFlag()>"
+    ],
+    "\u4218": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeader: void print()>"
+    ],
+    "\u421a": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(com.github.junrar.VolumeManager)>"
+    ],
+    "\u421b": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int[] getHB2Flag()>"
+    ],
+    "\u421c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getNumMasked()>"
+    ],
+    "\u423e": [
+      "F",
+      "<com.github.junrar.LocalFolderExtractor: void <init>(java.io.File)>"
+    ],
+    "\u4258": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedOperand: int getBase()>"
+    ],
+    "\u425c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: void ppmdSwap(com.github.junrar.unpack.ppm.State,com.github.junrar.unpack.ppm.State)>"
+    ],
+    "\u427f": [
+      "F",
+      "<com.github.junrar.Junrar: java.io.File tryToExtract(com.github.junrar.LocalFolderExtractor,com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader)>"
+    ],
+    "\u4280": [
+      "F",
+      "<com.github.junrar.volume.InputStreamVolume: int getPosition()>"
+    ],
+    "\u4298": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: void <init>(com.github.junrar.Archive)>"
+    ],
+    "\u42a3": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void unstoreFile()>"
+    ],
+    "\u42aa": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMPreparedOperand getOp2()>"
+    ],
+    "\u42ab": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.PPMContext getTempPPMContext(byte[])>"
+    ],
+    "\u42b5": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeaderType: short getSubblocktype()>"
+    ],
+    "\u42d4": [
+      "F",
+      "<com.github.junrar.volume.InputStreamVolume: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>"
+    ],
+    "\u42fa": [
+      "F",
+      "<com.github.junrar.unpack.ppm.FreqData: int getSummFreq()>"
+    ],
+    "\u430d": [
+      "F",
+      "<com.github.junrar.volume.FileVolume: java.io.File getFile()>"
+    ],
+    "\u4310": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: com.github.junrar.rarfile.UnrarHeadertype getHeaderType()>"
+    ],
+    "\u4315": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: void <init>()>"
+    ],
+    "\u4329": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMPreparedOperand getOp1()>"
+    ],
+    "\u432a": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: boolean readEndOfBlock()>"
+    ],
+    "\u4337": [
+      "F",
+      "<com.github.junrar.unpack.ppm.BlockTypes: boolean equals(int)>"
+    ],
+    "\u4339": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isMultiVolume()>"
+    ],
+    "\u4340": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: void <init>(com.github.junrar.rarfile.BaseBlock)>"
+    ],
+    "\u434c": [
+      "F",
+      "<com.github.junrar.crc.RarCRC: int checkCrc(int,byte[],int,int)>"
+    ],
+    "\u4357": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: long getCurrentShiftCount(int)>"
+    ],
+    "\u435c": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(java.io.InputStream)>"
+    ],
+    "\u436e": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: void faddbits(int)>"
+    ],
+    "\u4375": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: int getChar()>"
+    ],
+    "\u4380": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getHighCount()>"
+    ],
+    "\u43a0": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMCommands: com.github.junrar.unpack.vm.VMCommands findVMCommand(int)>"
+    ],
+    "\u43b9": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void cleanUp()>"
+    ],
+    "\u43cd": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMCommands: com.github.junrar.unpack.vm.VMCommands[] values()>"
+    ],
+    "\u43ce": [
+      "F",
+      "<com.github.junrar.exception.CrcErrorException: void <init>()>"
+    ],
+    "\u43db": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void oldUnpWriteBuf()>"
+    ],
+    "\u4400": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isProtected()>"
+    ],
+    "\u4416": [
+      "F",
+      "<com.github.junrar.rarfile.MarkHeader: boolean isValid()>"
+    ],
+    "\u442e": [
+      "F",
+      "<com.github.junrar.Archive: byte[] safelyAllocate(long,int)>"
+    ],
+    "\u442f": [
+      "F",
+      "<com.github.junrar.Junrar: void validateDestinationPath(java.io.File)>"
+    ],
+    "\u4441": [
+      "F",
+      "<com.github.junrar.io.RawDataIo: int read(byte[],int,int)>"
+    ],
+    "\u4452": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMCommands: boolean equals(int)>"
+    ],
+    "\u4472": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: byte DecodeAudio(int)>"
+    ],
+    "\u4477": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: void readFully(byte[],int)>"
+    ],
+    "\u4486": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: boolean decodeSymbol2(com.github.junrar.unpack.ppm.ModelPPM)>"
+    ],
+    "\u4498": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: void incEscCount(int)>"
+    ],
+    "\u44a4": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void oldUnpInitData(boolean)>"
+    ],
+    "\u44b1": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SEE2Context: int getSumm()>"
+    ],
+    "\u44c1": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: long getPackSize()>"
+    ],
+    "\u44dc": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: int getOrderFall()>"
+    ],
+    "\u44de": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyByteChannel: void close()>"
+    ],
+    "\u44e9": [
+      "F",
+      "<com.github.junrar.Archive: java.util.List getFileHeaders()>"
+    ],
+    "\u44f6": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: com.github.junrar.unpack.ppm.RangeCoder$SubRange getSubRange()>"
+    ],
+    "\u4514": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: boolean hasArchiveDataCRC()>"
+    ],
+    "\u4527": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.util.Date getATime()>"
+    ],
+    "\u452b": [
+      "F",
+      "<com.github.junrar.Junrar: java.util.List extractArchiveTo(com.github.junrar.Archive,com.github.junrar.LocalFolderExtractor)>"
+    ],
+    "\u4535": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isAV()>"
+    ],
+    "\u4546": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: void init(java.io.OutputStream)>"
+    ],
+    "\u454b": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.PPMContext init(byte[])>"
+    ],
+    "\u4568": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.Vector getStaticData()>"
+    ],
+    "\u456f": [
+      "F",
+      "<com.github.junrar.volume.VolumeHelper: boolean isDigit(char)>"
+    ],
+    "\u4571": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isSubBlock()>"
+    ],
+    "\u4588": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: boolean ReadTables20()>"
+    ],
+    "\u4593": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: int getMean(int,int,int)>"
+    ],
+    "\u4599": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: int unpRead(byte[],int,int)>"
+    ],
+    "\u459c": [
+      "F",
+      "<com.github.junrar.exception.NotRarArchiveException: void <init>()>"
+    ],
+    "\u45b4": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: boolean decodeInit(com.github.junrar.unpack.Unpack,int)>"
+    ],
+    "\u45b9": [
+      "F",
+      "<com.github.junrar.rarfile.FileNameDecoder: int getChar(byte[],int)>"
+    ],
+    "\u45d8": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilters: int getFilter()>"
+    ],
+    "\u45e1": [
+      "F",
+      "<com.github.junrar.io.Raw: int readIntLittleEndian(byte[],int)>"
+    ],
+    "\u45fa": [
+      "F",
+      "<com.github.junrar.volume.InputStreamVolume: long getLength()>"
+    ],
+    "\u4609": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isFirstVolume()>"
+    ],
+    "\u460b": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int getHeapEnd()>"
+    ],
+    "\u4617": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void initSubAllocator()>"
+    ],
+    "\u4626": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: int getExecCount()>"
+    ],
+    "\u4642": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: void clearMask()>"
+    ],
+    "\u4647": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: byte[] getSalt()>"
+    ],
+    "\u464a": [
+      "F",
+      "<com.github.junrar.rarfile.MarkHeader: void <init>(com.github.junrar.rarfile.BaseBlock)>"
+    ],
+    "\u464f": [
+      "F",
+      "<com.github.junrar.io.RandomAccessInputStream: long readLong()>"
+    ],
+    "\u4658": [
+      "F",
+      "<com.github.junrar.unpack.ppm.Pointer: int getAddress()>"
+    ],
+    "\u465a": [
+      "F",
+      "<com.github.junrar.volume.Volume: com.github.junrar.Archive getArchive()>"
+    ],
+    "\u465f": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getD3()>"
+    ],
+    "\u4661": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void <init>(com.github.junrar.unpack.ComprDataIO)>"
+    ],
+    "\u4664": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: void filterItanium_SetBits(int,int,int,int)>"
+    ],
+    "\u4674": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: int[] getInitR()>"
+    ],
+    "\u4699": [
+      "F",
+      "<com.github.junrar.exception.UnsupportedRarV5Exception: void <init>()>"
+    ],
+    "\u469b": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: com.github.junrar.unpack.vm.VMStandardFilters IsStandardFilter(byte[],int)>"
+    ],
+    "\u46a1": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RarMemBlock: int getNU()>"
+    ],
+    "\u46a7": [
+      "F",
+      "<com.github.junrar.rarfile.NewSubHeaderType: void <init>(byte[])>"
+    ],
+    "\u46b7": [
+      "F",
+      "<com.github.junrar.Archive: java.util.Iterator iterator()>"
+    ],
+    "\u46c6": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void UnpWriteArea(int,int)>"
+    ],
+    "\u46ca": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeaderType: com.github.junrar.rarfile.SubBlockHeaderType[] values()>"
+    ],
+    "\u46cc": [
+      "F",
+      "<com.github.junrar.LocalFolderExtractor: java.io.File makeFile(java.io.File,java.lang.String)>"
+    ],
+    "\u46ce": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: void <init>(byte[])>"
+    ],
+    "\u46d3": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getLowCount()>"
+    ],
+    "\u46d7": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: boolean isSolid()>"
+    ],
+    "\u46dc": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: void makeDecodeTables(byte[],int,com.github.junrar.unpack.decode.Decode,int)>"
+    ],
+    "\u46e7": [
+      "F",
+      "<com.github.junrar.unpack.decode.Decode: int getMaxNum()>"
+    ],
+    "\u4706": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: void <init>()>"
+    ],
+    "\u4708": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.rarfile.FileHeader access$000(com.github.junrar.Archive)>"
+    ],
+    "\u4716": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: int getShortLen1(int)>"
+    ],
+    "\u472e": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void unpInitData(boolean)>"
+    ],
+    "\u4749": [
+      "F",
+      "<com.github.junrar.rarfile.UnrarHeadertype: boolean equals(byte)>"
+    ],
+    "\u474d": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: int getCurrentCount()>"
+    ],
+    "\u475b": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isSplitBefore()>"
+    ],
+    "\u4760": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: int getSuffix()>"
+    ],
+    "\u477f": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isFileHeader()>"
+    ],
+    "\u47a5": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: boolean isNextWindow()>"
+    ],
+    "\u47b2": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getLastChar()>"
+    ],
+    "\u47c3": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.rarfile.MainHeader getMainHeader()>"
+    ],
+    "\u47d9": [
+      "F",
+      "<com.github.junrar.Archive: void bytesReadRead(int)>"
+    ],
+    "\u4802": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilters: boolean equals(int)>"
+    ],
+    "\u480c": [
+      "F",
+      "<com.github.junrar.rarfile.CommentHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>"
+    ],
+    "\u481f": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMOpType: void <init>(java.lang.String,int,int)>"
+    ],
+    "\u4824": [
+      "F",
+      "<com.github.junrar.rarfile.MarkHeader: com.github.junrar.rarfile.RARVersion getVersion()>"
+    ],
+    "\u4839": [
+      "F",
+      "<com.github.junrar.unpack.decode.RepDecode: void <init>()>"
+    ],
+    "\u4840": [
+      "F",
+      "<com.github.junrar.Archive: com.github.junrar.volume.Volume getVolume()>"
+    ],
+    "\u485c": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyInputStream: void close()>"
+    ],
+    "\u4868": [
+      "F",
+      "<com.github.junrar.Archive: void <init>(java.io.File,java.lang.String)>"
+    ],
+    "\u4870": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: int ReadData(com.github.junrar.unpack.vm.BitInput)>"
+    ],
+    "\u4873": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: short getHeaderPaddingSize()>"
+    ],
+    "\u4877": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: int getOperand(com.github.junrar.unpack.vm.VMPreparedOperand)>"
+    ],
+    "\u48a8": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: byte getUnpVersion()>"
+    ],
+    "\u48b0": [
+      "F",
+      "<com.github.junrar.ContentDescription: void <init>(java.lang.String,long)>"
+    ],
+    "\u48ba": [
+      "F",
+      "<com.github.junrar.exception.CorruptHeaderException: void <init>()>"
+    ],
+    "\u48c9": [
+      "F",
+      "<com.github.junrar.unpack.decode.LowDistDecode: void <init>()>"
+    ],
+    "\u48ca": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.SEE2Context makeEscFreq2(com.github.junrar.unpack.ppm.ModelPPM,int)>"
+    ],
+    "\u48ea": [
+      "F",
+      "<com.github.junrar.exception.HeaderNotInArchiveException: void <init>()>"
+    ],
+    "\u48f1": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getLastDelta()>"
+    ],
+    "\u48f2": [
+      "F",
+      "<com.github.junrar.unpack.ppm.StateRef: int getFreq()>"
+    ],
+    "\u4900": [
+      "F",
+      "<com.github.junrar.unpack.ppm.BlockTypes: void <init>(java.lang.String,int,int)>"
+    ],
+    "\u4910": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void oldCopyString(int,int)>"
+    ],
+    "\u4928": [
+      "F",
+      "<com.github.junrar.Archive: void extractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>"
+    ],
+    "\u4952": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.Vector getGlobalData()>"
+    ],
+    "\u496d": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void initFilters()>"
+    ],
+    "\u4985": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: void <init>()>"
+    ],
+    "\u498a": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedOperand: int getData()>"
+    ],
+    "\u49b1": [
+      "F",
+      "<com.github.junrar.unpack.vm.RarVM: boolean isVMMem(byte[])>"
+    ],
+    "\u49ba": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isLargeBlock()>"
+    ],
+    "\u49c1": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyFile: void <init>(java.io.File)>"
+    ],
+    "\u49cf": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getD1()>"
+    ],
+    "\u49f3": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: void unpWrite(byte[],int,int)>"
+    ],
+    "\u49ff": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader)>"
+    ],
+    "\u4a28": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilters: com.github.junrar.unpack.vm.VMStandardFilters findFilter(int)>"
+    ],
+    "\u4a2b": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: int getFilteredDataOffset()>"
+    ],
+    "\u4a3f": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getK1()>"
+    ],
+    "\u4a40": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: void <init>()>"
+    ],
+    "\u4a4b": [
+      "F",
+      "<com.github.junrar.unpack.ppm.FreqData: com.github.junrar.unpack.ppm.FreqData init(byte[])>"
+    ],
+    "\u4a55": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: void InitBitInput()>"
+    ],
+    "\u4a5c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State decAddress()>"
+    ],
+    "\u4a76": [
+      "F",
+      "<com.github.junrar.unpack.ppm.AnalyzeHeapDump: void printMismatch(long,long)>"
+    ],
+    "\u4a8e": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilterSignature: int getCRC()>"
+    ],
+    "\u4abf": [
+      "F",
+      "<com.github.junrar.unpack.Unpack20: void ReadLastTables()>"
+    ],
+    "\u4ac7": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: boolean isUnicode()>"
+    ],
+    "\u4add": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State incAddress()>"
+    ],
+    "\u4af5": [
+      "F",
+      "<com.github.junrar.rarfile.BlockHeader: long getDataSize()>"
+    ],
+    "\u4b13": [
+      "F",
+      "<com.github.junrar.io.SeekableReadOnlyInputStream: long getPosition()>"
+    ],
+    "\u4b23": [
+      "F",
+      "<com.github.junrar.rarfile.FileNameDecoder: java.lang.String decode(byte[],int)>"
+    ],
+    "\u4b4d": [
+      "F",
+      "<com.github.junrar.io.Raw: int readIntBigEndian(byte[],int)>"
+    ],
+    "\u4b57": [
+      "F",
+      "<com.github.junrar.LocalFolderExtractor: java.io.File extract(com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader)>"
+    ],
+    "\u4b60": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder: void <init>()>"
+    ],
+    "\u4b61": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: byte[] getHeap()>"
+    ],
+    "\u4b72": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getD4()>"
+    ],
+    "\u4b7b": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void init(byte[])>"
+    ],
+    "\u4bb1": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.List getAltCmd()>"
+    ],
+    "\u4bb9": [
+      "F",
+      "<com.github.junrar.rarfile.SubBlockHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>"
+    ],
+    "\u4bc0": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: int getFilteredDataSize()>"
+    ],
+    "\u4bcb": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SEE2Context: int getMean()>"
+    ],
+    "\u4bd2": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void unpack29(boolean)>"
+    ],
+    "\u4be6": [
+      "F",
+      "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: void incScale(int)>"
+    ],
+    "\u4beb": [
+      "F",
+      "<com.github.junrar.rarfile.UnrarHeadertype: void <init>(java.lang.String,int,byte)>"
+    ],
+    "\u4bf3": [
+      "F",
+      "<com.github.junrar.rarfile.BlockHeader: void print()>"
+    ],
+    "\u4bf7": [
+      "F",
+      "<com.github.junrar.unpack.Unpack15: void shortLZ()>"
+    ],
+    "\u4bf8": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: int getCmdCount()>"
+    ],
+    "\u4c07": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: long getDataSize()>"
+    ],
+    "\u4c1e": [
+      "F",
+      "<com.github.junrar.unpack.decode.AudioVariables: int getByteCount()>"
+    ],
+    "\u4c1f": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.FreqData getFreqData()>"
+    ],
+    "\u4c2c": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: byte[] getHeap()>"
+    ],
+    "\u4c2e": [
+      "F",
+      "<com.github.junrar.rarfile.HostSystem: boolean equals(byte)>"
+    ],
+    "\u4c38": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedOperand: com.github.junrar.unpack.vm.VMOpType getType()>"
+    ],
+    "\u4c3d": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SubAllocator getSubAlloc()>"
+    ],
+    "\u4c46": [
+      "F",
+      "<com.github.junrar.io.Raw: void incShortLittleEndian(byte[],int,int)>"
+    ],
+    "\u4c67": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: boolean startSubAllocator(int)>"
+    ],
+    "\u4c7f": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMStandardFilterSignature: com.github.junrar.unpack.vm.VMStandardFilters getType()>"
+    ],
+    "\u4c8f": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: void stopSubAllocator()>"
+    ],
+    "\u4c9c": [
+      "F",
+      "<com.github.junrar.unpack.vm.BitInput: int fgetbits()>"
+    ],
+    "\u4ca2": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int getPText()>"
+    ],
+    "\u4ca9": [
+      "F",
+      "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.List getCmd()>"
+    ],
+    "\u4cab": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void ExecuteCode(com.github.junrar.unpack.vm.VMPreparedProgram)>"
+    ],
+    "\u4cb5": [
+      "F",
+      "<com.github.junrar.unpack.decode.FilterType: void <init>(java.lang.String,int)>"
+    ],
+    "\u4ccc": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int GetAllocatedMemory()>"
+    ],
+    "\u4cf0": [
+      "F",
+      "<com.github.junrar.unpack.ppm.PPMContext: void decodeBinSymbol(com.github.junrar.unpack.ppm.ModelPPM)>"
+    ],
+    "\u4cf4": [
+      "F",
+      "<com.github.junrar.unpack.Unpack: void UnpWriteBuf()>"
+    ],
+    "\u4d01": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int shrinkUnits(int,int,int)>"
+    ],
+    "\u4d19": [
+      "F",
+      "<com.github.junrar.rarfile.BaseBlock: short getHeaderSize(boolean)>"
+    ],
+    "\u4d37": [
+      "F",
+      "<com.github.junrar.volume.Volume: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>"
+    ],
+    "\u4d4a": [
+      "F",
+      "<com.github.junrar.rarfile.FileHeader: java.util.Date getArcTime()>"
+    ],
+    "\u4d56": [
+      "F",
+      "<com.github.junrar.rarfile.SignHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>"
+    ],
+    "\u4d57": [
+      "F",
+      "<com.github.junrar.unpack.ComprDataIO: com.github.junrar.rarfile.FileHeader getSubHeader()>"
+    ],
+    "\u4d6c": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>"
+    ],
+    "\u4d7b": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.RangeCoder getCoder()>"
+    ],
+    "\u4d7f": [
+      "F",
+      "<com.github.junrar.unpack.ppm.FreqData: void incSummFreq(int)>"
+    ],
+    "\u4d8b": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: int getBlockLength()>"
+    ],
+    "\u4d8e": [
+      "F",
+      "<com.github.junrar.rarfile.EAHeader: void print()>"
+    ],
+    "\u4da8": [
+      "F",
+      "<com.github.junrar.unpack.ppm.SubAllocator: int allocUnits(int)>"
+    ],
+    "\u4da9": [
+      "F",
+      "<com.github.junrar.unpack.ppm.ModelPPM: void restartModelRare()>"
+    ],
+    "\u4dae": [
+      "F",
+      "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State init(byte[])>"
+    ],
+    "\u4daf": [
+      "F",
+      "<com.github.junrar.rarfile.MainHeader: short getHighPosAv()>"
+    ],
+    "\u4db3": [
+      "F",
+      "<com.github.junrar.unpack.UnpackFilter: void <init>()>"
+    ]
+  },
+  "def2var": {
+    "<com.github.junrar.Archive$1: boolean hasNext()>.ITR": "v_25_itr_",
+    "<com.github.junrar.Archive$1: boolean hasNext()>.RET": "v_25_",
+    "<com.github.junrar.Archive$1: com.github.junrar.rarfile.FileHeader next()>.ITR": "v_268_itr_",
+    "<com.github.junrar.Archive$1: com.github.junrar.rarfile.FileHeader next()>.RET": "v_268_",
+    "<com.github.junrar.Archive$1: void <init>(com.github.junrar.Archive)>.ITR": "v_401_itr_",
+    "<com.github.junrar.Archive$1: void <init>(com.github.junrar.Archive)>.RET": "v_401_",
+    "<com.github.junrar.Archive$isEncrypted__1: java.util.function.Predicate bootstrap$()>.ITR": "v_69_itr_",
+    "<com.github.junrar.Archive$isEncrypted__1: java.util.function.Predicate bootstrap$()>.RET": "v_69_",
+    "<com.github.junrar.Archive$lambda_getInputStream_0__2: java.lang.Runnable bootstrap$(com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader,java.io.PipedOutputStream)>.ITR": "v_60_itr_",
+    "<com.github.junrar.Archive$lambda_getInputStream_0__2: java.lang.Runnable bootstrap$(com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader,java.io.PipedOutputStream)>.RET": "v_60_",
+    "<com.github.junrar.Archive: boolean isEncrypted()>.ITR": "v_9_itr_",
+    "<com.github.junrar.Archive: boolean isEncrypted()>.RET": "v_9_",
+    "<com.github.junrar.Archive: boolean isOldFormat()>.ITR": "v_349_itr_",
+    "<com.github.junrar.Archive: boolean isOldFormat()>.RET": "v_349_",
+    "<com.github.junrar.Archive: boolean isPasswordProtected()>.ITR": "v_388_itr_",
+    "<com.github.junrar.Archive: boolean isPasswordProtected()>.RET": "v_388_",
+    "<com.github.junrar.Archive: byte[] safelyAllocate(long,int)>.ITR": "v_444_itr_",
+    "<com.github.junrar.Archive: byte[] safelyAllocate(long,int)>.RET": "v_444_",
+    "<com.github.junrar.Archive: com.github.junrar.UnrarCallback getUnrarCallback()>.ITR": "v_0_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.UnrarCallback getUnrarCallback()>.RET": "v_0_",
+    "<com.github.junrar.Archive: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>.ITR": "v_308_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>.RET": "v_308_",
+    "<com.github.junrar.Archive: com.github.junrar.rarfile.FileHeader access$000(com.github.junrar.Archive)>.ITR": "v_428_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.rarfile.FileHeader access$000(com.github.junrar.Archive)>.RET": "v_428_",
+    "<com.github.junrar.Archive: com.github.junrar.rarfile.FileHeader nextFileHeader()>.ITR": "v_4_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.rarfile.FileHeader nextFileHeader()>.RET": "v_4_",
+    "<com.github.junrar.Archive: com.github.junrar.rarfile.MainHeader getMainHeader()>.ITR": "v_357_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.rarfile.MainHeader getMainHeader()>.RET": "v_357_",
+    "<com.github.junrar.Archive: com.github.junrar.volume.Volume getVolume()>.ITR": "v_65_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.volume.Volume getVolume()>.RET": "v_65_",
+    "<com.github.junrar.Archive: com.github.junrar.volume.VolumeManager getVolumeManager()>.ITR": "v_138_itr_",
+    "<com.github.junrar.Archive: com.github.junrar.volume.VolumeManager getVolumeManager()>.RET": "v_138_",
+    "<com.github.junrar.Archive: java.io.InputStream getInputStream(com.github.junrar.rarfile.FileHeader)>.ITR": "v_109_itr_",
+    "<com.github.junrar.Archive: java.io.InputStream getInputStream(com.github.junrar.rarfile.FileHeader)>.RET": "v_109_",
+    "<com.github.junrar.Archive: java.lang.String getPassword()>.ITR": "v_100_itr_",
+    "<com.github.junrar.Archive: java.lang.String getPassword()>.RET": "v_100_",
+    "<com.github.junrar.Archive: java.util.Iterator iterator()>.ITR": "v_51_itr_",
+    "<com.github.junrar.Archive: java.util.Iterator iterator()>.RET": "v_51_",
+    "<com.github.junrar.Archive: java.util.List getFileHeaders()>.ITR": "v_194_itr_",
+    "<com.github.junrar.Archive: java.util.List getFileHeaders()>.RET": "v_194_",
+    "<com.github.junrar.Archive: java.util.List getHeaders()>.ITR": "v_71_itr_",
+    "<com.github.junrar.Archive: java.util.List getHeaders()>.RET": "v_71_",
+    "<com.github.junrar.Archive: void <init>(com.github.junrar.VolumeManager)>.ITR": "v_276_itr_",
+    "<com.github.junrar.Archive: void <init>(com.github.junrar.VolumeManager)>.RET": "v_276_",
+    "<com.github.junrar.Archive: void <init>(com.github.junrar.volume.VolumeManager,com.github.junrar.UnrarCallback,java.lang.String)>.ITR": "v_372_itr_",
+    "<com.github.junrar.Archive: void <init>(com.github.junrar.volume.VolumeManager,com.github.junrar.UnrarCallback,java.lang.String)>.RET": "v_372_",
+    "<com.github.junrar.Archive: void <init>(java.io.File)>.ITR": "v_191_itr_",
+    "<com.github.junrar.Archive: void <init>(java.io.File)>.RET": "v_191_",
+    "<com.github.junrar.Archive: void <init>(java.io.File,com.github.junrar.UnrarCallback)>.ITR": "v_74_itr_",
+    "<com.github.junrar.Archive: void <init>(java.io.File,com.github.junrar.UnrarCallback)>.RET": "v_74_",
+    "<com.github.junrar.Archive: void <init>(java.io.File,java.lang.String)>.ITR": "v_322_itr_",
+    "<com.github.junrar.Archive: void <init>(java.io.File,java.lang.String)>.RET": "v_322_",
+    "<com.github.junrar.Archive: void <init>(java.io.InputStream)>.ITR": "v_186_itr_",
+    "<com.github.junrar.Archive: void <init>(java.io.InputStream)>.RET": "v_186_",
+    "<com.github.junrar.Archive: void <init>(java.io.InputStream,java.lang.String)>.ITR": "v_371_itr_",
+    "<com.github.junrar.Archive: void <init>(java.io.InputStream,java.lang.String)>.RET": "v_371_",
+    "<com.github.junrar.Archive: void bytesReadRead(int)>.ITR": "v_98_itr_",
+    "<com.github.junrar.Archive: void bytesReadRead(int)>.RET": "v_98_",
+    "<com.github.junrar.Archive: void close()>.ITR": "v_187_itr_",
+    "<com.github.junrar.Archive: void close()>.RET": "v_187_",
+    "<com.github.junrar.Archive: void doExtractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>.ITR": "v_306_itr_",
+    "<com.github.junrar.Archive: void doExtractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>.RET": "v_306_",
+    "<com.github.junrar.Archive: void extractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>.ITR": "v_247_itr_",
+    "<com.github.junrar.Archive: void extractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>.RET": "v_247_",
+    "<com.github.junrar.Archive: void readHeaders(long)>.ITR": "v_374_itr_",
+    "<com.github.junrar.Archive: void readHeaders(long)>.RET": "v_374_",
+    "<com.github.junrar.ContentDescription: void <init>(java.lang.String,long)>.ITR": "v_85_itr_",
+    "<com.github.junrar.ContentDescription: void <init>(java.lang.String,long)>.RET": "v_85_",
+    "<com.github.junrar.Junrar: java.io.File tryToExtract(com.github.junrar.LocalFolderExtractor,com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader)>.ITR": "v_434_itr_",
+    "<com.github.junrar.Junrar: java.io.File tryToExtract(com.github.junrar.LocalFolderExtractor,com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader)>.RET": "v_434_",
+    "<com.github.junrar.Junrar: java.util.List extract(java.io.File,java.io.File,java.lang.String)>.ITR": "v_126_itr_",
+    "<com.github.junrar.Junrar: java.util.List extract(java.io.File,java.io.File,java.lang.String)>.RET": "v_126_",
+    "<com.github.junrar.Junrar: java.util.List extractArchiveTo(com.github.junrar.Archive,com.github.junrar.LocalFolderExtractor)>.ITR": "v_319_itr_",
+    "<com.github.junrar.Junrar: java.util.List extractArchiveTo(com.github.junrar.Archive,com.github.junrar.LocalFolderExtractor)>.RET": "v_319_",
+    "<com.github.junrar.Junrar: java.util.List getContentsDescriptionFromArchive(com.github.junrar.Archive)>.ITR": "v_430_itr_",
+    "<com.github.junrar.Junrar: java.util.List getContentsDescriptionFromArchive(com.github.junrar.Archive)>.RET": "v_430_",
+    "<com.github.junrar.Junrar: void validateDestinationPath(java.io.File)>.ITR": "v_339_itr_",
+    "<com.github.junrar.Junrar: void validateDestinationPath(java.io.File)>.RET": "v_339_",
+    "<com.github.junrar.LocalFolderExtractor: java.io.File extract(com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader)>.ITR": "v_77_itr_",
+    "<com.github.junrar.LocalFolderExtractor: java.io.File extract(com.github.junrar.Archive,com.github.junrar.rarfile.FileHeader)>.RET": "v_77_",
+    "<com.github.junrar.LocalFolderExtractor: java.io.File makeFile(java.io.File,java.lang.String)>.ITR": "v_132_itr_",
+    "<com.github.junrar.LocalFolderExtractor: java.io.File makeFile(java.io.File,java.lang.String)>.RET": "v_132_",
+    "<com.github.junrar.LocalFolderExtractor: void <init>(java.io.File)>.ITR": "v_90_itr_",
+    "<com.github.junrar.LocalFolderExtractor: void <init>(java.io.File)>.RET": "v_90_",
+    "<com.github.junrar.UnrarCallback: boolean isNextVolumeReady(com.github.junrar.volume.Volume)>.ITR": "v_68_itr_",
+    "<com.github.junrar.UnrarCallback: boolean isNextVolumeReady(com.github.junrar.volume.Volume)>.RET": "v_68_",
+    "<com.github.junrar.UnrarCallback: void volumeProgressChanged(long,long)>.ITR": "v_11_itr_",
+    "<com.github.junrar.UnrarCallback: void volumeProgressChanged(long,long)>.RET": "v_11_",
+    "<com.github.junrar.crc.RarCRC: int checkCrc(int,byte[],int,int)>.ITR": "v_440_itr_",
+    "<com.github.junrar.crc.RarCRC: int checkCrc(int,byte[],int,int)>.RET": "v_440_",
+    "<com.github.junrar.crypt.Rijndael: javax.crypto.Cipher buildDecipherer(java.lang.String,byte[])>.ITR": "v_393_itr_",
+    "<com.github.junrar.crypt.Rijndael: javax.crypto.Cipher buildDecipherer(java.lang.String,byte[])>.RET": "v_393_",
+    "<com.github.junrar.exception.BadRarArchiveException: void <init>()>.ITR": "v_81_itr_",
+    "<com.github.junrar.exception.BadRarArchiveException: void <init>()>.RET": "v_81_",
+    "<com.github.junrar.exception.CorruptHeaderException: void <init>()>.ITR": "v_315_itr_",
+    "<com.github.junrar.exception.CorruptHeaderException: void <init>()>.RET": "v_315_",
+    "<com.github.junrar.exception.CrcErrorException: void <init>()>.ITR": "v_275_itr_",
+    "<com.github.junrar.exception.CrcErrorException: void <init>()>.RET": "v_275_",
+    "<com.github.junrar.exception.HeaderNotInArchiveException: void <init>()>.ITR": "v_300_itr_",
+    "<com.github.junrar.exception.HeaderNotInArchiveException: void <init>()>.RET": "v_300_",
+    "<com.github.junrar.exception.MainHeaderNullException: void <init>()>.ITR": "v_254_itr_",
+    "<com.github.junrar.exception.MainHeaderNullException: void <init>()>.RET": "v_254_",
+    "<com.github.junrar.exception.NotRarArchiveException: void <init>()>.ITR": "v_150_itr_",
+    "<com.github.junrar.exception.NotRarArchiveException: void <init>()>.RET": "v_150_",
+    "<com.github.junrar.exception.RarException: void <init>()>.ITR": "v_313_itr_",
+    "<com.github.junrar.exception.RarException: void <init>()>.RET": "v_313_",
+    "<com.github.junrar.exception.RarException: void <init>(java.lang.Throwable)>.ITR": "v_277_itr_",
+    "<com.github.junrar.exception.RarException: void <init>(java.lang.Throwable)>.RET": "v_277_",
+    "<com.github.junrar.exception.UnsupportedRarV5Exception: void <init>()>.ITR": "v_188_itr_",
+    "<com.github.junrar.exception.UnsupportedRarV5Exception: void <init>()>.RET": "v_188_",
+    "<com.github.junrar.io.RandomAccessInputStream: int read()>.ITR": "v_334_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: int read()>.RET": "v_334_",
+    "<com.github.junrar.io.RandomAccessInputStream: int read(byte[],int,int)>.ITR": "v_148_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: int read(byte[],int,int)>.RET": "v_148_",
+    "<com.github.junrar.io.RandomAccessInputStream: int readInt()>.ITR": "v_63_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: int readInt()>.RET": "v_63_",
+    "<com.github.junrar.io.RandomAccessInputStream: long getLongFilePointer()>.ITR": "v_325_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: long getLongFilePointer()>.RET": "v_325_",
+    "<com.github.junrar.io.RandomAccessInputStream: long readLong()>.ITR": "v_296_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: long readLong()>.RET": "v_296_",
+    "<com.github.junrar.io.RandomAccessInputStream: long readUntil(long)>.ITR": "v_379_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: long readUntil(long)>.RET": "v_379_",
+    "<com.github.junrar.io.RandomAccessInputStream: void <init>(java.io.InputStream)>.ITR": "v_55_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: void <init>(java.io.InputStream)>.RET": "v_55_",
+    "<com.github.junrar.io.RandomAccessInputStream: void close()>.ITR": "v_342_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: void close()>.RET": "v_342_",
+    "<com.github.junrar.io.RandomAccessInputStream: void readFully(byte[],int)>.ITR": "v_258_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: void readFully(byte[],int)>.RET": "v_258_",
+    "<com.github.junrar.io.RandomAccessInputStream: void seek(long)>.ITR": "v_248_itr_",
+    "<com.github.junrar.io.RandomAccessInputStream: void seek(long)>.RET": "v_248_",
+    "<com.github.junrar.io.Raw: int readIntBigEndian(byte[],int)>.ITR": "v_365_itr_",
+    "<com.github.junrar.io.Raw: int readIntBigEndian(byte[],int)>.RET": "v_365_",
+    "<com.github.junrar.io.Raw: int readIntLittleEndian(byte[],int)>.ITR": "v_198_itr_",
+    "<com.github.junrar.io.Raw: int readIntLittleEndian(byte[],int)>.RET": "v_198_",
+    "<com.github.junrar.io.Raw: long readIntLittleEndianAsLong(byte[],int)>.ITR": "v_15_itr_",
+    "<com.github.junrar.io.Raw: long readIntLittleEndianAsLong(byte[],int)>.RET": "v_15_",
+    "<com.github.junrar.io.Raw: short readShortLittleEndian(byte[],int)>.ITR": "v_203_itr_",
+    "<com.github.junrar.io.Raw: short readShortLittleEndian(byte[],int)>.RET": "v_203_",
+    "<com.github.junrar.io.Raw: void incShortLittleEndian(byte[],int,int)>.ITR": "v_43_itr_",
+    "<com.github.junrar.io.Raw: void incShortLittleEndian(byte[],int,int)>.RET": "v_43_",
+    "<com.github.junrar.io.RawDataIo: int read(byte[],int,int)>.ITR": "v_330_itr_",
+    "<com.github.junrar.io.RawDataIo: int read(byte[],int,int)>.RET": "v_330_",
+    "<com.github.junrar.io.RawDataIo: int readFully(byte[],int)>.ITR": "v_327_itr_",
+    "<com.github.junrar.io.RawDataIo: int readFully(byte[],int)>.RET": "v_327_",
+    "<com.github.junrar.io.RawDataIo: void <init>(com.github.junrar.io.SeekableReadOnlyByteChannel)>.ITR": "v_67_itr_",
+    "<com.github.junrar.io.RawDataIo: void <init>(com.github.junrar.io.SeekableReadOnlyByteChannel)>.RET": "v_67_",
+    "<com.github.junrar.io.SeekableReadOnlyByteChannel: long getPosition()>.ITR": "v_41_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyByteChannel: long getPosition()>.RET": "v_41_",
+    "<com.github.junrar.io.SeekableReadOnlyByteChannel: void close()>.ITR": "v_122_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyByteChannel: void close()>.RET": "v_122_",
+    "<com.github.junrar.io.SeekableReadOnlyFile: void <init>(java.io.File)>.ITR": "v_179_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyFile: void <init>(java.io.File)>.RET": "v_179_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: int readFully(byte[],int)>.ITR": "v_380_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: int readFully(byte[],int)>.RET": "v_380_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: long getPosition()>.ITR": "v_375_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: long getPosition()>.RET": "v_375_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: void <init>(java.io.InputStream)>.ITR": "v_161_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: void <init>(java.io.InputStream)>.RET": "v_161_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: void close()>.ITR": "v_29_itr_",
+    "<com.github.junrar.io.SeekableReadOnlyInputStream: void close()>.RET": "v_29_",
+    "<com.github.junrar.rarfile.AVHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.ITR": "v_143_itr_",
+    "<com.github.junrar.rarfile.AVHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.RET": "v_143_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean hasArchiveDataCRC()>.ITR": "v_102_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean hasArchiveDataCRC()>.RET": "v_102_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean hasEncryptVersion()>.ITR": "v_312_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean hasEncryptVersion()>.RET": "v_312_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean hasVolumeNumber()>.ITR": "v_159_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean hasVolumeNumber()>.RET": "v_159_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean isSubBlock()>.ITR": "v_351_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: boolean isSubBlock()>.RET": "v_351_",
+    "<com.github.junrar.rarfile.BaseBlock: com.github.junrar.rarfile.UnrarHeadertype getHeaderType()>.ITR": "v_367_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: com.github.junrar.rarfile.UnrarHeadertype getHeaderType()>.RET": "v_367_",
+    "<com.github.junrar.rarfile.BaseBlock: long getPositionInFile()>.ITR": "v_112_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: long getPositionInFile()>.RET": "v_112_",
+    "<com.github.junrar.rarfile.BaseBlock: short getFlags()>.ITR": "v_255_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: short getFlags()>.RET": "v_255_",
+    "<com.github.junrar.rarfile.BaseBlock: short getHeadCRC()>.ITR": "v_423_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: short getHeadCRC()>.RET": "v_423_",
+    "<com.github.junrar.rarfile.BaseBlock: short getHeaderPaddingSize()>.ITR": "v_221_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: short getHeaderPaddingSize()>.RET": "v_221_",
+    "<com.github.junrar.rarfile.BaseBlock: short getHeaderSize(boolean)>.ITR": "v_210_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: short getHeaderSize(boolean)>.RET": "v_210_",
+    "<com.github.junrar.rarfile.BaseBlock: void <init>()>.ITR": "v_398_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: void <init>()>.RET": "v_398_",
+    "<com.github.junrar.rarfile.BaseBlock: void <init>(byte[])>.ITR": "v_389_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: void <init>(byte[])>.RET": "v_389_",
+    "<com.github.junrar.rarfile.BaseBlock: void <init>(com.github.junrar.rarfile.BaseBlock)>.ITR": "v_414_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: void <init>(com.github.junrar.rarfile.BaseBlock)>.RET": "v_414_",
+    "<com.github.junrar.rarfile.BaseBlock: void print()>.ITR": "v_385_itr_",
+    "<com.github.junrar.rarfile.BaseBlock: void print()>.RET": "v_385_",
+    "<com.github.junrar.rarfile.BlockHeader: long getDataSize()>.ITR": "v_361_itr_",
+    "<com.github.junrar.rarfile.BlockHeader: long getDataSize()>.RET": "v_361_",
+    "<com.github.junrar.rarfile.BlockHeader: long getPackSize()>.ITR": "v_297_itr_",
+    "<com.github.junrar.rarfile.BlockHeader: long getPackSize()>.RET": "v_297_",
+    "<com.github.junrar.rarfile.BlockHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.ITR": "v_212_itr_",
+    "<com.github.junrar.rarfile.BlockHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.RET": "v_212_",
+    "<com.github.junrar.rarfile.BlockHeader: void <init>(com.github.junrar.rarfile.BlockHeader)>.ITR": "v_318_itr_",
+    "<com.github.junrar.rarfile.BlockHeader: void <init>(com.github.junrar.rarfile.BlockHeader)>.RET": "v_318_",
+    "<com.github.junrar.rarfile.BlockHeader: void print()>.ITR": "v_169_itr_",
+    "<com.github.junrar.rarfile.BlockHeader: void print()>.RET": "v_169_",
+    "<com.github.junrar.rarfile.CommentHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.ITR": "v_189_itr_",
+    "<com.github.junrar.rarfile.CommentHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.RET": "v_189_",
+    "<com.github.junrar.rarfile.EAHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>.ITR": "v_184_itr_",
+    "<com.github.junrar.rarfile.EAHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>.RET": "v_184_",
+    "<com.github.junrar.rarfile.EAHeader: void print()>.ITR": "v_348_itr_",
+    "<com.github.junrar.rarfile.EAHeader: void print()>.RET": "v_348_",
+    "<com.github.junrar.rarfile.EndArcHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.ITR": "v_57_itr_",
+    "<com.github.junrar.rarfile.EndArcHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.RET": "v_57_",
+    "<com.github.junrar.rarfile.FileHeader: boolean hasEncryptVersion()>.ITR": "v_40_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean hasEncryptVersion()>.RET": "v_40_",
+    "<com.github.junrar.rarfile.FileHeader: boolean hasSalt()>.ITR": "v_404_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean hasSalt()>.RET": "v_404_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isDirectory()>.ITR": "v_259_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isDirectory()>.RET": "v_259_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isEncrypted()>.ITR": "v_320_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isEncrypted()>.RET": "v_320_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isFileHeader()>.ITR": "v_220_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isFileHeader()>.RET": "v_220_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isLargeBlock()>.ITR": "v_429_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isLargeBlock()>.RET": "v_429_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSolid()>.ITR": "v_160_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSolid()>.RET": "v_160_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSplitAfter()>.ITR": "v_269_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSplitAfter()>.RET": "v_269_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSplitBefore()>.ITR": "v_196_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSplitBefore()>.RET": "v_196_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSubBlock()>.ITR": "v_333_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isSubBlock()>.RET": "v_333_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isUnicode()>.ITR": "v_30_itr_",
+    "<com.github.junrar.rarfile.FileHeader: boolean isUnicode()>.RET": "v_30_",
+    "<com.github.junrar.rarfile.FileHeader: byte getUnpMethod()>.ITR": "v_215_itr_",
+    "<com.github.junrar.rarfile.FileHeader: byte getUnpMethod()>.RET": "v_215_",
+    "<com.github.junrar.rarfile.FileHeader: byte getUnpVersion()>.ITR": "v_59_itr_",
+    "<com.github.junrar.rarfile.FileHeader: byte getUnpVersion()>.RET": "v_59_",
+    "<com.github.junrar.rarfile.FileHeader: byte[] getSalt()>.ITR": "v_267_itr_",
+    "<com.github.junrar.rarfile.FileHeader: byte[] getSalt()>.RET": "v_267_",
+    "<com.github.junrar.rarfile.FileHeader: com.github.junrar.rarfile.UnrarHeadertype getHeaderType()>.ITR": "v_28_itr_",
+    "<com.github.junrar.rarfile.FileHeader: com.github.junrar.rarfile.UnrarHeadertype getHeaderType()>.RET": "v_28_",
+    "<com.github.junrar.rarfile.FileHeader: int getFileCRC()>.ITR": "v_21_itr_",
+    "<com.github.junrar.rarfile.FileHeader: int getFileCRC()>.RET": "v_21_",
+    "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileName()>.ITR": "v_216_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileName()>.RET": "v_216_",
+    "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileNameString()>.ITR": "v_377_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileNameString()>.RET": "v_377_",
+    "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileNameW()>.ITR": "v_101_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.lang.String getFileNameW()>.RET": "v_101_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getATime()>.ITR": "v_107_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getATime()>.RET": "v_107_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getArcTime()>.ITR": "v_174_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getArcTime()>.RET": "v_174_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getCTime()>.ITR": "v_310_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getCTime()>.RET": "v_310_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getDateDos(int)>.ITR": "v_22_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getDateDos(int)>.RET": "v_22_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getMTime()>.ITR": "v_158_itr_",
+    "<com.github.junrar.rarfile.FileHeader: java.util.Date getMTime()>.RET": "v_158_",
+    "<com.github.junrar.rarfile.FileHeader: long getDataSize()>.ITR": "v_172_itr_",
+    "<com.github.junrar.rarfile.FileHeader: long getDataSize()>.RET": "v_172_",
+    "<com.github.junrar.rarfile.FileHeader: long getFullPackSize()>.ITR": "v_76_itr_",
+    "<com.github.junrar.rarfile.FileHeader: long getFullPackSize()>.RET": "v_76_",
+    "<com.github.junrar.rarfile.FileHeader: long getFullUnpackSize()>.ITR": "v_412_itr_",
+    "<com.github.junrar.rarfile.FileHeader: long getFullUnpackSize()>.RET": "v_412_",
+    "<com.github.junrar.rarfile.FileHeader: long getPackSize()>.ITR": "v_232_itr_",
+    "<com.github.junrar.rarfile.FileHeader: long getPackSize()>.RET": "v_232_",
+    "<com.github.junrar.rarfile.FileHeader: long getUnpSize()>.ITR": "v_64_itr_",
+    "<com.github.junrar.rarfile.FileHeader: long getUnpSize()>.RET": "v_64_",
+    "<com.github.junrar.rarfile.FileHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>.ITR": "v_260_itr_",
+    "<com.github.junrar.rarfile.FileHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>.RET": "v_260_",
+    "<com.github.junrar.rarfile.FileHeader: void print()>.ITR": "v_175_itr_",
+    "<com.github.junrar.rarfile.FileHeader: void print()>.RET": "v_175_",
+    "<com.github.junrar.rarfile.FileNameDecoder: int getChar(byte[],int)>.ITR": "v_243_itr_",
+    "<com.github.junrar.rarfile.FileNameDecoder: int getChar(byte[],int)>.RET": "v_243_",
+    "<com.github.junrar.rarfile.FileNameDecoder: java.lang.String decode(byte[],int)>.ITR": "v_157_itr_",
+    "<com.github.junrar.rarfile.FileNameDecoder: java.lang.String decode(byte[],int)>.RET": "v_157_",
+    "<com.github.junrar.rarfile.HostSystem: boolean equals(byte)>.ITR": "v_167_itr_",
+    "<com.github.junrar.rarfile.HostSystem: boolean equals(byte)>.RET": "v_167_",
+    "<com.github.junrar.rarfile.HostSystem: com.github.junrar.rarfile.HostSystem findHostSystem(byte)>.ITR": "v_392_itr_",
+    "<com.github.junrar.rarfile.HostSystem: com.github.junrar.rarfile.HostSystem findHostSystem(byte)>.RET": "v_392_",
+    "<com.github.junrar.rarfile.HostSystem: void <init>(java.lang.String,int,byte)>.ITR": "v_234_itr_",
+    "<com.github.junrar.rarfile.HostSystem: void <init>(java.lang.String,int,byte)>.RET": "v_234_",
+    "<com.github.junrar.rarfile.MacInfoHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>.ITR": "v_49_itr_",
+    "<com.github.junrar.rarfile.MacInfoHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>.RET": "v_49_",
+    "<com.github.junrar.rarfile.MacInfoHeader: void print()>.ITR": "v_337_itr_",
+    "<com.github.junrar.rarfile.MacInfoHeader: void print()>.RET": "v_337_",
+    "<com.github.junrar.rarfile.MainHeader: boolean hasArchCmt()>.ITR": "v_240_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean hasArchCmt()>.RET": "v_240_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isAV()>.ITR": "v_141_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isAV()>.RET": "v_141_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isEncrypted()>.ITR": "v_405_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isEncrypted()>.RET": "v_405_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isFirstVolume()>.ITR": "v_131_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isFirstVolume()>.RET": "v_131_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isLocked()>.ITR": "v_94_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isLocked()>.RET": "v_94_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isMultiVolume()>.ITR": "v_408_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isMultiVolume()>.RET": "v_408_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isNewNumbering()>.ITR": "v_3_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isNewNumbering()>.RET": "v_3_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isProtected()>.ITR": "v_204_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isProtected()>.RET": "v_204_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isSolid()>.ITR": "v_294_itr_",
+    "<com.github.junrar.rarfile.MainHeader: boolean isSolid()>.RET": "v_294_",
+    "<com.github.junrar.rarfile.MainHeader: byte getEncryptVersion()>.ITR": "v_384_itr_",
+    "<com.github.junrar.rarfile.MainHeader: byte getEncryptVersion()>.RET": "v_384_",
+    "<com.github.junrar.rarfile.MainHeader: int getPosAv()>.ITR": "v_38_itr_",
+    "<com.github.junrar.rarfile.MainHeader: int getPosAv()>.RET": "v_38_",
+    "<com.github.junrar.rarfile.MainHeader: short getHighPosAv()>.ITR": "v_75_itr_",
+    "<com.github.junrar.rarfile.MainHeader: short getHighPosAv()>.RET": "v_75_",
+    "<com.github.junrar.rarfile.MainHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.ITR": "v_70_itr_",
+    "<com.github.junrar.rarfile.MainHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.RET": "v_70_",
+    "<com.github.junrar.rarfile.MainHeader: void print()>.ITR": "v_23_itr_",
+    "<com.github.junrar.rarfile.MainHeader: void print()>.RET": "v_23_",
+    "<com.github.junrar.rarfile.MarkHeader: boolean isOldFormat()>.ITR": "v_224_itr_",
+    "<com.github.junrar.rarfile.MarkHeader: boolean isOldFormat()>.RET": "v_224_",
+    "<com.github.junrar.rarfile.MarkHeader: boolean isSignature()>.ITR": "v_166_itr_",
+    "<com.github.junrar.rarfile.MarkHeader: boolean isSignature()>.RET": "v_166_",
+    "<com.github.junrar.rarfile.MarkHeader: boolean isValid()>.ITR": "v_97_itr_",
+    "<com.github.junrar.rarfile.MarkHeader: boolean isValid()>.RET": "v_97_",
+    "<com.github.junrar.rarfile.MarkHeader: com.github.junrar.rarfile.RARVersion getVersion()>.ITR": "v_165_itr_",
+    "<com.github.junrar.rarfile.MarkHeader: com.github.junrar.rarfile.RARVersion getVersion()>.RET": "v_165_",
+    "<com.github.junrar.rarfile.MarkHeader: void <init>(com.github.junrar.rarfile.BaseBlock)>.ITR": "v_153_itr_",
+    "<com.github.junrar.rarfile.MarkHeader: void <init>(com.github.junrar.rarfile.BaseBlock)>.RET": "v_153_",
+    "<com.github.junrar.rarfile.NewSubHeaderType: boolean byteEquals(byte[])>.ITR": "v_347_itr_",
+    "<com.github.junrar.rarfile.NewSubHeaderType: boolean byteEquals(byte[])>.RET": "v_347_",
+    "<com.github.junrar.rarfile.NewSubHeaderType: void <init>(byte[])>.ITR": "v_419_itr_",
+    "<com.github.junrar.rarfile.NewSubHeaderType: void <init>(byte[])>.RET": "v_419_",
+    "<com.github.junrar.rarfile.ProtectHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>.ITR": "v_370_itr_",
+    "<com.github.junrar.rarfile.ProtectHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>.RET": "v_370_",
+    "<com.github.junrar.rarfile.RARVersion: void <init>(java.lang.String,int)>.ITR": "v_387_itr_",
+    "<com.github.junrar.rarfile.RARVersion: void <init>(java.lang.String,int)>.RET": "v_387_",
+    "<com.github.junrar.rarfile.SignHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.ITR": "v_201_itr_",
+    "<com.github.junrar.rarfile.SignHeader: void <init>(com.github.junrar.rarfile.BaseBlock,byte[])>.RET": "v_201_",
+    "<com.github.junrar.rarfile.SubBlockHeader: byte getLevel()>.ITR": "v_50_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeader: byte getLevel()>.RET": "v_50_",
+    "<com.github.junrar.rarfile.SubBlockHeader: com.github.junrar.rarfile.SubBlockHeaderType getSubType()>.ITR": "v_253_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeader: com.github.junrar.rarfile.SubBlockHeaderType getSubType()>.RET": "v_253_",
+    "<com.github.junrar.rarfile.SubBlockHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>.ITR": "v_228_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeader: void <init>(com.github.junrar.rarfile.BlockHeader,byte[])>.RET": "v_228_",
+    "<com.github.junrar.rarfile.SubBlockHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader)>.ITR": "v_402_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader)>.RET": "v_402_",
+    "<com.github.junrar.rarfile.SubBlockHeader: void print()>.ITR": "v_359_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeader: void print()>.RET": "v_359_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: boolean equals(short)>.ITR": "v_88_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: boolean equals(short)>.RET": "v_88_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: com.github.junrar.rarfile.SubBlockHeaderType[] values()>.ITR": "v_238_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: com.github.junrar.rarfile.SubBlockHeaderType[] values()>.RET": "v_238_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: short getSubblocktype()>.ITR": "v_125_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: short getSubblocktype()>.RET": "v_125_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: void <init>(java.lang.String,int,short)>.ITR": "v_252_itr_",
+    "<com.github.junrar.rarfile.SubBlockHeaderType: void <init>(java.lang.String,int,short)>.RET": "v_252_",
+    "<com.github.junrar.rarfile.UnixOwnersHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>.ITR": "v_369_itr_",
+    "<com.github.junrar.rarfile.UnixOwnersHeader: void <init>(com.github.junrar.rarfile.SubBlockHeader,byte[])>.RET": "v_369_",
+    "<com.github.junrar.rarfile.UnixOwnersHeader: void print()>.ITR": "v_438_itr_",
+    "<com.github.junrar.rarfile.UnixOwnersHeader: void print()>.RET": "v_438_",
+    "<com.github.junrar.rarfile.UnrarHeadertype: boolean equals(byte)>.ITR": "v_145_itr_",
+    "<com.github.junrar.rarfile.UnrarHeadertype: boolean equals(byte)>.RET": "v_145_",
+    "<com.github.junrar.rarfile.UnrarHeadertype: byte getHeaderByte()>.ITR": "v_39_itr_",
+    "<com.github.junrar.rarfile.UnrarHeadertype: byte getHeaderByte()>.RET": "v_39_",
+    "<com.github.junrar.rarfile.UnrarHeadertype: void <init>(java.lang.String,int,byte)>.ITR": "v_400_itr_",
+    "<com.github.junrar.rarfile.UnrarHeadertype: void <init>(java.lang.String,int,byte)>.RET": "v_400_",
+    "<com.github.junrar.unpack.ComprDataIO: com.github.junrar.rarfile.FileHeader getSubHeader()>.ITR": "v_66_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: com.github.junrar.rarfile.FileHeader getSubHeader()>.RET": "v_66_",
+    "<com.github.junrar.unpack.ComprDataIO: int unpRead(byte[],int,int)>.ITR": "v_270_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: int unpRead(byte[],int,int)>.RET": "v_270_",
+    "<com.github.junrar.unpack.ComprDataIO: long getPackedCRC()>.ITR": "v_12_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: long getPackedCRC()>.RET": "v_12_",
+    "<com.github.junrar.unpack.ComprDataIO: long getUnpFileCRC()>.ITR": "v_230_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: long getUnpFileCRC()>.RET": "v_230_",
+    "<com.github.junrar.unpack.ComprDataIO: void <init>(com.github.junrar.Archive)>.ITR": "v_321_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: void <init>(com.github.junrar.Archive)>.RET": "v_321_",
+    "<com.github.junrar.unpack.ComprDataIO: void init(com.github.junrar.rarfile.FileHeader)>.ITR": "v_185_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: void init(com.github.junrar.rarfile.FileHeader)>.RET": "v_185_",
+    "<com.github.junrar.unpack.ComprDataIO: void init(java.io.OutputStream)>.ITR": "v_6_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: void init(java.io.OutputStream)>.RET": "v_6_",
+    "<com.github.junrar.unpack.ComprDataIO: void unpWrite(byte[],int,int)>.ITR": "v_396_itr_",
+    "<com.github.junrar.unpack.ComprDataIO: void unpWrite(byte[],int,int)>.RET": "v_396_",
+    "<com.github.junrar.unpack.Unpack15: boolean unpReadBuf()>.ITR": "v_84_itr_",
+    "<com.github.junrar.unpack.Unpack15: boolean unpReadBuf()>.RET": "v_84_",
+    "<com.github.junrar.unpack.Unpack15: int decodeNum(int,int,int[],int[])>.ITR": "v_299_itr_",
+    "<com.github.junrar.unpack.Unpack15: int decodeNum(int,int,int[],int[])>.RET": "v_299_",
+    "<com.github.junrar.unpack.Unpack15: int getShortLen1(int)>.ITR": "v_403_itr_",
+    "<com.github.junrar.unpack.Unpack15: int getShortLen1(int)>.RET": "v_403_",
+    "<com.github.junrar.unpack.Unpack15: int getShortLen2(int)>.ITR": "v_437_itr_",
+    "<com.github.junrar.unpack.Unpack15: int getShortLen2(int)>.RET": "v_437_",
+    "<com.github.junrar.unpack.Unpack15: void <init>()>.ITR": "v_426_itr_",
+    "<com.github.junrar.unpack.Unpack15: void <init>()>.RET": "v_426_",
+    "<com.github.junrar.unpack.Unpack15: void corrHuff(int[],int[])>.ITR": "v_181_itr_",
+    "<com.github.junrar.unpack.Unpack15: void corrHuff(int[],int[])>.RET": "v_181_",
+    "<com.github.junrar.unpack.Unpack15: void getFlagsBuf()>.ITR": "v_305_itr_",
+    "<com.github.junrar.unpack.Unpack15: void getFlagsBuf()>.RET": "v_305_",
+    "<com.github.junrar.unpack.Unpack15: void huffDecode()>.ITR": "v_291_itr_",
+    "<com.github.junrar.unpack.Unpack15: void huffDecode()>.RET": "v_291_",
+    "<com.github.junrar.unpack.Unpack15: void initHuff()>.ITR": "v_328_itr_",
+    "<com.github.junrar.unpack.Unpack15: void initHuff()>.RET": "v_328_",
+    "<com.github.junrar.unpack.Unpack15: void longLZ()>.ITR": "v_353_itr_",
+    "<com.github.junrar.unpack.Unpack15: void longLZ()>.RET": "v_353_",
+    "<com.github.junrar.unpack.Unpack15: void oldCopyString(int,int)>.ITR": "v_115_itr_",
+    "<com.github.junrar.unpack.Unpack15: void oldCopyString(int,int)>.RET": "v_115_",
+    "<com.github.junrar.unpack.Unpack15: void oldUnpInitData(boolean)>.ITR": "v_439_itr_",
+    "<com.github.junrar.unpack.Unpack15: void oldUnpInitData(boolean)>.RET": "v_439_",
+    "<com.github.junrar.unpack.Unpack15: void oldUnpWriteBuf()>.ITR": "v_251_itr_",
+    "<com.github.junrar.unpack.Unpack15: void oldUnpWriteBuf()>.RET": "v_251_",
+    "<com.github.junrar.unpack.Unpack15: void shortLZ()>.ITR": "v_127_itr_",
+    "<com.github.junrar.unpack.Unpack15: void shortLZ()>.RET": "v_127_",
+    "<com.github.junrar.unpack.Unpack15: void unpInitData(boolean)>.ITR": "v_105_itr_",
+    "<com.github.junrar.unpack.Unpack15: void unpInitData(boolean)>.RET": "v_105_",
+    "<com.github.junrar.unpack.Unpack15: void unpack15(boolean)>.ITR": "v_324_itr_",
+    "<com.github.junrar.unpack.Unpack15: void unpack15(boolean)>.RET": "v_324_",
+    "<com.github.junrar.unpack.Unpack20: boolean ReadTables20()>.ITR": "v_366_itr_",
+    "<com.github.junrar.unpack.Unpack20: boolean ReadTables20()>.RET": "v_366_",
+    "<com.github.junrar.unpack.Unpack20: byte DecodeAudio(int)>.ITR": "v_382_itr_",
+    "<com.github.junrar.unpack.Unpack20: byte DecodeAudio(int)>.RET": "v_382_",
+    "<com.github.junrar.unpack.Unpack20: int decodeNumber(com.github.junrar.unpack.decode.Decode)>.ITR": "v_58_itr_",
+    "<com.github.junrar.unpack.Unpack20: int decodeNumber(com.github.junrar.unpack.decode.Decode)>.RET": "v_58_",
+    "<com.github.junrar.unpack.Unpack20: void <init>()>.ITR": "v_211_itr_",
+    "<com.github.junrar.unpack.Unpack20: void <init>()>.RET": "v_211_",
+    "<com.github.junrar.unpack.Unpack20: void CopyString20(int,int)>.ITR": "v_116_itr_",
+    "<com.github.junrar.unpack.Unpack20: void CopyString20(int,int)>.RET": "v_116_",
+    "<com.github.junrar.unpack.Unpack20: void ReadLastTables()>.ITR": "v_1_itr_",
+    "<com.github.junrar.unpack.Unpack20: void ReadLastTables()>.RET": "v_1_",
+    "<com.github.junrar.unpack.Unpack20: void makeDecodeTables(byte[],int,com.github.junrar.unpack.decode.Decode,int)>.ITR": "v_10_itr_",
+    "<com.github.junrar.unpack.Unpack20: void makeDecodeTables(byte[],int,com.github.junrar.unpack.decode.Decode,int)>.RET": "v_10_",
+    "<com.github.junrar.unpack.Unpack20: void unpInitData20(boolean)>.ITR": "v_307_itr_",
+    "<com.github.junrar.unpack.Unpack20: void unpInitData20(boolean)>.RET": "v_307_",
+    "<com.github.junrar.unpack.Unpack20: void unpack20(boolean)>.ITR": "v_104_itr_",
+    "<com.github.junrar.unpack.Unpack20: void unpack20(boolean)>.RET": "v_104_",
+    "<com.github.junrar.unpack.Unpack: boolean readEndOfBlock()>.ITR": "v_16_itr_",
+    "<com.github.junrar.unpack.Unpack: boolean readEndOfBlock()>.RET": "v_16_",
+    "<com.github.junrar.unpack.Unpack: boolean readTables()>.ITR": "v_250_itr_",
+    "<com.github.junrar.unpack.Unpack: boolean readTables()>.RET": "v_250_",
+    "<com.github.junrar.unpack.Unpack: boolean readVMCode()>.ITR": "v_106_itr_",
+    "<com.github.junrar.unpack.Unpack: boolean readVMCode()>.RET": "v_106_",
+    "<com.github.junrar.unpack.Unpack: boolean readVMCodePPM()>.ITR": "v_17_itr_",
+    "<com.github.junrar.unpack.Unpack: boolean readVMCodePPM()>.RET": "v_17_",
+    "<com.github.junrar.unpack.Unpack: int getChar()>.ITR": "v_139_itr_",
+    "<com.github.junrar.unpack.Unpack: int getChar()>.RET": "v_139_",
+    "<com.github.junrar.unpack.Unpack: void <init>(com.github.junrar.unpack.ComprDataIO)>.ITR": "v_32_itr_",
+    "<com.github.junrar.unpack.Unpack: void <init>(com.github.junrar.unpack.ComprDataIO)>.RET": "v_32_",
+    "<com.github.junrar.unpack.Unpack: void ExecuteCode(com.github.junrar.unpack.vm.VMPreparedProgram)>.ITR": "v_239_itr_",
+    "<com.github.junrar.unpack.Unpack: void ExecuteCode(com.github.junrar.unpack.vm.VMPreparedProgram)>.RET": "v_239_",
+    "<com.github.junrar.unpack.Unpack: void UnpWriteArea(int,int)>.ITR": "v_344_itr_",
+    "<com.github.junrar.unpack.Unpack: void UnpWriteArea(int,int)>.RET": "v_344_",
+    "<com.github.junrar.unpack.Unpack: void UnpWriteBuf()>.ITR": "v_278_itr_",
+    "<com.github.junrar.unpack.Unpack: void UnpWriteBuf()>.RET": "v_278_",
+    "<com.github.junrar.unpack.Unpack: void UnpWriteData(byte[],int,int)>.ITR": "v_110_itr_",
+    "<com.github.junrar.unpack.Unpack: void UnpWriteData(byte[],int,int)>.RET": "v_110_",
+    "<com.github.junrar.unpack.Unpack: void cleanUp()>.ITR": "v_62_itr_",
+    "<com.github.junrar.unpack.Unpack: void cleanUp()>.RET": "v_62_",
+    "<com.github.junrar.unpack.Unpack: void doUnpack(int,boolean)>.ITR": "v_435_itr_",
+    "<com.github.junrar.unpack.Unpack: void doUnpack(int,boolean)>.RET": "v_435_",
+    "<com.github.junrar.unpack.Unpack: void init(byte[])>.ITR": "v_298_itr_",
+    "<com.github.junrar.unpack.Unpack: void init(byte[])>.RET": "v_298_",
+    "<com.github.junrar.unpack.Unpack: void initFilters()>.ITR": "v_121_itr_",
+    "<com.github.junrar.unpack.Unpack: void initFilters()>.RET": "v_121_",
+    "<com.github.junrar.unpack.Unpack: void unpInitData(boolean)>.ITR": "v_285_itr_",
+    "<com.github.junrar.unpack.Unpack: void unpInitData(boolean)>.RET": "v_285_",
+    "<com.github.junrar.unpack.Unpack: void unpack29(boolean)>.ITR": "v_180_itr_",
+    "<com.github.junrar.unpack.Unpack: void unpack29(boolean)>.RET": "v_180_",
+    "<com.github.junrar.unpack.Unpack: void unstoreFile()>.ITR": "v_346_itr_",
+    "<com.github.junrar.unpack.Unpack: void unstoreFile()>.RET": "v_346_",
+    "<com.github.junrar.unpack.UnpackFilter: boolean isNextWindow()>.ITR": "v_245_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: boolean isNextWindow()>.RET": "v_245_",
+    "<com.github.junrar.unpack.UnpackFilter: com.github.junrar.unpack.vm.VMPreparedProgram getPrg()>.ITR": "v_263_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: com.github.junrar.unpack.vm.VMPreparedProgram getPrg()>.RET": "v_263_",
+    "<com.github.junrar.unpack.UnpackFilter: int getBlockLength()>.ITR": "v_266_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: int getBlockLength()>.RET": "v_266_",
+    "<com.github.junrar.unpack.UnpackFilter: int getBlockStart()>.ITR": "v_176_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: int getBlockStart()>.RET": "v_176_",
+    "<com.github.junrar.unpack.UnpackFilter: int getExecCount()>.ITR": "v_202_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: int getExecCount()>.RET": "v_202_",
+    "<com.github.junrar.unpack.UnpackFilter: int getParentFilter()>.ITR": "v_289_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: int getParentFilter()>.RET": "v_289_",
+    "<com.github.junrar.unpack.UnpackFilter: void <init>()>.ITR": "v_20_itr_",
+    "<com.github.junrar.unpack.UnpackFilter: void <init>()>.RET": "v_20_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getByteCount()>.ITR": "v_31_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getByteCount()>.RET": "v_31_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD1()>.ITR": "v_282_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD1()>.RET": "v_282_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD2()>.ITR": "v_78_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD2()>.RET": "v_78_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD3()>.ITR": "v_413_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD3()>.RET": "v_413_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD4()>.ITR": "v_363_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getD4()>.RET": "v_363_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK1()>.ITR": "v_341_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK1()>.RET": "v_341_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK2()>.ITR": "v_82_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK2()>.RET": "v_82_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK3()>.ITR": "v_242_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK3()>.RET": "v_242_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK4()>.ITR": "v_284_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK4()>.RET": "v_284_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK5()>.ITR": "v_162_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getK5()>.RET": "v_162_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getLastChar()>.ITR": "v_155_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getLastChar()>.RET": "v_155_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getLastDelta()>.ITR": "v_235_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int getLastDelta()>.RET": "v_235_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int[] getDif()>.ITR": "v_309_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: int[] getDif()>.RET": "v_309_",
+    "<com.github.junrar.unpack.decode.AudioVariables: void <init>()>.ITR": "v_287_itr_",
+    "<com.github.junrar.unpack.decode.AudioVariables: void <init>()>.RET": "v_287_",
+    "<com.github.junrar.unpack.decode.BitDecode: void <init>()>.ITR": "v_416_itr_",
+    "<com.github.junrar.unpack.decode.BitDecode: void <init>()>.RET": "v_416_",
+    "<com.github.junrar.unpack.decode.CodeType: void <init>(java.lang.String,int)>.ITR": "v_436_itr_",
+    "<com.github.junrar.unpack.decode.CodeType: void <init>(java.lang.String,int)>.RET": "v_436_",
+    "<com.github.junrar.unpack.decode.Decode: int getMaxNum()>.ITR": "v_206_itr_",
+    "<com.github.junrar.unpack.decode.Decode: int getMaxNum()>.RET": "v_206_",
+    "<com.github.junrar.unpack.decode.Decode: int[] getDecodeLen()>.ITR": "v_295_itr_",
+    "<com.github.junrar.unpack.decode.Decode: int[] getDecodeLen()>.RET": "v_295_",
+    "<com.github.junrar.unpack.decode.Decode: int[] getDecodeNum()>.ITR": "v_124_itr_",
+    "<com.github.junrar.unpack.decode.Decode: int[] getDecodeNum()>.RET": "v_124_",
+    "<com.github.junrar.unpack.decode.Decode: int[] getDecodePos()>.ITR": "v_199_itr_",
+    "<com.github.junrar.unpack.decode.Decode: int[] getDecodePos()>.RET": "v_199_",
+    "<com.github.junrar.unpack.decode.Decode: void <init>()>.ITR": "v_227_itr_",
+    "<com.github.junrar.unpack.decode.Decode: void <init>()>.RET": "v_227_",
+    "<com.github.junrar.unpack.decode.DistDecode: void <init>()>.ITR": "v_364_itr_",
+    "<com.github.junrar.unpack.decode.DistDecode: void <init>()>.RET": "v_364_",
+    "<com.github.junrar.unpack.decode.FilterType: void <init>(java.lang.String,int)>.ITR": "v_42_itr_",
+    "<com.github.junrar.unpack.decode.FilterType: void <init>(java.lang.String,int)>.RET": "v_42_",
+    "<com.github.junrar.unpack.decode.LitDecode: void <init>()>.ITR": "v_421_itr_",
+    "<com.github.junrar.unpack.decode.LitDecode: void <init>()>.RET": "v_421_",
+    "<com.github.junrar.unpack.decode.LowDistDecode: void <init>()>.ITR": "v_229_itr_",
+    "<com.github.junrar.unpack.decode.LowDistDecode: void <init>()>.RET": "v_229_",
+    "<com.github.junrar.unpack.decode.RepDecode: void <init>()>.ITR": "v_156_itr_",
+    "<com.github.junrar.unpack.decode.RepDecode: void <init>()>.RET": "v_156_",
+    "<com.github.junrar.unpack.ppm.AnalyzeHeapDump: void printMismatch(long,long)>.ITR": "v_425_itr_",
+    "<com.github.junrar.unpack.ppm.AnalyzeHeapDump: void printMismatch(long,long)>.RET": "v_425_",
+    "<com.github.junrar.unpack.ppm.BlockTypes: boolean equals(int)>.ITR": "v_340_itr_",
+    "<com.github.junrar.unpack.ppm.BlockTypes: boolean equals(int)>.RET": "v_340_",
+    "<com.github.junrar.unpack.ppm.BlockTypes: void <init>(java.lang.String,int,int)>.ITR": "v_56_itr_",
+    "<com.github.junrar.unpack.ppm.BlockTypes: void <init>(java.lang.String,int,int)>.RET": "v_56_",
+    "<com.github.junrar.unpack.ppm.FreqData: com.github.junrar.unpack.ppm.FreqData init(byte[])>.ITR": "v_129_itr_",
+    "<com.github.junrar.unpack.ppm.FreqData: com.github.junrar.unpack.ppm.FreqData init(byte[])>.RET": "v_129_",
+    "<com.github.junrar.unpack.ppm.FreqData: int getStats()>.ITR": "v_272_itr_",
+    "<com.github.junrar.unpack.ppm.FreqData: int getStats()>.RET": "v_272_",
+    "<com.github.junrar.unpack.ppm.FreqData: int getSummFreq()>.ITR": "v_424_itr_",
+    "<com.github.junrar.unpack.ppm.FreqData: int getSummFreq()>.RET": "v_424_",
+    "<com.github.junrar.unpack.ppm.FreqData: void <init>(byte[])>.ITR": "v_142_itr_",
+    "<com.github.junrar.unpack.ppm.FreqData: void <init>(byte[])>.RET": "v_142_",
+    "<com.github.junrar.unpack.ppm.FreqData: void incSummFreq(int)>.ITR": "v_163_itr_",
+    "<com.github.junrar.unpack.ppm.FreqData: void incSummFreq(int)>.RET": "v_163_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: boolean decodeInit(com.github.junrar.unpack.Unpack,int)>.ITR": "v_301_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: boolean decodeInit(com.github.junrar.unpack.Unpack,int)>.RET": "v_301_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: byte[] getHeap()>.ITR": "v_120_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: byte[] getHeap()>.RET": "v_120_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.RangeCoder getCoder()>.ITR": "v_95_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.RangeCoder getCoder()>.RET": "v_95_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SEE2Context getDummySEE2Cont()>.ITR": "v_415_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SEE2Context getDummySEE2Cont()>.RET": "v_415_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SEE2Context[][] getSEE2Cont()>.ITR": "v_273_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SEE2Context[][] getSEE2Cont()>.RET": "v_273_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.State getFoundState()>.ITR": "v_219_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.State getFoundState()>.RET": "v_219_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SubAllocator getSubAlloc()>.ITR": "v_54_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: com.github.junrar.unpack.ppm.SubAllocator getSubAlloc()>.RET": "v_54_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int decodeChar()>.ITR": "v_44_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int decodeChar()>.RET": "v_44_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getEscCount()>.ITR": "v_87_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getEscCount()>.RET": "v_87_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getHiBitsFlag()>.ITR": "v_93_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getHiBitsFlag()>.RET": "v_93_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getInitRL()>.ITR": "v_130_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getInitRL()>.RET": "v_130_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getNumMasked()>.ITR": "v_418_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getNumMasked()>.RET": "v_418_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getOrderFall()>.ITR": "v_443_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getOrderFall()>.RET": "v_443_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getPrevSuccess()>.ITR": "v_279_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getPrevSuccess()>.RET": "v_279_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getRunLength()>.ITR": "v_241_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int getRunLength()>.RET": "v_241_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getCharMask()>.ITR": "v_35_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getCharMask()>.RET": "v_35_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getHB2Flag()>.ITR": "v_37_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getHB2Flag()>.RET": "v_37_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getNS2BSIndx()>.ITR": "v_173_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getNS2BSIndx()>.RET": "v_173_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getNS2Indx()>.ITR": "v_303_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[] getNS2Indx()>.RET": "v_303_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[][] getBinSumm()>.ITR": "v_53_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: int[][] getBinSumm()>.RET": "v_53_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void <init>()>.ITR": "v_108_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void <init>()>.RET": "v_108_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void clearMask()>.ITR": "v_323_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void clearMask()>.RET": "v_323_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void incEscCount(int)>.ITR": "v_331_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void incEscCount(int)>.RET": "v_331_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void incRunLength(int)>.ITR": "v_27_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void incRunLength(int)>.RET": "v_27_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void restartModelRare()>.ITR": "v_373_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void restartModelRare()>.RET": "v_373_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void startModelRare(int)>.ITR": "v_302_itr_",
+    "<com.github.junrar.unpack.ppm.ModelPPM: void startModelRare(int)>.RET": "v_302_",
+    "<com.github.junrar.unpack.ppm.PPMContext: boolean decodeSymbol1(com.github.junrar.unpack.ppm.ModelPPM)>.ITR": "v_427_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: boolean decodeSymbol1(com.github.junrar.unpack.ppm.ModelPPM)>.RET": "v_427_",
+    "<com.github.junrar.unpack.ppm.PPMContext: boolean decodeSymbol2(com.github.junrar.unpack.ppm.ModelPPM)>.ITR": "v_47_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: boolean decodeSymbol2(com.github.junrar.unpack.ppm.ModelPPM)>.RET": "v_47_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.FreqData getFreqData()>.ITR": "v_114_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.FreqData getFreqData()>.RET": "v_114_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.PPMContext getTempPPMContext(byte[])>.ITR": "v_432_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.PPMContext getTempPPMContext(byte[])>.RET": "v_432_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.PPMContext init(byte[])>.ITR": "v_137_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.PPMContext init(byte[])>.RET": "v_137_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.SEE2Context makeEscFreq2(com.github.junrar.unpack.ppm.ModelPPM,int)>.ITR": "v_152_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.SEE2Context makeEscFreq2(com.github.junrar.unpack.ppm.ModelPPM,int)>.RET": "v_152_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.State getOneState()>.ITR": "v_395_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: com.github.junrar.unpack.ppm.State getOneState()>.RET": "v_395_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getArrayIndex(com.github.junrar.unpack.ppm.ModelPPM,com.github.junrar.unpack.ppm.State)>.ITR": "v_274_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getArrayIndex(com.github.junrar.unpack.ppm.ModelPPM,com.github.junrar.unpack.ppm.State)>.RET": "v_274_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getMean(int,int,int)>.ITR": "v_217_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getMean(int,int,int)>.RET": "v_217_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getNumStats()>.ITR": "v_256_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getNumStats()>.RET": "v_256_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getSuffix()>.ITR": "v_420_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: int getSuffix()>.RET": "v_420_",
+    "<com.github.junrar.unpack.ppm.PPMContext: void <init>(byte[])>.ITR": "v_225_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: void <init>(byte[])>.RET": "v_225_",
+    "<com.github.junrar.unpack.ppm.PPMContext: void decodeBinSymbol(com.github.junrar.unpack.ppm.ModelPPM)>.ITR": "v_350_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: void decodeBinSymbol(com.github.junrar.unpack.ppm.ModelPPM)>.RET": "v_350_",
+    "<com.github.junrar.unpack.ppm.PPMContext: void rescale(com.github.junrar.unpack.ppm.ModelPPM)>.ITR": "v_222_itr_",
+    "<com.github.junrar.unpack.ppm.PPMContext: void rescale(com.github.junrar.unpack.ppm.ModelPPM)>.RET": "v_222_",
+    "<com.github.junrar.unpack.ppm.Pointer: int getAddress()>.ITR": "v_356_itr_",
+    "<com.github.junrar.unpack.ppm.Pointer: int getAddress()>.RET": "v_356_",
+    "<com.github.junrar.unpack.ppm.Pointer: void <init>(byte[])>.ITR": "v_362_itr_",
+    "<com.github.junrar.unpack.ppm.Pointer: void <init>(byte[])>.RET": "v_362_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getHighCount()>.ITR": "v_213_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getHighCount()>.RET": "v_213_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getLowCount()>.ITR": "v_18_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getLowCount()>.RET": "v_18_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getScale()>.ITR": "v_13_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: long getScale()>.RET": "v_13_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: void <init>()>.ITR": "v_338_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: void <init>()>.RET": "v_338_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: void incScale(int)>.ITR": "v_314_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder$SubRange: void incScale(int)>.RET": "v_314_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: com.github.junrar.unpack.ppm.RangeCoder$SubRange getSubRange()>.ITR": "v_14_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: com.github.junrar.unpack.ppm.RangeCoder$SubRange getSubRange()>.RET": "v_14_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: int getChar()>.ITR": "v_326_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: int getChar()>.RET": "v_326_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: int getCurrentCount()>.ITR": "v_376_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: int getCurrentCount()>.RET": "v_376_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: long getCurrentShiftCount(int)>.ITR": "v_119_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: long getCurrentShiftCount(int)>.RET": "v_119_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void <init>()>.ITR": "v_391_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void <init>()>.RET": "v_391_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void ariDecNormalize()>.ITR": "v_96_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void ariDecNormalize()>.RET": "v_96_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void decode()>.ITR": "v_246_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void decode()>.RET": "v_246_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void initDecoder(com.github.junrar.unpack.Unpack)>.ITR": "v_262_itr_",
+    "<com.github.junrar.unpack.ppm.RangeCoder: void initDecoder(com.github.junrar.unpack.Unpack)>.RET": "v_262_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getNU()>.ITR": "v_19_itr_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getNU()>.RET": "v_19_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getNext()>.ITR": "v_5_itr_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getNext()>.RET": "v_5_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getPrev()>.ITR": "v_383_itr_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getPrev()>.RET": "v_383_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getStamp()>.ITR": "v_410_itr_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: int getStamp()>.RET": "v_410_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: void <init>(byte[])>.ITR": "v_343_itr_",
+    "<com.github.junrar.unpack.ppm.RarMemBlock: void <init>(byte[])>.RET": "v_343_",
+    "<com.github.junrar.unpack.ppm.RarNode: int getNext()>.ITR": "v_34_itr_",
+    "<com.github.junrar.unpack.ppm.RarNode: int getNext()>.RET": "v_34_",
+    "<com.github.junrar.unpack.ppm.RarNode: void <init>(byte[])>.ITR": "v_332_itr_",
+    "<com.github.junrar.unpack.ppm.RarNode: void <init>(byte[])>.RET": "v_332_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: int getMean()>.ITR": "v_144_itr_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: int getMean()>.RET": "v_144_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: int getSumm()>.ITR": "v_113_itr_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: int getSumm()>.RET": "v_113_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: void <init>()>.ITR": "v_79_itr_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: void <init>()>.RET": "v_79_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: void incSumm(int)>.ITR": "v_2_itr_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: void incSumm(int)>.RET": "v_2_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: void init(int)>.ITR": "v_345_itr_",
+    "<com.github.junrar.unpack.ppm.SEE2Context: void init(int)>.RET": "v_345_",
+    "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State decAddress()>.ITR": "v_422_itr_",
+    "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State decAddress()>.RET": "v_422_",
+    "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State incAddress()>.ITR": "v_133_itr_",
+    "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State incAddress()>.RET": "v_133_",
+    "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State init(byte[])>.ITR": "v_329_itr_",
+    "<com.github.junrar.unpack.ppm.State: com.github.junrar.unpack.ppm.State init(byte[])>.RET": "v_329_",
+    "<com.github.junrar.unpack.ppm.State: int getFreq()>.ITR": "v_80_itr_",
+    "<com.github.junrar.unpack.ppm.State: int getFreq()>.RET": "v_80_",
+    "<com.github.junrar.unpack.ppm.State: int getSuccessor()>.ITR": "v_134_itr_",
+    "<com.github.junrar.unpack.ppm.State: int getSuccessor()>.RET": "v_134_",
+    "<com.github.junrar.unpack.ppm.State: int getSymbol()>.ITR": "v_293_itr_",
+    "<com.github.junrar.unpack.ppm.State: int getSymbol()>.RET": "v_293_",
+    "<com.github.junrar.unpack.ppm.State: void <init>(byte[])>.ITR": "v_45_itr_",
+    "<com.github.junrar.unpack.ppm.State: void <init>(byte[])>.RET": "v_45_",
+    "<com.github.junrar.unpack.ppm.State: void incFreq(int)>.ITR": "v_164_itr_",
+    "<com.github.junrar.unpack.ppm.State: void incFreq(int)>.RET": "v_164_",
+    "<com.github.junrar.unpack.ppm.State: void ppmdSwap(com.github.junrar.unpack.ppm.State,com.github.junrar.unpack.ppm.State)>.ITR": "v_399_itr_",
+    "<com.github.junrar.unpack.ppm.State: void ppmdSwap(com.github.junrar.unpack.ppm.State,com.github.junrar.unpack.ppm.State)>.RET": "v_399_",
+    "<com.github.junrar.unpack.ppm.StateRef: int getFreq()>.ITR": "v_72_itr_",
+    "<com.github.junrar.unpack.ppm.StateRef: int getFreq()>.RET": "v_72_",
+    "<com.github.junrar.unpack.ppm.StateRef: int getSuccessor()>.ITR": "v_26_itr_",
+    "<com.github.junrar.unpack.ppm.StateRef: int getSuccessor()>.RET": "v_26_",
+    "<com.github.junrar.unpack.ppm.StateRef: int getSymbol()>.ITR": "v_200_itr_",
+    "<com.github.junrar.unpack.ppm.StateRef: int getSymbol()>.RET": "v_200_",
+    "<com.github.junrar.unpack.ppm.StateRef: void <init>()>.ITR": "v_154_itr_",
+    "<com.github.junrar.unpack.ppm.StateRef: void <init>()>.RET": "v_154_",
+    "<com.github.junrar.unpack.ppm.StateRef: void decFreq(int)>.ITR": "v_207_itr_",
+    "<com.github.junrar.unpack.ppm.StateRef: void decFreq(int)>.RET": "v_207_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: boolean startSubAllocator(int)>.ITR": "v_244_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: boolean startSubAllocator(int)>.RET": "v_244_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: byte[] getHeap()>.ITR": "v_311_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: byte[] getHeap()>.RET": "v_311_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int GetAllocatedMemory()>.ITR": "v_394_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int GetAllocatedMemory()>.RET": "v_394_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int MBPtr(int,int)>.ITR": "v_195_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int MBPtr(int,int)>.RET": "v_195_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int U2B(int)>.ITR": "v_281_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int U2B(int)>.RET": "v_281_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int allocContext()>.ITR": "v_36_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int allocContext()>.RET": "v_36_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int allocUnits(int)>.ITR": "v_86_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int allocUnits(int)>.RET": "v_86_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int allocUnitsRare(int)>.ITR": "v_89_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int allocUnitsRare(int)>.RET": "v_89_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int expandUnits(int,int)>.ITR": "v_280_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int expandUnits(int,int)>.RET": "v_280_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int getFakeUnitsStart()>.ITR": "v_390_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int getFakeUnitsStart()>.RET": "v_390_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int getHeapEnd()>.ITR": "v_48_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int getHeapEnd()>.RET": "v_48_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int getPText()>.ITR": "v_223_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int getPText()>.RET": "v_223_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int shrinkUnits(int,int,int)>.ITR": "v_261_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int shrinkUnits(int,int,int)>.RET": "v_261_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int sizeOfFreeList()>.ITR": "v_257_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: int sizeOfFreeList()>.RET": "v_257_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void <init>()>.ITR": "v_214_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void <init>()>.RET": "v_214_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void clean()>.ITR": "v_135_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void clean()>.RET": "v_135_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void decPText(int)>.ITR": "v_378_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void decPText(int)>.RET": "v_378_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void freeUnits(int,int)>.ITR": "v_249_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void freeUnits(int,int)>.RET": "v_249_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void glueFreeBlocks()>.ITR": "v_205_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void glueFreeBlocks()>.RET": "v_205_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void incPText()>.ITR": "v_171_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void incPText()>.RET": "v_171_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void initSubAllocator()>.ITR": "v_433_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void initSubAllocator()>.RET": "v_433_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void splitBlock(int,int,int)>.ITR": "v_183_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void splitBlock(int,int,int)>.RET": "v_183_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void stopSubAllocator()>.ITR": "v_182_itr_",
+    "<com.github.junrar.unpack.ppm.SubAllocator: void stopSubAllocator()>.RET": "v_182_",
+    "<com.github.junrar.unpack.vm.BitInput: boolean Overflow(int)>.ITR": "v_336_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: boolean Overflow(int)>.RET": "v_336_",
+    "<com.github.junrar.unpack.vm.BitInput: byte[] getInBuf()>.ITR": "v_226_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: byte[] getInBuf()>.RET": "v_226_",
+    "<com.github.junrar.unpack.vm.BitInput: int fgetbits()>.ITR": "v_177_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: int fgetbits()>.RET": "v_177_",
+    "<com.github.junrar.unpack.vm.BitInput: int getbits()>.ITR": "v_73_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: int getbits()>.RET": "v_73_",
+    "<com.github.junrar.unpack.vm.BitInput: void <init>()>.ITR": "v_271_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: void <init>()>.RET": "v_271_",
+    "<com.github.junrar.unpack.vm.BitInput: void InitBitInput()>.ITR": "v_149_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: void InitBitInput()>.RET": "v_149_",
+    "<com.github.junrar.unpack.vm.BitInput: void faddbits(int)>.ITR": "v_118_itr_",
+    "<com.github.junrar.unpack.vm.BitInput: void faddbits(int)>.RET": "v_118_",
+    "<com.github.junrar.unpack.vm.RarVM: boolean ExecuteCode(java.util.List,int)>.ITR": "v_407_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: boolean ExecuteCode(java.util.List,int)>.RET": "v_407_",
+    "<com.github.junrar.unpack.vm.RarVM: boolean isVMMem(byte[])>.ITR": "v_8_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: boolean isVMMem(byte[])>.RET": "v_8_",
+    "<com.github.junrar.unpack.vm.RarVM: byte[] getMem()>.ITR": "v_170_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: byte[] getMem()>.RET": "v_170_",
+    "<com.github.junrar.unpack.vm.RarVM: com.github.junrar.unpack.vm.VMStandardFilters IsStandardFilter(byte[],int)>.ITR": "v_335_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: com.github.junrar.unpack.vm.VMStandardFilters IsStandardFilter(byte[],int)>.RET": "v_335_",
+    "<com.github.junrar.unpack.vm.RarVM: int ReadData(com.github.junrar.unpack.vm.BitInput)>.ITR": "v_178_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: int ReadData(com.github.junrar.unpack.vm.BitInput)>.RET": "v_178_",
+    "<com.github.junrar.unpack.vm.RarVM: int filterItanium_GetBits(int,int,int)>.ITR": "v_33_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: int filterItanium_GetBits(int,int,int)>.RET": "v_33_",
+    "<com.github.junrar.unpack.vm.RarVM: int getOperand(com.github.junrar.unpack.vm.VMPreparedOperand)>.ITR": "v_236_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: int getOperand(com.github.junrar.unpack.vm.VMPreparedOperand)>.RET": "v_236_",
+    "<com.github.junrar.unpack.vm.RarVM: int getValue(boolean,byte[],int)>.ITR": "v_290_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: int getValue(boolean,byte[],int)>.RET": "v_290_",
+    "<com.github.junrar.unpack.vm.RarVM: void <init>()>.ITR": "v_286_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void <init>()>.RET": "v_286_",
+    "<com.github.junrar.unpack.vm.RarVM: void ExecuteStandardFilter(com.github.junrar.unpack.vm.VMStandardFilters)>.ITR": "v_264_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void ExecuteStandardFilter(com.github.junrar.unpack.vm.VMStandardFilters)>.RET": "v_264_",
+    "<com.github.junrar.unpack.vm.RarVM: void decodeArg(com.github.junrar.unpack.vm.VMPreparedOperand,boolean)>.ITR": "v_417_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void decodeArg(com.github.junrar.unpack.vm.VMPreparedOperand,boolean)>.RET": "v_417_",
+    "<com.github.junrar.unpack.vm.RarVM: void execute(com.github.junrar.unpack.vm.VMPreparedProgram)>.ITR": "v_128_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void execute(com.github.junrar.unpack.vm.VMPreparedProgram)>.RET": "v_128_",
+    "<com.github.junrar.unpack.vm.RarVM: void filterItanium_SetBits(int,int,int,int)>.ITR": "v_197_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void filterItanium_SetBits(int,int,int,int)>.RET": "v_197_",
+    "<com.github.junrar.unpack.vm.RarVM: void init()>.ITR": "v_406_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void init()>.RET": "v_406_",
+    "<com.github.junrar.unpack.vm.RarVM: void optimize(com.github.junrar.unpack.vm.VMPreparedProgram)>.ITR": "v_61_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void optimize(com.github.junrar.unpack.vm.VMPreparedProgram)>.RET": "v_61_",
+    "<com.github.junrar.unpack.vm.RarVM: void prepare(byte[],int,com.github.junrar.unpack.vm.VMPreparedProgram)>.ITR": "v_52_itr_",
+    "<com.github.junrar.unpack.vm.RarVM: void prepare(byte[],int,com.github.junrar.unpack.vm.VMPreparedProgram)>.RET": "v_52_",
+    "<com.github.junrar.unpack.vm.VMCommands: boolean equals(int)>.ITR": "v_360_itr_",
+    "<com.github.junrar.unpack.vm.VMCommands: boolean equals(int)>.RET": "v_360_",
+    "<com.github.junrar.unpack.vm.VMCommands: com.github.junrar.unpack.vm.VMCommands findVMCommand(int)>.ITR": "v_411_itr_",
+    "<com.github.junrar.unpack.vm.VMCommands: com.github.junrar.unpack.vm.VMCommands findVMCommand(int)>.RET": "v_411_",
+    "<com.github.junrar.unpack.vm.VMCommands: com.github.junrar.unpack.vm.VMCommands[] values()>.ITR": "v_233_itr_",
+    "<com.github.junrar.unpack.vm.VMCommands: com.github.junrar.unpack.vm.VMCommands[] values()>.RET": "v_233_",
+    "<com.github.junrar.unpack.vm.VMCommands: int getVMCommand()>.ITR": "v_397_itr_",
+    "<com.github.junrar.unpack.vm.VMCommands: int getVMCommand()>.RET": "v_397_",
+    "<com.github.junrar.unpack.vm.VMCommands: void <init>(java.lang.String,int,int)>.ITR": "v_168_itr_",
+    "<com.github.junrar.unpack.vm.VMCommands: void <init>(java.lang.String,int,int)>.RET": "v_168_",
+    "<com.github.junrar.unpack.vm.VMFlags: boolean equals(int)>.ITR": "v_354_itr_",
+    "<com.github.junrar.unpack.vm.VMFlags: boolean equals(int)>.RET": "v_354_",
+    "<com.github.junrar.unpack.vm.VMFlags: int getFlag()>.ITR": "v_218_itr_",
+    "<com.github.junrar.unpack.vm.VMFlags: int getFlag()>.RET": "v_218_",
+    "<com.github.junrar.unpack.vm.VMFlags: void <init>(java.lang.String,int,int)>.ITR": "v_111_itr_",
+    "<com.github.junrar.unpack.vm.VMFlags: void <init>(java.lang.String,int,int)>.RET": "v_111_",
+    "<com.github.junrar.unpack.vm.VMOpType: boolean equals(int)>.ITR": "v_146_itr_",
+    "<com.github.junrar.unpack.vm.VMOpType: boolean equals(int)>.RET": "v_146_",
+    "<com.github.junrar.unpack.vm.VMOpType: void <init>(java.lang.String,int,int)>.ITR": "v_83_itr_",
+    "<com.github.junrar.unpack.vm.VMOpType: void <init>(java.lang.String,int,int)>.RET": "v_83_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: boolean isByteMode()>.ITR": "v_103_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: boolean isByteMode()>.RET": "v_103_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMCommands getOpCode()>.ITR": "v_136_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMCommands getOpCode()>.RET": "v_136_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMPreparedOperand getOp1()>.ITR": "v_237_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMPreparedOperand getOp1()>.RET": "v_237_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMPreparedOperand getOp2()>.ITR": "v_292_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: com.github.junrar.unpack.vm.VMPreparedOperand getOp2()>.RET": "v_292_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: void <init>()>.ITR": "v_288_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedCommand: void <init>()>.RET": "v_288_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: com.github.junrar.unpack.vm.VMOpType getType()>.ITR": "v_409_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: com.github.junrar.unpack.vm.VMOpType getType()>.RET": "v_409_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: int getBase()>.ITR": "v_355_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: int getBase()>.RET": "v_355_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: int getData()>.ITR": "v_7_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: int getData()>.RET": "v_7_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: int getOffset()>.ITR": "v_441_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: int getOffset()>.RET": "v_441_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: void <init>()>.ITR": "v_265_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedOperand: void <init>()>.RET": "v_265_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int getCmdCount()>.ITR": "v_431_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int getCmdCount()>.RET": "v_431_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int getFilteredDataOffset()>.ITR": "v_304_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int getFilteredDataOffset()>.RET": "v_304_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int getFilteredDataSize()>.ITR": "v_209_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int getFilteredDataSize()>.RET": "v_209_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int[] getInitR()>.ITR": "v_117_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: int[] getInitR()>.RET": "v_117_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.List getAltCmd()>.ITR": "v_192_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.List getAltCmd()>.RET": "v_192_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.List getCmd()>.ITR": "v_316_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.List getCmd()>.RET": "v_316_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.Vector getGlobalData()>.ITR": "v_46_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.Vector getGlobalData()>.RET": "v_46_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.Vector getStaticData()>.ITR": "v_92_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: java.util.Vector getStaticData()>.RET": "v_92_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: void <init>()>.ITR": "v_24_itr_",
+    "<com.github.junrar.unpack.vm.VMPreparedProgram: void <init>()>.RET": "v_24_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: com.github.junrar.unpack.vm.VMStandardFilters getType()>.ITR": "v_368_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: com.github.junrar.unpack.vm.VMStandardFilters getType()>.RET": "v_368_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: int getCRC()>.ITR": "v_445_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: int getCRC()>.RET": "v_445_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: int getLength()>.ITR": "v_99_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: int getLength()>.RET": "v_99_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: void <init>(int,int,com.github.junrar.unpack.vm.VMStandardFilters)>.ITR": "v_317_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilterSignature: void <init>(int,int,com.github.junrar.unpack.vm.VMStandardFilters)>.RET": "v_317_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: boolean equals(int)>.ITR": "v_352_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: boolean equals(int)>.RET": "v_352_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: com.github.junrar.unpack.vm.VMStandardFilters findFilter(int)>.ITR": "v_147_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: com.github.junrar.unpack.vm.VMStandardFilters findFilter(int)>.RET": "v_147_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: int getFilter()>.ITR": "v_208_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: int getFilter()>.RET": "v_208_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: void <init>(java.lang.String,int,int)>.ITR": "v_193_itr_",
+    "<com.github.junrar.unpack.vm.VMStandardFilters: void <init>(java.lang.String,int,int)>.RET": "v_193_",
+    "<com.github.junrar.volume.FileVolume: java.io.File getFile()>.ITR": "v_386_itr_",
+    "<com.github.junrar.volume.FileVolume: java.io.File getFile()>.RET": "v_386_",
+    "<com.github.junrar.volume.FileVolume: void <init>(com.github.junrar.Archive,java.io.File)>.ITR": "v_231_itr_",
+    "<com.github.junrar.volume.FileVolume: void <init>(com.github.junrar.Archive,java.io.File)>.RET": "v_231_",
+    "<com.github.junrar.volume.InputStreamVolume: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>.ITR": "v_358_itr_",
+    "<com.github.junrar.volume.InputStreamVolume: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>.RET": "v_358_",
+    "<com.github.junrar.volume.InputStreamVolume: int getPosition()>.ITR": "v_151_itr_",
+    "<com.github.junrar.volume.InputStreamVolume: int getPosition()>.RET": "v_151_",
+    "<com.github.junrar.volume.InputStreamVolume: long getLength()>.ITR": "v_123_itr_",
+    "<com.github.junrar.volume.InputStreamVolume: long getLength()>.RET": "v_123_",
+    "<com.github.junrar.volume.InputStreamVolume: void <init>(com.github.junrar.Archive,java.io.InputStream,int)>.ITR": "v_91_itr_",
+    "<com.github.junrar.volume.InputStreamVolume: void <init>(com.github.junrar.Archive,java.io.InputStream,int)>.RET": "v_91_",
+    "<com.github.junrar.volume.Volume: com.github.junrar.Archive getArchive()>.ITR": "v_190_itr_",
+    "<com.github.junrar.volume.Volume: com.github.junrar.Archive getArchive()>.RET": "v_190_",
+    "<com.github.junrar.volume.Volume: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>.ITR": "v_140_itr_",
+    "<com.github.junrar.volume.Volume: com.github.junrar.io.SeekableReadOnlyByteChannel getChannel()>.RET": "v_140_",
+    "<com.github.junrar.volume.Volume: long getLength()>.ITR": "v_381_itr_",
+    "<com.github.junrar.volume.Volume: long getLength()>.RET": "v_381_",
+    "<com.github.junrar.volume.VolumeHelper: boolean isDigit(char)>.ITR": "v_442_itr_",
+    "<com.github.junrar.volume.VolumeHelper: boolean isDigit(char)>.RET": "v_442_",
+    "<com.github.junrar.volume.VolumeHelper: java.lang.String nextVolumeName(java.lang.String,boolean)>.ITR": "v_283_itr_",
+    "<com.github.junrar.volume.VolumeHelper: java.lang.String nextVolumeName(java.lang.String,boolean)>.RET": "v_283_",
+    "null": "null"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>()>" : "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>",
+	"<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream,boolean)>" : "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>",
+	"<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.POIFSFileSystem)>" : "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>",
+	"<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream,boolean)>" : "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>"
+}

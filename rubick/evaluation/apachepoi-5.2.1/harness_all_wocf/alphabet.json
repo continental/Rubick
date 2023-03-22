@@ -1,0 +1,1267 @@
+{
+  "alias2event": {
+    "Q": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFShapeGroup: int getY2()>"
+    ],
+    "r": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getRightBorderColor()>"
+    ],
+    "\u341d": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: org.apache.poi.hssf.usermodel.HSSFCell getCell(int)>"
+    ],
+    "\u3457": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor findSimilarColor(int,int,int)>"
+    ],
+    "\u34a2": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: byte getUnderline()>"
+    ],
+    "\u34ba": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hpsf.DocumentSummaryInformation getDocumentSummaryInformation()>"
+    ],
+    "\u34ce": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getNameName()>"
+    ],
+    "\u34e1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFSheet getSheet(java.lang.String)>"
+    ],
+    "\u34f6": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: short getHeight()>"
+    ],
+    "\u3545": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics: void <init>(org.apache.poi.hssf.usermodel.HSSFShapeGroup,org.apache.poi.hssf.usermodel.HSSFWorkbook,java.awt.Color,float)>"
+    ],
+    "\u357a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: short getFirstCellNum()>"
+    ],
+    "\u358f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderTopEnum()>"
+    ],
+    "\u3599": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int,short,int)>"
+    ],
+    "\u35c1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getTopBorderColor()>"
+    ],
+    "\u35e8": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void dumpDrawingGroupRecords(boolean)>"
+    ],
+    "\u35fc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.model.InternalWorkbook getWorkbook()>"
+    ],
+    "\u360e": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.VerticalAlignment getVerticalAlignmentEnum()>"
+    ],
+    "\u3611": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: int getOutlineLevel()>"
+    ],
+    "\u363b": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: org.apache.poi.hssf.util.HSSFColor getHSSFColor(org.apache.poi.hssf.usermodel.HSSFWorkbook)>"
+    ],
+    "\u363f": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalSheet: org.apache.poi.hssf.record.WindowTwoRecord getWindowTwo()>"
+    ],
+    "\u365f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: boolean getBackupFlag()>"
+    ],
+    "\u368e": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSimpleShape: org.apache.poi.hssf.usermodel.HSSFAnchor getAnchor()>"
+    ],
+    "\u3693": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: java.util.Iterator iterator()>"
+    ],
+    "\u3698": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.ss.usermodel.Row$MissingCellPolicy getMissingCellPolicy()>"
+    ],
+    "\u369a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFObjectData: java.lang.String getOLE2ClassName()>"
+    ],
+    "\u36c4": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getRefersToFormula()>"
+    ],
+    "\u3715": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean isSelected()>"
+    ],
+    "\u3729": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllEmbeddedObjects()>"
+    ],
+    "\u373b": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.hssf.util.HSSFColor getFillForegroundColorColor()>"
+    ],
+    "\u3777": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: int hashCode()>"
+    ],
+    "\u3790": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: int getPhysicalNumberOfRows()>"
+    ],
+    "\u37a9": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFRow getRow(int)>"
+    ],
+    "\u37bc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: boolean getBooleanCellValue()>"
+    ],
+    "\u37d3": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.HorizontalAlignment getAlignment()>"
+    ],
+    "\u3868": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFSheet getSheetAt(int)>"
+    ],
+    "\u387b": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPicture: void resize()>"
+    ],
+    "\u3893": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream,boolean)>"
+    ],
+    "\u389f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFSheet getSheet()>"
+    ],
+    "\u38d2": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.ss.usermodel.CellType getCellType()>"
+    ],
+    "\u38f2": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFPatriarch getDrawingPatriarch()>"
+    ],
+    "\u3900": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.POIFSFileSystem)>"
+    ],
+    "\u3922": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int)>"
+    ],
+    "\u396f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPatriarch: java.util.List getChildren()>"
+    ],
+    "\u3993": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: void fixTabIdRecord()>"
+    ],
+    "\u39bd": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFPrintSetup getPrintSetup()>"
+    ],
+    "\u39ed": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String getCellFormula()>"
+    ],
+    "\u39fb": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void applyFont(int,int,org.apache.poi.ss.usermodel.Font)>"
+    ],
+    "\u3a14": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: short getDefaultRowHeight()>"
+    ],
+    "\u3a76": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void <init>(org.apache.poi.hssf.usermodel.EscherGraphics)>"
+    ],
+    "\u3a77": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: short getColor()>"
+    ],
+    "\u3a86": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: boolean isHidden()>"
+    ],
+    "\u3af7": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: java.lang.String getFontName()>"
+    ],
+    "\u3b0f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAlternateExpression()>"
+    ],
+    "\u3b13": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPictureData: java.lang.String suggestFileExtension()>"
+    ],
+    "\u3b15": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderBottom()>"
+    ],
+    "\u3b33": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void <init>()>"
+    ],
+    "\u3b42": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFCreationHelper getCreationHelper()>"
+    ],
+    "\u3b4a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.FillPatternType getFillPatternEnum()>"
+    ],
+    "\u3b5d": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFChildAnchor: void <init>(int,int,int,int)>"
+    ],
+    "\u3b5f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String getStringCellValue()>"
+    ],
+    "\u3ba1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void close()>"
+    ],
+    "\u3bce": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: int getColumnWidth(int)>"
+    ],
+    "\u3bd8": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFObjectData: boolean hasDirectoryEntry()>"
+    ],
+    "\u3be5": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String convertCellValueToString()>"
+    ],
+    "\u3c35": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Iterator rowIterator()>"
+    ],
+    "\u3c71": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: int getColumnIndex()>"
+    ],
+    "\u3c75": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.model.InternalSheet getSheet()>"
+    ],
+    "\u3c80": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPictureData: java.lang.String getMimeType()>"
+    ],
+    "\u3c90": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFDataFormat: short getFormat(java.lang.String)>"
+    ],
+    "\u3ca5": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.WindowOneRecord getWindowOne()>"
+    ],
+    "\u3cba": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>()>"
+    ],
+    "\u3ccb": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: int getSheetIndex()>"
+    ],
+    "\u3cde": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: boolean isDeleted()>"
+    ],
+    "\u3cee": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderLeftEnum()>"
+    ],
+    "\u3cfe": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: int getNumNames()>"
+    ],
+    "\u3d03": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.record.CellValueRecordInterface getCellValueRecord()>"
+    ],
+    "\u3d33": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hpsf.SummaryInformation getSummaryInformation()>"
+    ],
+    "\u3d4f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: org.apache.poi.hssf.record.RowRecord getRowRecord()>"
+    ],
+    "\u3d55": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.NameRecord getNameRecord(int)>"
+    ],
+    "\u3d97": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: int getNumMergedRegions()>"
+    ],
+    "\u3db0": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>"
+    ],
+    "\u3db4": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getBackuppos()>"
+    ],
+    "\u3ea5": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getProtpos()>"
+    ],
+    "\u3ebc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderBottom()>"
+    ],
+    "\u3eeb": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void validateSheetIndex(int)>"
+    ],
+    "\u3ef2": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderRight()>"
+    ],
+    "\u3f00": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.ss.util.CellRangeAddress getMergedRegion(int)>"
+    ],
+    "\u3f0f": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: boolean doesContainsSheetName(java.lang.String,int)>"
+    ],
+    "\u3f79": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawPolygon(int[],int[],int)>"
+    ],
+    "\u3f7f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getFillForegroundColor()>"
+    ],
+    "\u3f80": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPictureData: int getPictureType()>"
+    ],
+    "\u3f95": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfSheets()>"
+    ],
+    "\u4003": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderLeft()>"
+    ],
+    "\u403a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getSheetIndex(java.lang.String)>"
+    ],
+    "\u4046": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getLeftBorderColor()>"
+    ],
+    "\u4054": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.poifs.crypt.EncryptionInfo getEncryptionInfo()>"
+    ],
+    "\u4058": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: void groupRow(int,int)>"
+    ],
+    "\u4061": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: short getFontHeightInPoints()>"
+    ],
+    "\u406d": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalSheet: org.apache.poi.hssf.record.aggregates.RowRecordsAggregate getRowsAggregate()>"
+    ],
+    "\u4074": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getSheetName()>"
+    ],
+    "\u4085": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: float getHeightInPoints()>"
+    ],
+    "\u40c0": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: int getCharSet()>"
+    ],
+    "\u40c3": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.FillPatternType getFillPattern()>"
+    ],
+    "\u40cc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFWorkbook getWorkbook()>"
+    ],
+    "\u40e1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: int getIndexAsInt()>"
+    ],
+    "\u4116": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllNames()>"
+    ],
+    "\u4141": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getFontpos()>"
+    ],
+    "\u41a9": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFObjectData: org.apache.poi.poifs.filesystem.DirectoryEntry getDirectory()>"
+    ],
+    "\u41bb": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: short getLastCellNum()>"
+    ],
+    "\u41fc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: java.lang.String getString()>"
+    ],
+    "\u41fe": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getActiveSheetIndex()>"
+    ],
+    "\u4208": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: boolean isFunctionName()>"
+    ],
+    "\u4226": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: int length()>"
+    ],
+    "\u426c": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.lang.String getSheetName(int)>"
+    ],
+    "\u426f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.PoiUtils: boolean customHeight(org.apache.poi.ss.usermodel.Row)>"
+    ],
+    "\u4282": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: java.util.Iterator cellIterator()>"
+    ],
+    "\u429e": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.common.UnicodeString getSSTString(int)>"
+    ],
+    "\u429f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: java.util.Date getDateCellValue()>"
+    ],
+    "\u42de": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: int getRowNum()>"
+    ],
+    "\u430e": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: java.lang.String getSheetName()>"
+    ],
+    "\u431d": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFFont getFontAt(int)>"
+    ],
+    "\u4365": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.poifs.crypt.EncryptionMode getEncryptionMode()>"
+    ],
+    "\u436e": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFShape: org.apache.poi.hssf.usermodel.HSSFAnchor getAnchor()>"
+    ],
+    "\u437a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void <init>(java.lang.String)>"
+    ],
+    "\u4392": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getTabpos()>"
+    ],
+    "\u4397": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor getColor(short)>"
+    ],
+    "\u439d": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int,short,org.apache.poi.ss.usermodel.CellType)>"
+    ],
+    "\u43d6": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Iterator iterator()>"
+    ],
+    "\u43da": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.hssf.usermodel.HSSFFont getFont(org.apache.poi.ss.usermodel.Workbook)>"
+    ],
+    "\u43fd": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getXfpos()>"
+    ],
+    "\u4457": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFDateUtil: boolean isCellDateFormatted(org.apache.poi.ss.usermodel.Cell)>"
+    ],
+    "\u4464": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: short getCol1()>"
+    ],
+    "\u448a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: void groupColumn(int,int)>"
+    ],
+    "\u4492": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfNames()>"
+    ],
+    "\u44df": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.model.InternalWorkbook getInternalWorkbook()>"
+    ],
+    "\u44f9": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBottomBorderColor()>"
+    ],
+    "\u44fe": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: float getAnchorHeightInPoints(org.apache.poi.hssf.usermodel.HSSFSheet)>"
+    ],
+    "\u450c": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderRight()>"
+    ],
+    "\u45b0": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: int getLastRowNum()>"
+    ],
+    "\u45e5": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getSupbookpos()>"
+    ],
+    "\u45f2": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getExternsheetPos()>"
+    ],
+    "\u45fd": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getPalettepos()>"
+    ],
+    "\u4610": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPicture: int getPictureIndex()>"
+    ],
+    "\u4620": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawString(java.lang.String,int,int)>"
+    ],
+    "\u4645": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalWorkbook: void checkSheets(int)>"
+    ],
+    "\u466e": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFHeader getHeader()>"
+    ],
+    "\u469b": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFHyperlink: void <init>(int)>"
+    ],
+    "\u46e1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: byte[] getBytes()>"
+    ],
+    "\u46f7": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPictureData: byte[] getData()>"
+    ],
+    "\u471d": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderLeft()>"
+    ],
+    "\u4744": [
+      "F",
+      "<org.apache.poi.hssf.model.InternalSheet: void replaceValueRecord(org.apache.poi.hssf.record.CellValueRecordInterface)>"
+    ],
+    "\u4775": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: boolean convertCellValueToBoolean()>"
+    ],
+    "\u47a2": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getStrikeout()>"
+    ],
+    "\u47be": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.HorizontalAlignment getAlignmentEnum()>"
+    ],
+    "\u47c9": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: byte getErrorCellValue()>"
+    ],
+    "\u47d5": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: void <init>(int,int,int,int,short,int,short,int)>"
+    ],
+    "\u47dc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: org.apache.poi.hssf.record.common.UnicodeString getUnicodeString()>"
+    ],
+    "\u47f9": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void fillPolygon(int[],int[],int)>"
+    ],
+    "\u482c": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFFooter getFooter()>"
+    ],
+    "\u484a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: double getNumericCellValue()>"
+    ],
+    "\u48a1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderTop()>"
+    ],
+    "\u48a4": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFComment getCellComment()>"
+    ],
+    "\u48bf": [
+      "F",
+      "<org.apache.poi.hssf.model.HSSFFormulaParser: java.lang.String toFormulaString(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.ss.formula.ptg.Ptg[])>"
+    ],
+    "\u4914": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: int getRow1()>"
+    ],
+    "\u4923": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getItalic()>"
+    ],
+    "\u4927": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumCellStyles()>"
+    ],
+    "\u492f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void fillOval(int,int,int,int)>"
+    ],
+    "\u4940": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void applyFont(org.apache.poi.ss.usermodel.Font)>"
+    ],
+    "\u4943": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderTop()>"
+    ],
+    "\u4959": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int size()>"
+    ],
+    "\u496f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.ss.util.CellAddress getActiveCell()>"
+    ],
+    "\u497a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: int getFirstRowNum()>"
+    ],
+    "\u497e": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawLine(int,int,int,int)>"
+    ],
+    "\u49a3": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAlternateFormula()>"
+    ],
+    "\u49a9": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getNamepos()>"
+    ],
+    "\u49b0": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getFirstVisibleTab()>"
+    ],
+    "\u49c7": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFObjectData: byte[] getObjectData()>"
+    ],
+    "\u49e4": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAutobreaks()>"
+    ],
+    "\u49f2": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getComment()>"
+    ],
+    "\u49f5": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFShapeGroup: int getY1()>"
+    ],
+    "\u49fa": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook)>"
+    ],
+    "\u4a0b": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Map getCellComments()>"
+    ],
+    "\u4a21": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.DirectoryNode,boolean)>"
+    ],
+    "\u4a3a": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: void notifyFormulaChanging()>"
+    ],
+    "\u4a49": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: int getIndex()>"
+    ],
+    "\u4a52": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.Collection getSelectedTabs()>"
+    ],
+    "\u4a78": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderBottomEnum()>"
+    ],
+    "\u4a81": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.record.EscherAggregate getDrawingEscherAggregate()>"
+    ],
+    "\u4a97": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPictureData: int getFormat()>"
+    ],
+    "\u4acc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFRow: int getPhysicalNumberOfCells()>"
+    ],
+    "\u4acd": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfFonts()>"
+    ],
+    "\u4adc": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllPictures()>"
+    ],
+    "\u4aff": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: int getCellType()>"
+    ],
+    "\u4b46": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getDataFormat()>"
+    ],
+    "\u4b7d": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor findColor(byte,byte,byte)>"
+    ],
+    "\u4b91": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: short getTypeOffset()>"
+    ],
+    "\u4bbb": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getBold()>"
+    ],
+    "\u4bd7": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFCellStyle getCellStyle()>"
+    ],
+    "\u4bd8": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: void <init>()>"
+    ],
+    "\u4c14": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.poi.poifs.filesystem.POIFSFileSystem,boolean)>"
+    ],
+    "\u4c2b": [
+      "F",
+      "<org.apache.poi.hssf.model.WorkbookRecordList: int getBspos()>"
+    ],
+    "\u4c2f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: void cloneStyleFrom(org.apache.poi.hssf.usermodel.HSSFCellStyle)>"
+    ],
+    "\u4c80": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: java.lang.String getDataFormatString()>"
+    ],
+    "\u4c87": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFPalette getCustomPalette()>"
+    ],
+    "\u4cd0": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: boolean getForceFormulaRecalculation()>"
+    ],
+    "\u4d0c": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderRightEnum()>"
+    ],
+    "\u4d31": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFCellStyle getCellStyleAt(int)>"
+    ],
+    "\u4d3f": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.ss.usermodel.CellType getCellTypeEnum()>"
+    ],
+    "\u4d42": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFFont: short getFontHeight()>"
+    ],
+    "\u4da1": [
+      "F",
+      "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getDialog()>"
+    ]
+  },
+  "def2var": {
+    "<org.apache.poi.hssf.model.HSSFFormulaParser: java.lang.String toFormulaString(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.ss.formula.ptg.Ptg[])>.ITR": "v_186_itr_",
+    "<org.apache.poi.hssf.model.HSSFFormulaParser: java.lang.String toFormulaString(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.ss.formula.ptg.Ptg[])>.RET": "v_186_",
+    "<org.apache.poi.hssf.model.InternalSheet: org.apache.poi.hssf.record.WindowTwoRecord getWindowTwo()>.ITR": "v_24_itr_",
+    "<org.apache.poi.hssf.model.InternalSheet: org.apache.poi.hssf.record.WindowTwoRecord getWindowTwo()>.RET": "v_24_",
+    "<org.apache.poi.hssf.model.InternalSheet: org.apache.poi.hssf.record.aggregates.RowRecordsAggregate getRowsAggregate()>.ITR": "v_140_itr_",
+    "<org.apache.poi.hssf.model.InternalSheet: org.apache.poi.hssf.record.aggregates.RowRecordsAggregate getRowsAggregate()>.RET": "v_140_",
+    "<org.apache.poi.hssf.model.InternalSheet: void replaceValueRecord(org.apache.poi.hssf.record.CellValueRecordInterface)>.ITR": "v_148_itr_",
+    "<org.apache.poi.hssf.model.InternalSheet: void replaceValueRecord(org.apache.poi.hssf.record.CellValueRecordInterface)>.RET": "v_148_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: boolean doesContainsSheetName(java.lang.String,int)>.ITR": "v_95_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: boolean doesContainsSheetName(java.lang.String,int)>.RET": "v_95_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: int getNumNames()>.ITR": "v_103_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: int getNumNames()>.RET": "v_103_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.NameRecord getNameRecord(int)>.ITR": "v_37_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.NameRecord getNameRecord(int)>.RET": "v_37_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.WindowOneRecord getWindowOne()>.ITR": "v_129_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.WindowOneRecord getWindowOne()>.RET": "v_129_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.common.UnicodeString getSSTString(int)>.ITR": "v_208_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: org.apache.poi.hssf.record.common.UnicodeString getSSTString(int)>.RET": "v_208_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: void checkSheets(int)>.ITR": "v_207_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: void checkSheets(int)>.RET": "v_207_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: void fixTabIdRecord()>.ITR": "v_77_itr_",
+    "<org.apache.poi.hssf.model.InternalWorkbook: void fixTabIdRecord()>.RET": "v_77_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getBackuppos()>.ITR": "v_137_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getBackuppos()>.RET": "v_137_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getBspos()>.ITR": "v_2_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getBspos()>.RET": "v_2_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getExternsheetPos()>.ITR": "v_146_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getExternsheetPos()>.RET": "v_146_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getFontpos()>.ITR": "v_113_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getFontpos()>.RET": "v_113_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getNamepos()>.ITR": "v_55_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getNamepos()>.RET": "v_55_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getPalettepos()>.ITR": "v_198_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getPalettepos()>.RET": "v_198_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getProtpos()>.ITR": "v_74_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getProtpos()>.RET": "v_74_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getSupbookpos()>.ITR": "v_189_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getSupbookpos()>.RET": "v_189_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getTabpos()>.ITR": "v_173_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getTabpos()>.RET": "v_173_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getXfpos()>.ITR": "v_66_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int getXfpos()>.RET": "v_66_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int size()>.ITR": "v_100_itr_",
+    "<org.apache.poi.hssf.model.WorkbookRecordList: int size()>.RET": "v_100_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void <init>(org.apache.poi.hssf.usermodel.EscherGraphics)>.ITR": "v_80_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void <init>(org.apache.poi.hssf.usermodel.EscherGraphics)>.RET": "v_80_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawLine(int,int,int,int)>.ITR": "v_178_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawLine(int,int,int,int)>.RET": "v_178_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawPolygon(int[],int[],int)>.ITR": "v_36_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawPolygon(int[],int[],int)>.RET": "v_36_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawString(java.lang.String,int,int)>.ITR": "v_197_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void drawString(java.lang.String,int,int)>.RET": "v_197_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void fillOval(int,int,int,int)>.ITR": "v_93_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void fillOval(int,int,int,int)>.RET": "v_93_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void fillPolygon(int[],int[],int)>.ITR": "v_30_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics2d: void fillPolygon(int[],int[],int)>.RET": "v_30_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics: void <init>(org.apache.poi.hssf.usermodel.HSSFShapeGroup,org.apache.poi.hssf.usermodel.HSSFWorkbook,java.awt.Color,float)>.ITR": "v_58_itr_",
+    "<org.apache.poi.hssf.usermodel.EscherGraphics: void <init>(org.apache.poi.hssf.usermodel.HSSFShapeGroup,org.apache.poi.hssf.usermodel.HSSFWorkbook,java.awt.Color,float)>.RET": "v_58_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: boolean convertCellValueToBoolean()>.ITR": "v_127_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: boolean convertCellValueToBoolean()>.RET": "v_127_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: boolean getBooleanCellValue()>.ITR": "v_20_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: boolean getBooleanCellValue()>.RET": "v_20_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: byte getErrorCellValue()>.ITR": "v_122_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: byte getErrorCellValue()>.RET": "v_122_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: double getNumericCellValue()>.ITR": "v_52_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: double getNumericCellValue()>.RET": "v_52_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: int getCellType()>.ITR": "v_17_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: int getCellType()>.RET": "v_17_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: int getColumnIndex()>.ITR": "v_56_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: int getColumnIndex()>.RET": "v_56_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String convertCellValueToString()>.ITR": "v_144_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String convertCellValueToString()>.RET": "v_144_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String getCellFormula()>.ITR": "v_206_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String getCellFormula()>.RET": "v_206_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String getStringCellValue()>.ITR": "v_16_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.lang.String getStringCellValue()>.RET": "v_16_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.util.Date getDateCellValue()>.ITR": "v_155_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: java.util.Date getDateCellValue()>.RET": "v_155_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.record.CellValueRecordInterface getCellValueRecord()>.ITR": "v_68_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.record.CellValueRecordInterface getCellValueRecord()>.RET": "v_68_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFCellStyle getCellStyle()>.ITR": "v_26_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFCellStyle getCellStyle()>.RET": "v_26_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFComment getCellComment()>.ITR": "v_149_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFComment getCellComment()>.RET": "v_149_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFSheet getSheet()>.ITR": "v_120_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.hssf.usermodel.HSSFSheet getSheet()>.RET": "v_120_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.ss.usermodel.CellType getCellType()>.ITR": "v_171_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.ss.usermodel.CellType getCellType()>.RET": "v_171_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.ss.usermodel.CellType getCellTypeEnum()>.ITR": "v_89_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: org.apache.poi.ss.usermodel.CellType getCellTypeEnum()>.RET": "v_89_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int,short,int)>.ITR": "v_142_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int,short,int)>.RET": "v_142_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int,short,org.apache.poi.ss.usermodel.CellType)>.ITR": "v_14_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int,short,org.apache.poi.ss.usermodel.CellType)>.RET": "v_14_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: void notifyFormulaChanging()>.ITR": "v_136_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCell: void notifyFormulaChanging()>.RET": "v_136_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: int hashCode()>.ITR": "v_167_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: int hashCode()>.RET": "v_167_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: java.lang.String getDataFormatString()>.ITR": "v_204_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: java.lang.String getDataFormatString()>.RET": "v_204_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.hssf.usermodel.HSSFFont getFont(org.apache.poi.ss.usermodel.Workbook)>.ITR": "v_32_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.hssf.usermodel.HSSFFont getFont(org.apache.poi.ss.usermodel.Workbook)>.RET": "v_32_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.hssf.util.HSSFColor getFillForegroundColorColor()>.ITR": "v_132_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.hssf.util.HSSFColor getFillForegroundColorColor()>.RET": "v_132_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderBottom()>.ITR": "v_200_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderBottom()>.RET": "v_200_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderBottomEnum()>.ITR": "v_48_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderBottomEnum()>.RET": "v_48_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderLeft()>.ITR": "v_106_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderLeft()>.RET": "v_106_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderLeftEnum()>.ITR": "v_47_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderLeftEnum()>.RET": "v_47_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderRight()>.ITR": "v_27_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderRight()>.RET": "v_27_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderRightEnum()>.ITR": "v_91_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderRightEnum()>.RET": "v_91_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderTop()>.ITR": "v_124_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderTop()>.RET": "v_124_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderTopEnum()>.ITR": "v_79_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.BorderStyle getBorderTopEnum()>.RET": "v_79_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.FillPatternType getFillPattern()>.ITR": "v_35_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.FillPatternType getFillPattern()>.RET": "v_35_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.FillPatternType getFillPatternEnum()>.ITR": "v_64_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.FillPatternType getFillPatternEnum()>.RET": "v_64_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.HorizontalAlignment getAlignment()>.ITR": "v_44_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.HorizontalAlignment getAlignment()>.RET": "v_44_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.HorizontalAlignment getAlignmentEnum()>.ITR": "v_28_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.HorizontalAlignment getAlignmentEnum()>.RET": "v_28_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.VerticalAlignment getVerticalAlignmentEnum()>.ITR": "v_23_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: org.apache.poi.ss.usermodel.VerticalAlignment getVerticalAlignmentEnum()>.RET": "v_23_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderBottom()>.ITR": "v_128_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderBottom()>.RET": "v_128_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderLeft()>.ITR": "v_72_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderLeft()>.RET": "v_72_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderRight()>.ITR": "v_73_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderRight()>.RET": "v_73_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderTop()>.ITR": "v_60_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBorderTop()>.RET": "v_60_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBottomBorderColor()>.ITR": "v_191_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getBottomBorderColor()>.RET": "v_191_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getDataFormat()>.ITR": "v_195_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getDataFormat()>.RET": "v_195_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getFillForegroundColor()>.ITR": "v_147_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getFillForegroundColor()>.RET": "v_147_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getLeftBorderColor()>.ITR": "v_203_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getLeftBorderColor()>.RET": "v_203_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getRightBorderColor()>.ITR": "v_4_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getRightBorderColor()>.RET": "v_4_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getTopBorderColor()>.ITR": "v_90_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: short getTopBorderColor()>.RET": "v_90_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: void cloneStyleFrom(org.apache.poi.hssf.usermodel.HSSFCellStyle)>.ITR": "v_125_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFCellStyle: void cloneStyleFrom(org.apache.poi.hssf.usermodel.HSSFCellStyle)>.RET": "v_125_",
+    "<org.apache.poi.hssf.usermodel.HSSFChildAnchor: void <init>(int,int,int,int)>.ITR": "v_199_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFChildAnchor: void <init>(int,int,int,int)>.RET": "v_199_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: float getAnchorHeightInPoints(org.apache.poi.hssf.usermodel.HSSFSheet)>.ITR": "v_175_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: float getAnchorHeightInPoints(org.apache.poi.hssf.usermodel.HSSFSheet)>.RET": "v_175_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: int getRow1()>.ITR": "v_163_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: int getRow1()>.RET": "v_163_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: short getCol1()>.ITR": "v_42_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: short getCol1()>.RET": "v_42_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: void <init>()>.ITR": "v_53_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: void <init>()>.RET": "v_53_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: void <init>(int,int,int,int,short,int,short,int)>.ITR": "v_130_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFClientAnchor: void <init>(int,int,int,int,short,int,short,int)>.RET": "v_130_",
+    "<org.apache.poi.hssf.usermodel.HSSFDataFormat: short getFormat(java.lang.String)>.ITR": "v_96_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFDataFormat: short getFormat(java.lang.String)>.RET": "v_96_",
+    "<org.apache.poi.hssf.usermodel.HSSFDateUtil: boolean isCellDateFormatted(org.apache.poi.ss.usermodel.Cell)>.ITR": "v_67_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFDateUtil: boolean isCellDateFormatted(org.apache.poi.ss.usermodel.Cell)>.RET": "v_67_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getBold()>.ITR": "v_69_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getBold()>.RET": "v_69_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getItalic()>.ITR": "v_98_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getItalic()>.RET": "v_98_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getStrikeout()>.ITR": "v_51_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: boolean getStrikeout()>.RET": "v_51_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: byte getUnderline()>.ITR": "v_114_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: byte getUnderline()>.RET": "v_114_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: int getCharSet()>.ITR": "v_139_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: int getCharSet()>.RET": "v_139_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: int getIndex()>.ITR": "v_21_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: int getIndex()>.RET": "v_21_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: int getIndexAsInt()>.ITR": "v_161_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: int getIndexAsInt()>.RET": "v_161_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: java.lang.String getFontName()>.ITR": "v_107_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: java.lang.String getFontName()>.RET": "v_107_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: org.apache.poi.hssf.util.HSSFColor getHSSFColor(org.apache.poi.hssf.usermodel.HSSFWorkbook)>.ITR": "v_18_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: org.apache.poi.hssf.util.HSSFColor getHSSFColor(org.apache.poi.hssf.usermodel.HSSFWorkbook)>.RET": "v_18_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getColor()>.ITR": "v_174_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getColor()>.RET": "v_174_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getFontHeight()>.ITR": "v_205_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getFontHeight()>.RET": "v_205_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getFontHeightInPoints()>.ITR": "v_116_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getFontHeightInPoints()>.RET": "v_116_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getTypeOffset()>.ITR": "v_63_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFFont: short getTypeOffset()>.RET": "v_63_",
+    "<org.apache.poi.hssf.usermodel.HSSFHyperlink: void <init>(int)>.ITR": "v_15_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFHyperlink: void <init>(int)>.RET": "v_15_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: boolean isDeleted()>.ITR": "v_119_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: boolean isDeleted()>.RET": "v_119_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: boolean isFunctionName()>.ITR": "v_162_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: boolean isFunctionName()>.RET": "v_162_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: boolean isHidden()>.ITR": "v_1_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: boolean isHidden()>.RET": "v_1_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: int getSheetIndex()>.ITR": "v_62_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: int getSheetIndex()>.RET": "v_62_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getComment()>.ITR": "v_194_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getComment()>.RET": "v_194_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getNameName()>.ITR": "v_0_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getNameName()>.RET": "v_0_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getRefersToFormula()>.ITR": "v_117_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getRefersToFormula()>.RET": "v_117_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getSheetName()>.ITR": "v_61_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFName: java.lang.String getSheetName()>.RET": "v_61_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: boolean hasDirectoryEntry()>.ITR": "v_134_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: boolean hasDirectoryEntry()>.RET": "v_134_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: byte[] getObjectData()>.ITR": "v_181_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: byte[] getObjectData()>.RET": "v_181_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: java.lang.String getOLE2ClassName()>.ITR": "v_75_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: java.lang.String getOLE2ClassName()>.RET": "v_75_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: org.apache.poi.poifs.filesystem.DirectoryEntry getDirectory()>.ITR": "v_104_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFObjectData: org.apache.poi.poifs.filesystem.DirectoryEntry getDirectory()>.RET": "v_104_",
+    "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor findColor(byte,byte,byte)>.ITR": "v_83_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor findColor(byte,byte,byte)>.RET": "v_83_",
+    "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor findSimilarColor(int,int,int)>.ITR": "v_123_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor findSimilarColor(int,int,int)>.RET": "v_123_",
+    "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor getColor(short)>.ITR": "v_152_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPalette: org.apache.poi.hssf.util.HSSFColor getColor(short)>.RET": "v_152_",
+    "<org.apache.poi.hssf.usermodel.HSSFPatriarch: java.util.List getChildren()>.ITR": "v_145_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPatriarch: java.util.List getChildren()>.RET": "v_145_",
+    "<org.apache.poi.hssf.usermodel.HSSFPicture: int getPictureIndex()>.ITR": "v_168_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPicture: int getPictureIndex()>.RET": "v_168_",
+    "<org.apache.poi.hssf.usermodel.HSSFPicture: void resize()>.ITR": "v_3_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPicture: void resize()>.RET": "v_3_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: byte[] getData()>.ITR": "v_111_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: byte[] getData()>.RET": "v_111_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: int getFormat()>.ITR": "v_12_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: int getFormat()>.RET": "v_12_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: int getPictureType()>.ITR": "v_131_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: int getPictureType()>.RET": "v_131_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: java.lang.String getMimeType()>.ITR": "v_76_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: java.lang.String getMimeType()>.RET": "v_76_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: java.lang.String suggestFileExtension()>.ITR": "v_78_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFPictureData: java.lang.String suggestFileExtension()>.RET": "v_78_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: int length()>.ITR": "v_159_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: int length()>.RET": "v_159_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: java.lang.String getString()>.ITR": "v_102_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: java.lang.String getString()>.RET": "v_102_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: org.apache.poi.hssf.record.common.UnicodeString getUnicodeString()>.ITR": "v_179_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: org.apache.poi.hssf.record.common.UnicodeString getUnicodeString()>.RET": "v_179_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void <init>()>.ITR": "v_176_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void <init>()>.RET": "v_176_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void <init>(java.lang.String)>.ITR": "v_202_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void <init>(java.lang.String)>.RET": "v_202_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void applyFont(int,int,org.apache.poi.ss.usermodel.Font)>.ITR": "v_183_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void applyFont(int,int,org.apache.poi.ss.usermodel.Font)>.RET": "v_183_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void applyFont(org.apache.poi.ss.usermodel.Font)>.ITR": "v_170_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRichTextString: void applyFont(org.apache.poi.ss.usermodel.Font)>.RET": "v_170_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: float getHeightInPoints()>.ITR": "v_172_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: float getHeightInPoints()>.RET": "v_172_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: int getOutlineLevel()>.ITR": "v_41_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: int getOutlineLevel()>.RET": "v_41_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: int getPhysicalNumberOfCells()>.ITR": "v_99_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: int getPhysicalNumberOfCells()>.RET": "v_99_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: int getRowNum()>.ITR": "v_10_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: int getRowNum()>.RET": "v_10_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: java.util.Iterator cellIterator()>.ITR": "v_185_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: java.util.Iterator cellIterator()>.RET": "v_185_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: java.util.Iterator iterator()>.ITR": "v_9_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: java.util.Iterator iterator()>.RET": "v_9_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: org.apache.poi.hssf.record.RowRecord getRowRecord()>.ITR": "v_110_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: org.apache.poi.hssf.record.RowRecord getRowRecord()>.RET": "v_110_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: org.apache.poi.hssf.usermodel.HSSFCell getCell(int)>.ITR": "v_29_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: org.apache.poi.hssf.usermodel.HSSFCell getCell(int)>.RET": "v_29_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: short getFirstCellNum()>.ITR": "v_105_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: short getFirstCellNum()>.RET": "v_105_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: short getHeight()>.ITR": "v_166_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: short getHeight()>.RET": "v_166_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: short getLastCellNum()>.ITR": "v_190_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: short getLastCellNum()>.RET": "v_190_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int)>.ITR": "v_180_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFRow: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook,org.apache.poi.hssf.usermodel.HSSFSheet,int)>.RET": "v_180_",
+    "<org.apache.poi.hssf.usermodel.HSSFShape: org.apache.poi.hssf.usermodel.HSSFAnchor getAnchor()>.ITR": "v_88_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFShape: org.apache.poi.hssf.usermodel.HSSFAnchor getAnchor()>.RET": "v_88_",
+    "<org.apache.poi.hssf.usermodel.HSSFShapeGroup: int getY1()>.ITR": "v_54_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFShapeGroup: int getY1()>.RET": "v_54_",
+    "<org.apache.poi.hssf.usermodel.HSSFShapeGroup: int getY2()>.ITR": "v_158_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFShapeGroup: int getY2()>.RET": "v_158_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAlternateExpression()>.ITR": "v_160_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAlternateExpression()>.RET": "v_160_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAlternateFormula()>.ITR": "v_115_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAlternateFormula()>.RET": "v_115_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAutobreaks()>.ITR": "v_126_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getAutobreaks()>.RET": "v_126_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getDialog()>.ITR": "v_31_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean getDialog()>.RET": "v_31_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean isSelected()>.ITR": "v_187_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: boolean isSelected()>.RET": "v_187_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getColumnWidth(int)>.ITR": "v_25_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getColumnWidth(int)>.RET": "v_25_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getFirstRowNum()>.ITR": "v_84_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getFirstRowNum()>.RET": "v_84_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getLastRowNum()>.ITR": "v_156_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getLastRowNum()>.RET": "v_156_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getNumMergedRegions()>.ITR": "v_169_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getNumMergedRegions()>.RET": "v_169_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getPhysicalNumberOfRows()>.ITR": "v_85_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: int getPhysicalNumberOfRows()>.RET": "v_85_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.lang.String getSheetName()>.ITR": "v_121_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.lang.String getSheetName()>.RET": "v_121_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Iterator iterator()>.ITR": "v_43_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Iterator iterator()>.RET": "v_43_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Iterator rowIterator()>.ITR": "v_33_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Iterator rowIterator()>.RET": "v_33_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Map getCellComments()>.ITR": "v_86_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: java.util.Map getCellComments()>.RET": "v_86_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.model.InternalSheet getSheet()>.ITR": "v_82_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.model.InternalSheet getSheet()>.RET": "v_82_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.record.EscherAggregate getDrawingEscherAggregate()>.ITR": "v_151_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.record.EscherAggregate getDrawingEscherAggregate()>.RET": "v_151_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFFooter getFooter()>.ITR": "v_22_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFFooter getFooter()>.RET": "v_22_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFHeader getHeader()>.ITR": "v_192_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFHeader getHeader()>.RET": "v_192_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFPatriarch getDrawingPatriarch()>.ITR": "v_38_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFPatriarch getDrawingPatriarch()>.RET": "v_38_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFPrintSetup getPrintSetup()>.ITR": "v_201_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFPrintSetup getPrintSetup()>.RET": "v_201_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFRow getRow(int)>.ITR": "v_97_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFRow getRow(int)>.RET": "v_97_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFWorkbook getWorkbook()>.ITR": "v_182_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.hssf.usermodel.HSSFWorkbook getWorkbook()>.RET": "v_182_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.ss.util.CellAddress getActiveCell()>.ITR": "v_11_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.ss.util.CellAddress getActiveCell()>.RET": "v_11_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.ss.util.CellRangeAddress getMergedRegion(int)>.ITR": "v_65_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: org.apache.poi.ss.util.CellRangeAddress getMergedRegion(int)>.RET": "v_65_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: short getDefaultRowHeight()>.ITR": "v_153_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: short getDefaultRowHeight()>.RET": "v_153_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook)>.ITR": "v_143_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: void <init>(org.apache.poi.hssf.usermodel.HSSFWorkbook)>.RET": "v_143_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: void groupColumn(int,int)>.ITR": "v_50_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: void groupColumn(int,int)>.RET": "v_50_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: void groupRow(int,int)>.ITR": "v_157_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSheet: void groupRow(int,int)>.RET": "v_157_",
+    "<org.apache.poi.hssf.usermodel.HSSFSimpleShape: org.apache.poi.hssf.usermodel.HSSFAnchor getAnchor()>.ITR": "v_8_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFSimpleShape: org.apache.poi.hssf.usermodel.HSSFAnchor getAnchor()>.RET": "v_8_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: boolean getBackupFlag()>.ITR": "v_13_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: boolean getBackupFlag()>.RET": "v_13_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: boolean getForceFormulaRecalculation()>.ITR": "v_5_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: boolean getForceFormulaRecalculation()>.RET": "v_5_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: byte[] getBytes()>.ITR": "v_164_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: byte[] getBytes()>.RET": "v_164_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getActiveSheetIndex()>.ITR": "v_70_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getActiveSheetIndex()>.RET": "v_70_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getFirstVisibleTab()>.ITR": "v_40_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getFirstVisibleTab()>.RET": "v_40_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumCellStyles()>.ITR": "v_7_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumCellStyles()>.RET": "v_7_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfFonts()>.ITR": "v_138_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfFonts()>.RET": "v_138_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfNames()>.ITR": "v_6_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfNames()>.RET": "v_6_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfSheets()>.ITR": "v_118_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getNumberOfSheets()>.RET": "v_118_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getSheetIndex(java.lang.String)>.ITR": "v_165_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: int getSheetIndex(java.lang.String)>.RET": "v_165_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.lang.String getSheetName(int)>.ITR": "v_81_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.lang.String getSheetName(int)>.RET": "v_81_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.Collection getSelectedTabs()>.ITR": "v_19_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.Collection getSelectedTabs()>.RET": "v_19_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllEmbeddedObjects()>.ITR": "v_34_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllEmbeddedObjects()>.RET": "v_34_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllNames()>.ITR": "v_193_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllNames()>.RET": "v_193_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllPictures()>.ITR": "v_177_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: java.util.List getAllPictures()>.RET": "v_177_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hpsf.DocumentSummaryInformation getDocumentSummaryInformation()>.ITR": "v_57_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hpsf.DocumentSummaryInformation getDocumentSummaryInformation()>.RET": "v_57_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hpsf.SummaryInformation getSummaryInformation()>.ITR": "v_87_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hpsf.SummaryInformation getSummaryInformation()>.RET": "v_87_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.model.InternalWorkbook getInternalWorkbook()>.ITR": "v_94_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.model.InternalWorkbook getInternalWorkbook()>.RET": "v_94_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.model.InternalWorkbook getWorkbook()>.ITR": "v_101_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.model.InternalWorkbook getWorkbook()>.RET": "v_101_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFCellStyle getCellStyleAt(int)>.ITR": "v_188_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFCellStyle getCellStyleAt(int)>.RET": "v_188_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFCreationHelper getCreationHelper()>.ITR": "v_133_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFCreationHelper getCreationHelper()>.RET": "v_133_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFFont getFontAt(int)>.ITR": "v_196_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFFont getFontAt(int)>.RET": "v_196_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFPalette getCustomPalette()>.ITR": "v_141_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFPalette getCustomPalette()>.RET": "v_141_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFSheet getSheet(java.lang.String)>.ITR": "v_108_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFSheet getSheet(java.lang.String)>.RET": "v_108_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFSheet getSheetAt(int)>.ITR": "v_109_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.hssf.usermodel.HSSFSheet getSheetAt(int)>.RET": "v_109_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.poifs.crypt.EncryptionInfo getEncryptionInfo()>.ITR": "v_135_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.poifs.crypt.EncryptionInfo getEncryptionInfo()>.RET": "v_135_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.poifs.crypt.EncryptionMode getEncryptionMode()>.ITR": "v_184_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.poifs.crypt.EncryptionMode getEncryptionMode()>.RET": "v_184_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.ss.usermodel.Row$MissingCellPolicy getMissingCellPolicy()>.ITR": "v_49_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: org.apache.poi.ss.usermodel.Row$MissingCellPolicy getMissingCellPolicy()>.RET": "v_49_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>()>.ITR": "v_154_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>()>.RET": "v_154_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>.ITR": "v_92_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream)>.RET": "v_92_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream,boolean)>.ITR": "v_45_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(java.io.InputStream,boolean)>.RET": "v_45_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.DirectoryNode,boolean)>.ITR": "v_46_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.DirectoryNode,boolean)>.RET": "v_46_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.poi.poifs.filesystem.POIFSFileSystem,boolean)>.ITR": "v_112_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.poi.poifs.filesystem.POIFSFileSystem,boolean)>.RET": "v_112_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.POIFSFileSystem)>.ITR": "v_209_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void <init>(org.apache.poi.poifs.filesystem.POIFSFileSystem)>.RET": "v_209_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void close()>.ITR": "v_39_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void close()>.RET": "v_39_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void dumpDrawingGroupRecords(boolean)>.ITR": "v_59_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void dumpDrawingGroupRecords(boolean)>.RET": "v_59_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void validateSheetIndex(int)>.ITR": "v_71_itr_",
+    "<org.apache.poi.hssf.usermodel.HSSFWorkbook: void validateSheetIndex(int)>.RET": "v_71_",
+    "<org.apache.poi.hssf.usermodel.PoiUtils: boolean customHeight(org.apache.poi.ss.usermodel.Row)>.ITR": "v_150_itr_",
+    "<org.apache.poi.hssf.usermodel.PoiUtils: boolean customHeight(org.apache.poi.ss.usermodel.Row)>.RET": "v_150_",
+    "null": "null"
+  }
+}

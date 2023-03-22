@@ -1,0 +1,5 @@
+{
+	"<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.File)>" : "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>",
+	"<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String)>" : "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>",
+	"<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter)>" : "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader)>"
+}

@@ -1,0 +1,103 @@
+{
+	"funcMeta" : {
+		"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>" : {
+			"ins": {
+				"arg0": {
+					"tag": "arg0",
+					"type": "byte[]"
+				},
+				"cls": {
+					"tag": "cls",
+					"type": "org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+				}
+			},
+			"name": "read",
+			"outs": {
+				"ret": {
+					"tag": "ret",
+					"type": "int"
+				}
+			},
+            "isStatic": false
+		}
+	}, 
+	"dataDeps" : [
+		[
+			"fake",
+			"fake",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String)>",
+			"arg0",
+			"manually add"
+		],
+		[
+			"fake",
+			"fake",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String,byte)>",
+			"arg0",
+			"manually add"
+		],
+		[
+			"fake",
+			"fake",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.lang.String,byte)>",
+			"arg1",
+			"manually add"
+		],
+		[
+			"fake",
+			"fake",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.io.File,java.lang.String)>",
+			"arg0",
+			"manually add"
+		],
+		[
+			"fake",
+			"fake",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveEntry: void <init>(java.io.File,java.lang.String)>",
+			"arg1",
+			"manually add"
+		],
+		[
+			"fake",
+			"fake",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean matches(byte[],int)>",
+			"arg0",
+			"manually add"
+		],
+		[
+			"constant",
+			"0",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: boolean matches(byte[],int)>",
+			"arg1",
+			"manually add"
+		],
+		[
+			"input",
+			"input",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void <init>(java.io.InputStream)>",
+			"arg0",
+			"manually add"
+		],
+		[
+			"constant",
+			"0",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>",
+			"arg1",
+			"manually add"
+		],
+		[
+			"constant",
+			"new byte[1024]",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[],int,int)>",
+			"arg0",
+			"manually add"
+		],
+		[
+			"constant",
+			"new byte[1024]",
+			"<org.apache.commons.compress.archivers.tar.TarArchiveInputStream: int read(byte[])>",
+			"arg0",
+			"manually add"
+		]
+	]
+}

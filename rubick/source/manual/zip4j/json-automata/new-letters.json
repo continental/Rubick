@@ -1,0 +1,25 @@
+{
+	"alphabets": [
+		{
+			"func": "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>",
+			"type": "call"
+		}
+	],
+	"initial": [
+		"0"
+	],
+	"name": "manually-add-missing-functions-to-alphabet",
+	"map": {
+		"0": {
+			"1": {
+				"func": "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>",
+				"type": "call"
+			}
+		}
+	},
+	"states": [
+		"0",
+		"1"
+	]
+}
+

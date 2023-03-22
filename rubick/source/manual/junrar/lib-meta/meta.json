@@ -1,0 +1,45 @@
+{
+	"funcMeta" : {
+		"<com.github.junrar.Archive: void <init>(java.io.InputStream)>": {
+			"ins": {
+				"arg0": {
+					"tag": "arg0",
+					"type": "java.io.InputStream"
+				}
+			},
+			"isStatic": false,
+			"name": "new com.github.junrar.Archive",
+			"outs": {
+				"ret": {
+					"tag": "ret",
+					"type": "com.github.junrar.Archive"
+				}
+			}
+		}
+	}, 
+	"dataDeps" : [
+
+		[
+			"constant",
+			"java.io.OutputStream.nullOutputStream()",
+			"<com.github.junrar.Archive: void extractFile(com.github.junrar.rarfile.FileHeader,java.io.OutputStream)>",
+			"arg1",
+			"manually add"
+		],
+		[
+			"<com.github.junrar.Archive: void <init>(java.io.InputStream)",
+			"ret",
+			"<com.github.junrar.Archive: void close()>",
+			"cls",
+			"manually add"
+		],
+		[
+			"input",
+			"input",
+			"<com.github.junrar.Archive: void <init>(java.io.InputStream)>",
+			"arg0",
+			"manually add"
+		]
+
+	]
+}
