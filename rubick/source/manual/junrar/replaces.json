@@ -1,0 +1,5 @@
+{
+    "<com.github.junrar.Archive: void <init>(com.github.junrar.VolumeManager)>" : "<com.github.junrar.Archive: void <init>(java.io.InputStream)>",
+    "<com.github.junrar.Archive: void <init>(java.io.File)>" : "<com.github.junrar.Archive: void <init>(java.io.InputStream)>",
+    "<com.github.junrar.Archive: void <init>(java.io.File,com.github.junrar.UnrarCallback)>" : "<com.github.junrar.Archive: void <init>(java.io.InputStream)>"
+}

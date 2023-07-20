@@ -1,0 +1,3 @@
+{
+	"<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream,char[])>" : "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>"
+}

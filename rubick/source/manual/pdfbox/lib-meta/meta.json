@@ -1,0 +1,21 @@
+{
+	"funcMeta" : {
+	}, 
+	"dataDeps" : [
+                [
+                        "constant",
+                        "new byte[1024]",
+			"<org.apache.pdfbox.pdmodel.PDDocument: org.apache.pdfbox.pdmodel.PDDocument load(byte[])>",
+                        "arg0",
+                        "manually add"
+                ],
+                [
+                        "input",
+                        "input",
+			"<org.apache.pdfbox.pdmodel.PDDocument: org.apache.pdfbox.pdmodel.PDDocument load(java.io.InputStream)>",
+                        "arg0",
+                        "manually add"
+                ]
+
+	]
+}

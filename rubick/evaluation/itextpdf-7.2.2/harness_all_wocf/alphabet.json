@@ -1,0 +1,1267 @@
+{
+  "alias2event": {
+    "P": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: java.lang.String toString()>"
+    ],
+    "i": [
+      "F",
+      "<com.itextpdf.kernel.pdf.ReaderProperties: void clearEncryptionParams()>"
+    ],
+    "\u3401": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNull: byte getType()>"
+    ],
+    "\u340c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream newContentStreamAfter()>"
+    ],
+    "\u341a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfAConformanceLevel: java.lang.String getConformance()>"
+    ],
+    "\u3436": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream,com.itextpdf.kernel.pdf.ReaderProperties)>"
+    ],
+    "\u3458": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: void release()>"
+    ],
+    "\u347d": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfLiteral: java.lang.String toString()>"
+    ],
+    "\u34b5": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: int getRotation()>"
+    ],
+    "\u34bf": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.PdfDictionary getResource(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u34d6": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: boolean containsKey(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u34e7": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: boolean isEmpty()>"
+    ],
+    "\u34f0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfArray getAsArray(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u3544": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfOutline: com.itextpdf.kernel.pdf.PdfDictionary getContent()>"
+    ],
+    "\u3549": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfName: java.lang.String toString()>"
+    ],
+    "\u3590": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void <init>(com.itextpdf.io.source.IRandomAccessSource,com.itextpdf.kernel.pdf.ReaderProperties)>"
+    ],
+    "\u35a0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfIndirectReference: int getGenNumber()>"
+    ],
+    "\u35b6": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>"
+    ],
+    "\u35b7": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader)>"
+    ],
+    "\u35be": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getTitle()>"
+    ],
+    "\u35d9": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: boolean isClosed()>"
+    ],
+    "\u363d": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: int getNumberOfPdfObjects()>"
+    ],
+    "\u3644": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.font.PdfFont getDefaultFont()>"
+    ],
+    "\u367a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getTrimBox()>"
+    ],
+    "\u367e": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u3690": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: byte getType()>"
+    ],
+    "\u36ba": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: java.util.Iterator iterator()>"
+    ],
+    "\u36eb": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.colorspace.PdfShading getShading(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u36ef": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfResources: void <init>()>"
+    ],
+    "\u3703": [
+      "F",
+      "<com.itextpdf.kernel.pdf.ReaderProperties: void <init>()>"
+    ],
+    "\u3710": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getPageSizeWithRotation()>"
+    ],
+    "\u378e": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: long getPermissions()>"
+    ],
+    "\u37bc": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: java.util.Set keySet()>"
+    ],
+    "\u37c4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.File)>"
+    ],
+    "\u37e0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfTextArray: void <init>()>"
+    ],
+    "\u380e": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter)>"
+    ],
+    "\u3839": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream getLastContentStream()>"
+    ],
+    "\u383b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: byte[] getBytes()>"
+    ],
+    "\u3864": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfViewerPreferences: void <init>()>"
+    ],
+    "\u386c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isStream()>"
+    ],
+    "\u38b4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u38c4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isIndirect()>"
+    ],
+    "\u38e8": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String)>"
+    ],
+    "\u390a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.geom.Rectangle toRectangle()>"
+    ],
+    "\u3954": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfOutputStream getOutputStream()>"
+    ],
+    "\u395b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: java.util.List listIndirectReferences()>"
+    ],
+    "\u3977": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfName getAsName(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u39da": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfName: java.lang.String getValue()>"
+    ],
+    "\u3a03": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNull: java.lang.String toString()>"
+    ],
+    "\u3a34": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: void <init>(java.lang.String)>"
+    ],
+    "\u3a46": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfOutline: void <init>(java.lang.String,com.itextpdf.kernel.pdf.PdfDictionary,com.itextpdf.kernel.pdf.PdfOutline)>"
+    ],
+    "\u3a5f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isIndirectReference()>"
+    ],
+    "\u3a67": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getProducer()>"
+    ],
+    "\u3a98": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfName getTabOrder()>"
+    ],
+    "\u3a9f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: int getCryptoMode()>"
+    ],
+    "\u3ae0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfName getAsName(int)>"
+    ],
+    "\u3ae3": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: byte[] getXmpMetadata()>"
+    ],
+    "\u3ae4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDashPattern: void <init>()>"
+    ],
+    "\u3b0d": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: int getAnnotsSize()>"
+    ],
+    "\u3b0f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u3b13": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: boolean containsKey(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u3b64": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: java.util.List getOutlines(boolean)>"
+    ],
+    "\u3b80": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getArtBox()>"
+    ],
+    "\u3ba6": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: int size()>"
+    ],
+    "\u3ba7": [
+      "F",
+      "<com.itextpdf.kernel.pdf.StampingProperties: com.itextpdf.kernel.pdf.StampingProperties preserveEncryption()>"
+    ],
+    "\u3bc3": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfString getLang()>"
+    ],
+    "\u3bc9": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getSubject()>"
+    ],
+    "\u3bca": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.commons.actions.sequence.SequenceId getDocumentIdWrapper()>"
+    ],
+    "\u3c1b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>"
+    ],
+    "\u3c22": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getPageSize()>"
+    ],
+    "\u3c54": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfAnnotationBorder: void <init>(float,float,float,com.itextpdf.kernel.pdf.PdfDashPattern)>"
+    ],
+    "\u3c70": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: int getContentStreamCount()>"
+    ],
+    "\u3c81": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: boolean isOpenedWithFullPermission()>"
+    ],
+    "\u3c86": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: boolean hasHybridXref()>"
+    ],
+    "\u3c8a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>(float[])>"
+    ],
+    "\u3c8b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>(int[])>"
+    ],
+    "\u3ce5": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject get(int)>"
+    ],
+    "\u3cf2": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: void <init>(byte[])>"
+    ],
+    "\u3cfb": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDate: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>"
+    ],
+    "\u3d16": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfStream getAsStream(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u3d21": [
+      "F",
+      "<com.itextpdf.kernel.pdf.StampingProperties: void <init>()>"
+    ],
+    "\u3d4b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u3d90": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: long getFileLength()>"
+    ],
+    "\u3db6": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: void flush()>"
+    ],
+    "\u3e01": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: byte[] computeUserPassword()>"
+    ],
+    "\u3e58": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.tagging.PdfStructTreeRoot getStructTreeRoot()>"
+    ],
+    "\u3e89": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: com.itextpdf.kernel.pdf.PdfAConformanceLevel getPdfAConformanceLevel()>"
+    ],
+    "\u3ec4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter,com.itextpdf.kernel.pdf.StampingProperties)>"
+    ],
+    "\u3ee4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfName: void <init>(java.lang.String)>"
+    ],
+    "\u3f60": [
+      "F",
+      "<com.itextpdf.kernel.pdf.DocumentProperties: void <init>()>"
+    ],
+    "\u3f6b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: boolean isCloseStream()>"
+    ],
+    "\u3f70": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfResources getResources()>"
+    ],
+    "\u3f98": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>"
+    ],
+    "\u3fa0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isNumber()>"
+    ],
+    "\u3fea": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfWriter getWriter()>"
+    ],
+    "\u3feb": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfDocument getDocument()>"
+    ],
+    "\u4029": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: boolean isHexWriting()>"
+    ],
+    "\u404b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfDocument getDocument()>"
+    ],
+    "\u4053": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNameTree: com.itextpdf.kernel.pdf.PdfDictionary buildTree()>"
+    ],
+    "\u406a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void movePage(int,int)>"
+    ],
+    "\u4092": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: void <init>(java.lang.String,java.lang.String)>"
+    ],
+    "\u40ae": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfDictionary getAsDictionary(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u40e0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfWriter,com.itextpdf.kernel.pdf.DocumentProperties)>"
+    ],
+    "\u40e3": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isArray()>"
+    ],
+    "\u4107": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNameTree: void <init>(com.itextpdf.kernel.pdf.PdfCatalog,com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u4118": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: void clear()>"
+    ],
+    "\u411a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>"
+    ],
+    "\u415e": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: byte[] readStreamBytesRaw(com.itextpdf.kernel.pdf.PdfStream)>"
+    ],
+    "\u4166": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: boolean hasXrefStm()>"
+    ],
+    "\u4168": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String,com.itextpdf.kernel.pdf.ReaderProperties)>"
+    ],
+    "\u416c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: java.lang.String getValue()>"
+    ],
+    "\u4195": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: int getStructParentIndex()>"
+    ],
+    "\u41dc": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfStream getAsStream(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u41e3": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isDictionary()>"
+    ],
+    "\u41f4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(int)>"
+    ],
+    "\u4204": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfArray getAsArray(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u4205": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfIndirectReference: com.itextpdf.kernel.pdf.PdfObject getRefersTo(boolean)>"
+    ],
+    "\u424c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNumber: void <init>(int)>"
+    ],
+    "\u4251": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfArray getAsArray(int)>"
+    ],
+    "\u42d7": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream getXmpMetadata()>"
+    ],
+    "\u42dc": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfString getAsString(int)>"
+    ],
+    "\u42e5": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>()>"
+    ],
+    "\u42fa": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>"
+    ],
+    "\u42ff": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfAnnotationBorder: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>"
+    ],
+    "\u4309": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: boolean isEncrypted()>"
+    ],
+    "\u4334": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfIndirectReference getIndirectReference()>"
+    ],
+    "\u4357": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.xobject.PdfImageXObject getThumbnailImage()>"
+    ],
+    "\u4361": [
+      "F",
+      "<com.itextpdf.kernel.pdf.StampingProperties: com.itextpdf.kernel.pdf.StampingProperties useAppendMode()>"
+    ],
+    "\u4366": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isString()>"
+    ],
+    "\u436e": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: boolean isIgnorePageRotationForContent()>"
+    ],
+    "\u4376": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: byte[] getContentBytes()>"
+    ],
+    "\u43cf": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: byte[] getBytes(boolean)>"
+    ],
+    "\u441d": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfNameTree getNameTree(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u4487": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getLastPage()>"
+    ],
+    "\u448f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfName getAsName(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u44d5": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: int getNumberOfPages()>"
+    ],
+    "\u44f4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfIndirectReference: int getObjNumber()>"
+    ],
+    "\u44fc": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfArray getAssociatedFiles()>"
+    ],
+    "\u4505": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: java.lang.String getEncoding()>"
+    ],
+    "\u4518": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName,boolean)>"
+    ],
+    "\u4533": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: void putAll(com.itextpdf.kernel.pdf.PdfDictionary)>"
+    ],
+    "\u454c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNameTree: java.util.Map getNames()>"
+    ],
+    "\u45c1": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isName()>"
+    ],
+    "\u45da": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObjectWrapper: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>"
+    ],
+    "\u45df": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: java.lang.String[] getPageLabels()>"
+    ],
+    "\u45ec": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfName: int compareTo(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u45f1": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfWriter)>"
+    ],
+    "\u45f3": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getAuthor()>"
+    ],
+    "\u45f4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: int size()>"
+    ],
+    "\u461a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: void close()>"
+    ],
+    "\u4626": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: byte[] getValueBytes()>"
+    ],
+    "\u463c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNumber: float floatValue()>"
+    ],
+    "\u4644": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfOutline getOutlines(boolean)>"
+    ],
+    "\u4684": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.pdf.PdfArray)>"
+    ],
+    "\u46d6": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: int getPageNumber(com.itextpdf.kernel.pdf.PdfPage)>"
+    ],
+    "\u46f1": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfViewerPreferences getViewerPreferences()>"
+    ],
+    "\u4714": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNumber: void <init>(double)>"
+    ],
+    "\u4732": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.pdf.PdfObject)>"
+    ],
+    "\u475c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.collection.PdfCollection getCollection()>"
+    ],
+    "\u4762": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfAConformanceLevel: java.lang.String getPart()>"
+    ],
+    "\u4782": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfName: boolean equals(java.lang.Object)>"
+    ],
+    "\u47c8": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfString getOriginalDocumentId()>"
+    ],
+    "\u47e7": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void initializeOutlines()>"
+    ],
+    "\u4870": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject get(int,boolean)>"
+    ],
+    "\u488a": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNumber: int intValue()>"
+    ],
+    "\u488f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject clone()>"
+    ],
+    "\u4897": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getFirstPage()>"
+    ],
+    "\u48a9": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfOutline: java.util.List getAllChildren()>"
+    ],
+    "\u4904": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: com.itextpdf.kernel.pdf.PdfIndirectReference getIndirectReference()>"
+    ],
+    "\u4913": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: void <init>(com.itextpdf.kernel.pdf.PdfDocument,java.io.InputStream)>"
+    ],
+    "\u491e": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: java.lang.Boolean getAsBool(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u496c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: java.util.List getAnnotations()>"
+    ],
+    "\u49a0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.layer.PdfOCProperties getOCProperties(boolean)>"
+    ],
+    "\u49cb": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfReader getReader()>"
+    ],
+    "\u49d0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.geom.PageSize getDefaultPageSize()>"
+    ],
+    "\u49e3": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfDocumentInfo getDocumentInfo()>"
+    ],
+    "\u4a1c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: boolean isPageRotationInverseMatrixWritten()>"
+    ],
+    "\u4a25": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>"
+    ],
+    "\u4a33": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfString getAsString(com.itextpdf.kernel.pdf.PdfName)>"
+    ],
+    "\u4a4f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getCropBox()>"
+    ],
+    "\u4a78": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDate: void <init>()>"
+    ],
+    "\u4a8c": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfObject: boolean isNull()>"
+    ],
+    "\u4ab1": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getKeywords()>"
+    ],
+    "\u4ac0": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.geom.Rectangle)>"
+    ],
+    "\u4acd": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>"
+    ],
+    "\u4b0b": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfOutline: java.lang.String getTitle()>"
+    ],
+    "\u4b34": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfBoolean: void <init>(boolean)>"
+    ],
+    "\u4b38": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getMediaBox()>"
+    ],
+    "\u4b4f": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfString: java.lang.String toUnicodeString()>"
+    ],
+    "\u4b60": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfObject getPdfObject(int)>"
+    ],
+    "\u4ba4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>"
+    ],
+    "\u4ba8": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDictionary: void <init>()>"
+    ],
+    "\u4baa": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream newContentStreamBefore()>"
+    ],
+    "\u4bc9": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfDictionary getTrailer()>"
+    ],
+    "\u4bdb": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: void close()>"
+    ],
+    "\u4be4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getBleedBox()>"
+    ],
+    "\u4c05": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfNumber: double getValue()>"
+    ],
+    "\u4c59": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfStream: void <init>()>"
+    ],
+    "\u4c5d": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfDictionary getAsDictionary(int)>"
+    ],
+    "\u4c76": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfBoolean: boolean getValue()>"
+    ],
+    "\u4c99": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: boolean isTagged()>"
+    ],
+    "\u4caf": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfReader: boolean hasRebuiltXref()>"
+    ],
+    "\u4cb4": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getPage(int)>"
+    ],
+    "\u4cc7": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfCatalog getCatalog()>"
+    ],
+    "\u4cd9": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfLiteral: void <init>(java.lang.String)>"
+    ],
+    "\u4cdf": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.tagutils.TagStructureContext getTagStructureContext()>"
+    ],
+    "\u4ced": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfVersion getPdfVersion()>"
+    ],
+    "\u4cf1": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfPage: int getNextMcid()>"
+    ],
+    "\u4d14": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfArray: void <init>(java.util.List)>"
+    ],
+    "\u4d22": [
+      "F",
+      "<com.itextpdf.kernel.pdf.PdfIndirectReference: com.itextpdf.kernel.pdf.PdfObject getRefersTo()>"
+    ]
+  },
+  "def2var": {
+    "<com.itextpdf.kernel.pdf.DocumentProperties: void <init>()>.ITR": "v_3_itr_",
+    "<com.itextpdf.kernel.pdf.DocumentProperties: void <init>()>.RET": "v_3_",
+    "<com.itextpdf.kernel.pdf.PdfAConformanceLevel: java.lang.String getConformance()>.ITR": "v_0_itr_",
+    "<com.itextpdf.kernel.pdf.PdfAConformanceLevel: java.lang.String getConformance()>.RET": "v_0_",
+    "<com.itextpdf.kernel.pdf.PdfAConformanceLevel: java.lang.String getPart()>.ITR": "v_138_itr_",
+    "<com.itextpdf.kernel.pdf.PdfAConformanceLevel: java.lang.String getPart()>.RET": "v_138_",
+    "<com.itextpdf.kernel.pdf.PdfAnnotationBorder: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.ITR": "v_123_itr_",
+    "<com.itextpdf.kernel.pdf.PdfAnnotationBorder: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.RET": "v_123_",
+    "<com.itextpdf.kernel.pdf.PdfAnnotationBorder: void <init>(float,float,float,com.itextpdf.kernel.pdf.PdfDashPattern)>.ITR": "v_152_itr_",
+    "<com.itextpdf.kernel.pdf.PdfAnnotationBorder: void <init>(float,float,float,com.itextpdf.kernel.pdf.PdfDashPattern)>.RET": "v_152_",
+    "<com.itextpdf.kernel.pdf.PdfArray: boolean isEmpty()>.ITR": "v_197_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: boolean isEmpty()>.RET": "v_197_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.geom.Rectangle toRectangle()>.ITR": "v_157_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.geom.Rectangle toRectangle()>.RET": "v_157_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfArray getAsArray(int)>.ITR": "v_31_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfArray getAsArray(int)>.RET": "v_31_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfDictionary getAsDictionary(int)>.ITR": "v_135_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfDictionary getAsDictionary(int)>.RET": "v_135_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfName getAsName(int)>.ITR": "v_120_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfName getAsName(int)>.RET": "v_120_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(int)>.ITR": "v_156_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(int)>.RET": "v_156_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject get(int)>.ITR": "v_175_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject get(int)>.RET": "v_175_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject get(int,boolean)>.ITR": "v_23_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject get(int,boolean)>.RET": "v_23_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.ITR": "v_7_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.RET": "v_7_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfString getAsString(int)>.ITR": "v_132_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: com.itextpdf.kernel.pdf.PdfString getAsString(int)>.RET": "v_132_",
+    "<com.itextpdf.kernel.pdf.PdfArray: int size()>.ITR": "v_40_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: int size()>.RET": "v_40_",
+    "<com.itextpdf.kernel.pdf.PdfArray: java.util.Iterator iterator()>.ITR": "v_154_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: java.util.Iterator iterator()>.RET": "v_154_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>()>.ITR": "v_99_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>()>.RET": "v_99_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.geom.Rectangle)>.ITR": "v_140_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.geom.Rectangle)>.RET": "v_140_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.pdf.PdfArray)>.ITR": "v_42_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.pdf.PdfArray)>.RET": "v_42_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.pdf.PdfObject)>.ITR": "v_183_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(com.itextpdf.kernel.pdf.PdfObject)>.RET": "v_183_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(float[])>.ITR": "v_202_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(float[])>.RET": "v_202_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(int[])>.ITR": "v_50_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(int[])>.RET": "v_50_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(java.util.List)>.ITR": "v_162_itr_",
+    "<com.itextpdf.kernel.pdf.PdfArray: void <init>(java.util.List)>.RET": "v_162_",
+    "<com.itextpdf.kernel.pdf.PdfBoolean: boolean getValue()>.ITR": "v_87_itr_",
+    "<com.itextpdf.kernel.pdf.PdfBoolean: boolean getValue()>.RET": "v_87_",
+    "<com.itextpdf.kernel.pdf.PdfBoolean: void <init>(boolean)>.ITR": "v_118_itr_",
+    "<com.itextpdf.kernel.pdf.PdfBoolean: void <init>(boolean)>.RET": "v_118_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfDocument getDocument()>.ITR": "v_190_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfDocument getDocument()>.RET": "v_190_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfNameTree getNameTree(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_160_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfNameTree getNameTree(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_160_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.ITR": "v_147_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.RET": "v_147_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfString getLang()>.ITR": "v_45_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfString getLang()>.RET": "v_45_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfViewerPreferences getViewerPreferences()>.ITR": "v_185_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.PdfViewerPreferences getViewerPreferences()>.RET": "v_185_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.collection.PdfCollection getCollection()>.ITR": "v_62_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.collection.PdfCollection getCollection()>.RET": "v_62_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.layer.PdfOCProperties getOCProperties(boolean)>.ITR": "v_84_itr_",
+    "<com.itextpdf.kernel.pdf.PdfCatalog: com.itextpdf.kernel.pdf.layer.PdfOCProperties getOCProperties(boolean)>.RET": "v_84_",
+    "<com.itextpdf.kernel.pdf.PdfDashPattern: void <init>()>.ITR": "v_121_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDashPattern: void <init>()>.RET": "v_121_",
+    "<com.itextpdf.kernel.pdf.PdfDate: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.ITR": "v_116_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDate: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.RET": "v_116_",
+    "<com.itextpdf.kernel.pdf.PdfDate: void <init>()>.ITR": "v_93_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDate: void <init>()>.RET": "v_93_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: boolean containsKey(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_134_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: boolean containsKey(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_134_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfArray getAsArray(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_201_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfArray getAsArray(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_201_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfDictionary getAsDictionary(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_41_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfDictionary getAsDictionary(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_41_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfName getAsName(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_52_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfName getAsName(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_52_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_59_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_59_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_38_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_38_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName,boolean)>.ITR": "v_189_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName,boolean)>.RET": "v_189_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.ITR": "v_55_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.RET": "v_55_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfStream getAsStream(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_69_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfStream getAsStream(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_69_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfString getAsString(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_186_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: com.itextpdf.kernel.pdf.PdfString getAsString(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_186_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: int size()>.ITR": "v_57_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: int size()>.RET": "v_57_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: java.util.Set keySet()>.ITR": "v_176_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: java.util.Set keySet()>.RET": "v_176_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: void <init>()>.ITR": "v_10_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDictionary: void <init>()>.RET": "v_10_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: boolean isClosed()>.ITR": "v_76_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: boolean isClosed()>.RET": "v_76_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: boolean isTagged()>.ITR": "v_43_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: boolean isTagged()>.RET": "v_43_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: byte[] getXmpMetadata()>.ITR": "v_137_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: byte[] getXmpMetadata()>.RET": "v_137_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.commons.actions.sequence.SequenceId getDocumentIdWrapper()>.ITR": "v_184_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.commons.actions.sequence.SequenceId getDocumentIdWrapper()>.RET": "v_184_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.font.PdfFont getDefaultFont()>.ITR": "v_103_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.font.PdfFont getDefaultFont()>.RET": "v_103_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.geom.PageSize getDefaultPageSize()>.ITR": "v_112_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.geom.PageSize getDefaultPageSize()>.RET": "v_112_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfArray getAssociatedFiles()>.ITR": "v_125_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfArray getAssociatedFiles()>.RET": "v_125_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfCatalog getCatalog()>.ITR": "v_117_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfCatalog getCatalog()>.RET": "v_117_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfDictionary getTrailer()>.ITR": "v_163_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfDictionary getTrailer()>.RET": "v_163_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfDocumentInfo getDocumentInfo()>.ITR": "v_67_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfDocumentInfo getDocumentInfo()>.RET": "v_67_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfObject getPdfObject(int)>.ITR": "v_58_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfObject getPdfObject(int)>.RET": "v_58_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfOutline getOutlines(boolean)>.ITR": "v_88_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfOutline getOutlines(boolean)>.RET": "v_88_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getFirstPage()>.ITR": "v_46_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getFirstPage()>.RET": "v_46_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getLastPage()>.ITR": "v_66_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getLastPage()>.RET": "v_66_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getPage(int)>.ITR": "v_173_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfPage getPage(int)>.RET": "v_173_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfReader getReader()>.ITR": "v_150_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfReader getReader()>.RET": "v_150_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfString getOriginalDocumentId()>.ITR": "v_174_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfString getOriginalDocumentId()>.RET": "v_174_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfVersion getPdfVersion()>.ITR": "v_78_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfVersion getPdfVersion()>.RET": "v_78_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfWriter getWriter()>.ITR": "v_148_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.PdfWriter getWriter()>.RET": "v_148_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.tagging.PdfStructTreeRoot getStructTreeRoot()>.ITR": "v_153_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.tagging.PdfStructTreeRoot getStructTreeRoot()>.RET": "v_153_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.tagutils.TagStructureContext getTagStructureContext()>.ITR": "v_39_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: com.itextpdf.kernel.pdf.tagutils.TagStructureContext getTagStructureContext()>.RET": "v_39_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: int getNumberOfPages()>.ITR": "v_205_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: int getNumberOfPages()>.RET": "v_205_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: int getNumberOfPdfObjects()>.ITR": "v_124_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: int getNumberOfPdfObjects()>.RET": "v_124_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: int getPageNumber(com.itextpdf.kernel.pdf.PdfPage)>.ITR": "v_82_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: int getPageNumber(com.itextpdf.kernel.pdf.PdfPage)>.RET": "v_82_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: java.lang.String[] getPageLabels()>.ITR": "v_133_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: java.lang.String[] getPageLabels()>.RET": "v_133_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: java.util.List listIndirectReferences()>.ITR": "v_64_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: java.util.List listIndirectReferences()>.RET": "v_64_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader)>.ITR": "v_53_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader)>.RET": "v_53_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter)>.ITR": "v_4_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter)>.RET": "v_4_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter,com.itextpdf.kernel.pdf.StampingProperties)>.ITR": "v_191_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfReader,com.itextpdf.kernel.pdf.PdfWriter,com.itextpdf.kernel.pdf.StampingProperties)>.RET": "v_191_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfWriter)>.ITR": "v_15_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfWriter)>.RET": "v_15_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfWriter,com.itextpdf.kernel.pdf.DocumentProperties)>.ITR": "v_177_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void <init>(com.itextpdf.kernel.pdf.PdfWriter,com.itextpdf.kernel.pdf.DocumentProperties)>.RET": "v_177_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void close()>.ITR": "v_200_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void close()>.RET": "v_200_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void initializeOutlines()>.ITR": "v_14_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void initializeOutlines()>.RET": "v_14_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void movePage(int,int)>.ITR": "v_178_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocument: void movePage(int,int)>.RET": "v_178_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getAuthor()>.ITR": "v_89_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getAuthor()>.RET": "v_89_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getKeywords()>.ITR": "v_104_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getKeywords()>.RET": "v_104_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getProducer()>.ITR": "v_172_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getProducer()>.RET": "v_172_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getSubject()>.ITR": "v_164_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getSubject()>.RET": "v_164_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getTitle()>.ITR": "v_168_itr_",
+    "<com.itextpdf.kernel.pdf.PdfDocumentInfo: java.lang.String getTitle()>.RET": "v_168_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: com.itextpdf.kernel.pdf.PdfObject getRefersTo()>.ITR": "v_21_itr_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: com.itextpdf.kernel.pdf.PdfObject getRefersTo()>.RET": "v_21_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: com.itextpdf.kernel.pdf.PdfObject getRefersTo(boolean)>.ITR": "v_192_itr_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: com.itextpdf.kernel.pdf.PdfObject getRefersTo(boolean)>.RET": "v_192_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: int getGenNumber()>.ITR": "v_94_itr_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: int getGenNumber()>.RET": "v_94_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: int getObjNumber()>.ITR": "v_48_itr_",
+    "<com.itextpdf.kernel.pdf.PdfIndirectReference: int getObjNumber()>.RET": "v_48_",
+    "<com.itextpdf.kernel.pdf.PdfLiteral: java.lang.String toString()>.ITR": "v_96_itr_",
+    "<com.itextpdf.kernel.pdf.PdfLiteral: java.lang.String toString()>.RET": "v_96_",
+    "<com.itextpdf.kernel.pdf.PdfLiteral: void <init>(java.lang.String)>.ITR": "v_195_itr_",
+    "<com.itextpdf.kernel.pdf.PdfLiteral: void <init>(java.lang.String)>.RET": "v_195_",
+    "<com.itextpdf.kernel.pdf.PdfName: boolean equals(java.lang.Object)>.ITR": "v_182_itr_",
+    "<com.itextpdf.kernel.pdf.PdfName: boolean equals(java.lang.Object)>.RET": "v_182_",
+    "<com.itextpdf.kernel.pdf.PdfName: int compareTo(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_65_itr_",
+    "<com.itextpdf.kernel.pdf.PdfName: int compareTo(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_65_",
+    "<com.itextpdf.kernel.pdf.PdfName: java.lang.String getValue()>.ITR": "v_11_itr_",
+    "<com.itextpdf.kernel.pdf.PdfName: java.lang.String getValue()>.RET": "v_11_",
+    "<com.itextpdf.kernel.pdf.PdfName: java.lang.String toString()>.ITR": "v_181_itr_",
+    "<com.itextpdf.kernel.pdf.PdfName: java.lang.String toString()>.RET": "v_181_",
+    "<com.itextpdf.kernel.pdf.PdfName: void <init>(java.lang.String)>.ITR": "v_145_itr_",
+    "<com.itextpdf.kernel.pdf.PdfName: void <init>(java.lang.String)>.RET": "v_145_",
+    "<com.itextpdf.kernel.pdf.PdfNameTree: com.itextpdf.kernel.pdf.PdfDictionary buildTree()>.ITR": "v_146_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNameTree: com.itextpdf.kernel.pdf.PdfDictionary buildTree()>.RET": "v_146_",
+    "<com.itextpdf.kernel.pdf.PdfNameTree: java.util.Map getNames()>.ITR": "v_28_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNameTree: java.util.Map getNames()>.RET": "v_28_",
+    "<com.itextpdf.kernel.pdf.PdfNameTree: void <init>(com.itextpdf.kernel.pdf.PdfCatalog,com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_196_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNameTree: void <init>(com.itextpdf.kernel.pdf.PdfCatalog,com.itextpdf.kernel.pdf.PdfName)>.RET": "v_196_",
+    "<com.itextpdf.kernel.pdf.PdfNull: byte getType()>.ITR": "v_199_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNull: byte getType()>.RET": "v_199_",
+    "<com.itextpdf.kernel.pdf.PdfNull: java.lang.String toString()>.ITR": "v_107_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNull: java.lang.String toString()>.RET": "v_107_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: double getValue()>.ITR": "v_109_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: double getValue()>.RET": "v_109_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: float floatValue()>.ITR": "v_33_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: float floatValue()>.RET": "v_33_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: int intValue()>.ITR": "v_25_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: int intValue()>.RET": "v_25_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: void <init>(double)>.ITR": "v_141_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: void <init>(double)>.RET": "v_141_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: void <init>(int)>.ITR": "v_6_itr_",
+    "<com.itextpdf.kernel.pdf.PdfNumber: void <init>(int)>.RET": "v_6_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isArray()>.ITR": "v_24_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isArray()>.RET": "v_24_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isDictionary()>.ITR": "v_2_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isDictionary()>.RET": "v_2_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isIndirect()>.ITR": "v_187_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isIndirect()>.RET": "v_187_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isIndirectReference()>.ITR": "v_98_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isIndirectReference()>.RET": "v_98_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isName()>.ITR": "v_56_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isName()>.RET": "v_56_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isNull()>.ITR": "v_167_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isNull()>.RET": "v_167_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isNumber()>.ITR": "v_143_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isNumber()>.RET": "v_143_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isStream()>.ITR": "v_51_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isStream()>.RET": "v_51_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isString()>.ITR": "v_19_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: boolean isString()>.RET": "v_19_",
+    "<com.itextpdf.kernel.pdf.PdfObject: byte getType()>.ITR": "v_179_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: byte getType()>.RET": "v_179_",
+    "<com.itextpdf.kernel.pdf.PdfObject: com.itextpdf.kernel.pdf.PdfIndirectReference getIndirectReference()>.ITR": "v_110_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: com.itextpdf.kernel.pdf.PdfIndirectReference getIndirectReference()>.RET": "v_110_",
+    "<com.itextpdf.kernel.pdf.PdfObject: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.ITR": "v_158_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.RET": "v_158_",
+    "<com.itextpdf.kernel.pdf.PdfObject: void release()>.ITR": "v_149_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObject: void release()>.RET": "v_149_",
+    "<com.itextpdf.kernel.pdf.PdfObjectWrapper: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.ITR": "v_159_itr_",
+    "<com.itextpdf.kernel.pdf.PdfObjectWrapper: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.RET": "v_159_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: com.itextpdf.kernel.pdf.PdfDictionary getContent()>.ITR": "v_44_itr_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: com.itextpdf.kernel.pdf.PdfDictionary getContent()>.RET": "v_44_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: java.lang.String getTitle()>.ITR": "v_36_itr_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: java.lang.String getTitle()>.RET": "v_36_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: java.util.List getAllChildren()>.ITR": "v_101_itr_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: java.util.List getAllChildren()>.RET": "v_101_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: void <init>(java.lang.String,com.itextpdf.kernel.pdf.PdfDictionary,com.itextpdf.kernel.pdf.PdfOutline)>.ITR": "v_1_itr_",
+    "<com.itextpdf.kernel.pdf.PdfOutline: void <init>(java.lang.String,com.itextpdf.kernel.pdf.PdfDictionary,com.itextpdf.kernel.pdf.PdfOutline)>.RET": "v_1_",
+    "<com.itextpdf.kernel.pdf.PdfPage: boolean isIgnorePageRotationForContent()>.ITR": "v_86_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: boolean isIgnorePageRotationForContent()>.RET": "v_86_",
+    "<com.itextpdf.kernel.pdf.PdfPage: boolean isPageRotationInverseMatrixWritten()>.ITR": "v_204_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: boolean isPageRotationInverseMatrixWritten()>.RET": "v_204_",
+    "<com.itextpdf.kernel.pdf.PdfPage: byte[] getContentBytes()>.ITR": "v_188_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: byte[] getContentBytes()>.RET": "v_188_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getArtBox()>.ITR": "v_129_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getArtBox()>.RET": "v_129_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getBleedBox()>.ITR": "v_144_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getBleedBox()>.RET": "v_144_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getCropBox()>.ITR": "v_127_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getCropBox()>.RET": "v_127_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getMediaBox()>.ITR": "v_29_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getMediaBox()>.RET": "v_29_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getPageSize()>.ITR": "v_207_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getPageSize()>.RET": "v_207_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getPageSizeWithRotation()>.ITR": "v_73_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getPageSizeWithRotation()>.RET": "v_73_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getTrimBox()>.ITR": "v_208_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.geom.Rectangle getTrimBox()>.RET": "v_208_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfDocument getDocument()>.ITR": "v_209_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfDocument getDocument()>.RET": "v_209_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfName getTabOrder()>.ITR": "v_8_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfName getTabOrder()>.RET": "v_8_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.ITR": "v_90_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.RET": "v_90_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfResources getResources()>.ITR": "v_194_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfResources getResources()>.RET": "v_194_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream getLastContentStream()>.ITR": "v_139_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream getLastContentStream()>.RET": "v_139_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream getXmpMetadata()>.ITR": "v_32_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream getXmpMetadata()>.RET": "v_32_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream newContentStreamAfter()>.ITR": "v_92_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream newContentStreamAfter()>.RET": "v_92_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream newContentStreamBefore()>.ITR": "v_85_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.PdfStream newContentStreamBefore()>.RET": "v_85_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.xobject.PdfImageXObject getThumbnailImage()>.ITR": "v_20_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: com.itextpdf.kernel.pdf.xobject.PdfImageXObject getThumbnailImage()>.RET": "v_20_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getAnnotsSize()>.ITR": "v_13_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getAnnotsSize()>.RET": "v_13_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getContentStreamCount()>.ITR": "v_126_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getContentStreamCount()>.RET": "v_126_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getNextMcid()>.ITR": "v_171_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getNextMcid()>.RET": "v_171_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getRotation()>.ITR": "v_22_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getRotation()>.RET": "v_22_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getStructParentIndex()>.ITR": "v_100_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: int getStructParentIndex()>.RET": "v_100_",
+    "<com.itextpdf.kernel.pdf.PdfPage: java.util.List getAnnotations()>.ITR": "v_49_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: java.util.List getAnnotations()>.RET": "v_49_",
+    "<com.itextpdf.kernel.pdf.PdfPage: java.util.List getOutlines(boolean)>.ITR": "v_136_itr_",
+    "<com.itextpdf.kernel.pdf.PdfPage: java.util.List getOutlines(boolean)>.RET": "v_136_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean hasHybridXref()>.ITR": "v_180_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean hasHybridXref()>.RET": "v_180_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean hasRebuiltXref()>.ITR": "v_111_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean hasRebuiltXref()>.RET": "v_111_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean hasXrefStm()>.ITR": "v_9_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean hasXrefStm()>.RET": "v_9_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean isCloseStream()>.ITR": "v_130_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean isCloseStream()>.RET": "v_130_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean isEncrypted()>.ITR": "v_54_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean isEncrypted()>.RET": "v_54_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean isOpenedWithFullPermission()>.ITR": "v_18_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: boolean isOpenedWithFullPermission()>.RET": "v_18_",
+    "<com.itextpdf.kernel.pdf.PdfReader: byte[] computeUserPassword()>.ITR": "v_95_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: byte[] computeUserPassword()>.RET": "v_95_",
+    "<com.itextpdf.kernel.pdf.PdfReader: byte[] readStreamBytesRaw(com.itextpdf.kernel.pdf.PdfStream)>.ITR": "v_75_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: byte[] readStreamBytesRaw(com.itextpdf.kernel.pdf.PdfStream)>.RET": "v_75_",
+    "<com.itextpdf.kernel.pdf.PdfReader: com.itextpdf.kernel.pdf.PdfAConformanceLevel getPdfAConformanceLevel()>.ITR": "v_114_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: com.itextpdf.kernel.pdf.PdfAConformanceLevel getPdfAConformanceLevel()>.RET": "v_114_",
+    "<com.itextpdf.kernel.pdf.PdfReader: int getCryptoMode()>.ITR": "v_115_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: int getCryptoMode()>.RET": "v_115_",
+    "<com.itextpdf.kernel.pdf.PdfReader: long getFileLength()>.ITR": "v_12_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: long getFileLength()>.RET": "v_12_",
+    "<com.itextpdf.kernel.pdf.PdfReader: long getPermissions()>.ITR": "v_72_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: long getPermissions()>.RET": "v_72_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(com.itextpdf.io.source.IRandomAccessSource,com.itextpdf.kernel.pdf.ReaderProperties)>.ITR": "v_30_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(com.itextpdf.io.source.IRandomAccessSource,com.itextpdf.kernel.pdf.ReaderProperties)>.RET": "v_30_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.File)>.ITR": "v_155_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.File)>.RET": "v_155_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>.ITR": "v_37_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream)>.RET": "v_37_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream,com.itextpdf.kernel.pdf.ReaderProperties)>.ITR": "v_17_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.io.InputStream,com.itextpdf.kernel.pdf.ReaderProperties)>.RET": "v_17_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String)>.ITR": "v_169_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String)>.RET": "v_169_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String,com.itextpdf.kernel.pdf.ReaderProperties)>.ITR": "v_161_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void <init>(java.lang.String,com.itextpdf.kernel.pdf.ReaderProperties)>.RET": "v_161_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void close()>.ITR": "v_60_itr_",
+    "<com.itextpdf.kernel.pdf.PdfReader: void close()>.RET": "v_60_",
+    "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.PdfDictionary getResource(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_27_itr_",
+    "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.PdfDictionary getResource(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_27_",
+    "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.ITR": "v_97_itr_",
+    "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.PdfObject getPdfObject()>.RET": "v_97_",
+    "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.colorspace.PdfShading getShading(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_131_itr_",
+    "<com.itextpdf.kernel.pdf.PdfResources: com.itextpdf.kernel.pdf.colorspace.PdfShading getShading(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_131_",
+    "<com.itextpdf.kernel.pdf.PdfResources: void <init>()>.ITR": "v_106_itr_",
+    "<com.itextpdf.kernel.pdf.PdfResources: void <init>()>.RET": "v_106_",
+    "<com.itextpdf.kernel.pdf.PdfStream: boolean containsKey(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_206_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: boolean containsKey(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_206_",
+    "<com.itextpdf.kernel.pdf.PdfStream: byte[] getBytes()>.ITR": "v_108_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: byte[] getBytes()>.RET": "v_108_",
+    "<com.itextpdf.kernel.pdf.PdfStream: byte[] getBytes(boolean)>.ITR": "v_63_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: byte[] getBytes(boolean)>.RET": "v_63_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfArray getAsArray(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_170_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfArray getAsArray(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_170_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfIndirectReference getIndirectReference()>.ITR": "v_91_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfIndirectReference getIndirectReference()>.RET": "v_91_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfName getAsName(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_68_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfName getAsName(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_68_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_113_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfNumber getAsNumber(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_113_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject clone()>.ITR": "v_80_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject clone()>.RET": "v_80_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_151_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject get(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_151_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.ITR": "v_81_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfObject makeIndirect(com.itextpdf.kernel.pdf.PdfDocument)>.RET": "v_81_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfOutputStream getOutputStream()>.ITR": "v_16_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfOutputStream getOutputStream()>.RET": "v_16_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfStream getAsStream(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_102_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: com.itextpdf.kernel.pdf.PdfStream getAsStream(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_102_",
+    "<com.itextpdf.kernel.pdf.PdfStream: java.lang.Boolean getAsBool(com.itextpdf.kernel.pdf.PdfName)>.ITR": "v_128_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: java.lang.Boolean getAsBool(com.itextpdf.kernel.pdf.PdfName)>.RET": "v_128_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void <init>()>.ITR": "v_74_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void <init>()>.RET": "v_74_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void <init>(byte[])>.ITR": "v_122_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void <init>(byte[])>.RET": "v_122_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void <init>(com.itextpdf.kernel.pdf.PdfDocument,java.io.InputStream)>.ITR": "v_165_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void <init>(com.itextpdf.kernel.pdf.PdfDocument,java.io.InputStream)>.RET": "v_165_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void clear()>.ITR": "v_70_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void clear()>.RET": "v_70_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void flush()>.ITR": "v_79_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void flush()>.RET": "v_79_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void putAll(com.itextpdf.kernel.pdf.PdfDictionary)>.ITR": "v_35_itr_",
+    "<com.itextpdf.kernel.pdf.PdfStream: void putAll(com.itextpdf.kernel.pdf.PdfDictionary)>.RET": "v_35_",
+    "<com.itextpdf.kernel.pdf.PdfString: boolean isHexWriting()>.ITR": "v_142_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: boolean isHexWriting()>.RET": "v_142_",
+    "<com.itextpdf.kernel.pdf.PdfString: byte[] getValueBytes()>.ITR": "v_198_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: byte[] getValueBytes()>.RET": "v_198_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String getEncoding()>.ITR": "v_5_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String getEncoding()>.RET": "v_5_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String getValue()>.ITR": "v_105_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String getValue()>.RET": "v_105_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String toString()>.ITR": "v_193_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String toString()>.RET": "v_193_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String toUnicodeString()>.ITR": "v_83_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: java.lang.String toUnicodeString()>.RET": "v_83_",
+    "<com.itextpdf.kernel.pdf.PdfString: void <init>(java.lang.String)>.ITR": "v_71_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: void <init>(java.lang.String)>.RET": "v_71_",
+    "<com.itextpdf.kernel.pdf.PdfString: void <init>(java.lang.String,java.lang.String)>.ITR": "v_77_itr_",
+    "<com.itextpdf.kernel.pdf.PdfString: void <init>(java.lang.String,java.lang.String)>.RET": "v_77_",
+    "<com.itextpdf.kernel.pdf.PdfTextArray: void <init>()>.ITR": "v_61_itr_",
+    "<com.itextpdf.kernel.pdf.PdfTextArray: void <init>()>.RET": "v_61_",
+    "<com.itextpdf.kernel.pdf.PdfViewerPreferences: void <init>()>.ITR": "v_203_itr_",
+    "<com.itextpdf.kernel.pdf.PdfViewerPreferences: void <init>()>.RET": "v_203_",
+    "<com.itextpdf.kernel.pdf.ReaderProperties: void <init>()>.ITR": "v_166_itr_",
+    "<com.itextpdf.kernel.pdf.ReaderProperties: void <init>()>.RET": "v_166_",
+    "<com.itextpdf.kernel.pdf.ReaderProperties: void clearEncryptionParams()>.ITR": "v_34_itr_",
+    "<com.itextpdf.kernel.pdf.ReaderProperties: void clearEncryptionParams()>.RET": "v_34_",
+    "<com.itextpdf.kernel.pdf.StampingProperties: com.itextpdf.kernel.pdf.StampingProperties preserveEncryption()>.ITR": "v_119_itr_",
+    "<com.itextpdf.kernel.pdf.StampingProperties: com.itextpdf.kernel.pdf.StampingProperties preserveEncryption()>.RET": "v_119_",
+    "<com.itextpdf.kernel.pdf.StampingProperties: com.itextpdf.kernel.pdf.StampingProperties useAppendMode()>.ITR": "v_26_itr_",
+    "<com.itextpdf.kernel.pdf.StampingProperties: com.itextpdf.kernel.pdf.StampingProperties useAppendMode()>.RET": "v_26_",
+    "<com.itextpdf.kernel.pdf.StampingProperties: void <init>()>.ITR": "v_47_itr_",
+    "<com.itextpdf.kernel.pdf.StampingProperties: void <init>()>.RET": "v_47_",
+    "null": "null"
+  }
+}

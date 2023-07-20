@@ -1,0 +1,223 @@
+package ahg.harness;
+
+import java.util.List;
+import java.util.HashMap;
+
+import java.io.File;
+import java.io.InputStream;
+import java.io.IOException;
+import java.io.FileInputStream;
+import java.io.ByteArrayInputStream;
+import java.io.FileNotFoundException;
+
+import ahg.harness.Template;
+import ahg.harness.cfg.nfa.iNFA;
+import ahg.harness.cfg.api.iAPIFunc;
+import ahg.harness.cfg.alphabet.iAlphabet;
+
+import ahg.harness.exception.SoftException;
+import ahg.harness.exception.HarnessException;
+import ahg.harness.exception.NoCondTriggerredException;
+
+import net.automatalib.automata.fsa.impl.compact.CompactNFA;
+
+/* GENERATED_IMPORTS */
+import org.apache.commons.compress.archivers.tar.TarArchiveEntry;
+import org.apache.commons.compress.archivers.tar.TarArchiveInputStream;
+
+public class Example extends Template {
+
+	@Override
+	protected void resetVars() {
+
+		vars = new HashMap<String, Object>();
+
+		vars.put("input", input);
+		vars.put("0", 0);
+		vars.put("null", null);
+		vars.put("new byte[1024]", new byte[1024]);
+
+
+	}
+
+	@Override
+	protected void runNextCall(Character nextCall) throws HarnessException {
+		try {
+
+			if (1 == 0) {
+				throw new IOException("fake IOException to make compiler happy");
+			}
+
+			if (nextCall.equals('_')) {
+				/* <org.apache.commons.compress.archivers.tar.TarArchiveInputStream: void <init>(java.io.InputStream)> */
+				curEvent = '_';
+				java.io.InputStream arg0 = (java.io.InputStream) getVarValue(pickInVar(nextCall, "arg0"));
+				if (debug)
+					System.out.println(nextCall + ": getVarValue(" + pickInVar(nextCall, "arg0") + ") => " + arg0);
+				new org.apache.commons.compress.archivers.tar.TarArchiveInputStream(arg0);
+				curEvent = null;
+
+			} else 
+				throw new RuntimeException("this should not happen, an unknown func letter");
+
+
+		} catch (IOException ex) {
+			/* System.out.println("catched IOException: " + ex); */
+			throw new RuntimeException("IOException: " + ex);
+		}
+
+	}
+
+	@Override
+	protected Character checkCondTriggers(List<Character> conds) {
+		Character happenedEvent = null;
+
+		for (Character cond : conds) {
+
+			boolean satisfies = false;
+
+			if (1 == 1)
+				throw new RuntimeException("this should not happen, an unknown cond letter");
+
+
+			if (satisfies) {
+				happenedEvent = cond;
+				if (debug)
+					System.out.println("cond event '" + happenedEvent + "' happened");
+					
+				break;
+			}
+		}
+
+		return happenedEvent;
+	}
+
+	public void initialize(String alphabetFile, String nfaFile, String apiFile) {
+		iAlphabet _al = iAlphabet.createFromFile(alphabetFile);
+		HashMap<Integer, String> _sIDMap = new HashMap<Integer, String>();
+		CompactNFA<Character> _nfa = iNFA.loadOneNFAFromFile(_al.getAlphabet(), nfaFile, _sIDMap);
+		HashMap<Character, iAPIFunc> _apiFuncs = iAPIFunc.loadAPIFuncsFromFile(apiFile);
+
+		oneTimeInit(_al, _nfa, _apiFuncs, null, _sIDMap);
+	}
+
+	public static String runOne(Integer cfNO, Integer dfNO, String alphabetFile, String nfaFile, String apiFile, String[] tarFiles) {
+		Example ex = new Example();
+		ex.initialize(alphabetFile, nfaFile, apiFile);
+
+		String errorString = ex.resetAllPicks(cfNO, 0);
+		if (errorString != null) {
+			System.out.println("Run stopped since \"" + errorString + "\" failed caused by unsatisfied data dep");
+			return errorString;
+		}
+
+		ex.resetDataFlowPicks(dfNO);
+
+		for (int i = 0; i < tarFiles.length; i++) {
+			try {
+				System.out.println("run cfNO: " + cfNO + ", dfNO: " + dfNO + ", input: " + tarFiles[i]);
+				File file = new File(tarFiles[i]);
+				ex.run(file, new FileInputStream(file));
+
+			} catch (SoftException shex) {
+				String str = ex.getFailedString();
+				System.out.println("Eat \"" + str + "\" failure caused by " + shex);
+				if (debug) 
+					shex.printStackTrace();
+
+			} catch (Throwable t) {
+				String str = ex.getFailedString();
+				System.out.println("Run stopped since \"" + str + "\" failed caused by " + t);
+				if (debug)
+					t.printStackTrace();
+				
+				return str;
+
+			}
+
+		}
+
+		return null;
+	}
+
+	public static String runAll(String alphabetFile, String nfaFile, String apiFile, String[] tarFiles) {
+		Example ex = new Example();
+
+		ex.initialize(alphabetFile, nfaFile, apiFile);
+
+		for (int cfNO = 0; cfNO < ex.cfChoiceNum; cfNO++) {
+			String errorString = ex.resetAllPicks(cfNO, 0);
+			if (errorString != null) {
+				System.out.println("Run stopped since \"" + errorString + "\" failed caused by unsatisfied data dep");
+				return errorString;
+			}
+
+			for (int dfNO = 0; dfNO < ex.dfChoiceNum; dfNO++) {
+				ex.resetDataFlowPicks(dfNO);
+
+				for (int i = 0; i < tarFiles.length; i++) {
+					try {
+						System.out.println("run cfNO: " + cfNO + ", dfNO: " + dfNO + ", input: " + tarFiles[i]);
+
+						File file = new File(tarFiles[i]);
+						ex.run(file, new FileInputStream(file));
+
+					} catch (SoftException shex) {
+						/* TODO: fix this later, wrap the errorString info inside the HarnessException */
+						/* String str = ex.getFailedString(); */
+						/* System.out.println("Eat \"" + str + "\" failure caused by " + shex); */
+						System.out.println("Eat \"" + ex.pastEventsStr + ".*\" failure caused by " + shex);
+						if (debug) 
+							shex.printStackTrace();
+
+					} catch (Throwable t) {
+						String str = ex.getFailedString();
+						System.out.println("Run stopped since \"" + str + "\" failed caused by " + t);
+						if (debug)
+							t.printStackTrace();
+						
+						return str;
+
+					}
+
+				}
+
+			}
+		}
+
+		return null;
+	}
+
+
+	/* 	
+
+	private static Example ex = null;
+
+	public static void fuzzerInitialize() {
+		ex = new Example();
+
+		ex.initialize("tar-alphabet.json", "tar-penfas.txt", "apiFuncs.json");
+	}
+
+	public static void fuzzerTestOneInput(FuzzedDataProvider data) {
+		int cfNO = data.consumeInt();
+		int dfNO = data.consumeInt();
+
+		try {
+
+			ex.resetAllPicks(cfNO, dfNO, new ByteArrayInputStream( data.consumeRemainingAsBytes() ) );
+			ex.run();
+
+		} catch (Exception ignored) {
+		}
+
+	}
+	*/
+
+}
+
+/* Example.runOne(0, 0, "./input/active/tar/tar-alphabet.json", "./input/active/tar/tar-penfas.txt", "./input/active/tar/apiFuncs.json", new String []{ "./test-tar.tar" }); */
+/* Example.runAll("./input/active/tar/tar-alphabet.json", "./input/active/tar/tar-penfas.txt", "./input/active/tar/apiFuncs.json", new String []{ "./test-tar.tar" }); */
+
+/* Example.runOne(PARAMETER_CFNO, PARAMETER_DFNO, PARAMETER_ALPHABET, PARAMETER_NFA, PARAMETER_APIFUNC, PARAMETER_INPUT); */
+/* Example.runAll(PARAMETER_CFNO, PARAMETER_DFNO, PARAMETER_ALPHABET, PARAMETER_NFA, PARAMETER_APIFUNC, PARAMETER_INPUT); */

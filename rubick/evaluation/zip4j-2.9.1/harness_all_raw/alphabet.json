@@ -1,0 +1,539 @@
+{
+  "alias2event": {
+    "H": [
+      "F",
+      "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getOffsetLocalHeader()>"
+    ],
+    "e": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: boolean isEncrypted()>"
+    ],
+    "\u3486": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-294974691_$i2_LOOPVAR__((int)-1)'()>"
+    ],
+    "\u34cb": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: void readZipInfo()>"
+    ],
+    "\u354c": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: void <init>(java.lang.String)>"
+    ],
+    "\u35ba": [
+      "F",
+      "<net.lingala.zip4j.model.enums.EncryptionMethod: java.lang.String toString()>"
+    ],
+    "\u35f7": [
+      "F",
+      "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getUncompressedSize()>"
+    ],
+    "\u35fc": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>"
+    ],
+    "\u35fd": [
+      "F",
+      "<net.lingala.zip4j.model.enums.CompressionMethod: int getCode()>"
+    ],
+    "\u3615": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: void close()>"
+    ],
+    "\u3689": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.EncryptionMethod getEncryptionMethod()>"
+    ],
+    "\u374d": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>"
+    ],
+    "\u3793": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>"
+    ],
+    "\u3881": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>"
+    ],
+    "\u3941": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: void extractFile(java.lang.String,java.lang.String,java.lang.String)>"
+    ],
+    "\u3954": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.Zip4jConfig buildConfig()>"
+    ],
+    "\u3a7b": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>"
+    ],
+    "\u3b1c": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: void close()>"
+    ],
+    "\u3b75": [
+      "F",
+      "<net.lingala.zip4j.model.AESExtraDataRecord: int getDataSize()>"
+    ],
+    "\u3b83": [
+      "Z",
+      "Not(v_14_ == v_31_)",
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-64883029_$i2_LOOPVAR__((int)-1)'()>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-64883029_$i2_LOOPVAR__((int)-1)'()>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET"
+      ]
+    ],
+    "\u3b91": [
+      "Z",
+      "v_14_ == v_31_",
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-64883029_$i2_LOOPVAR__((int)-1)'()>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-64883029_$i2_LOOPVAR__((int)-1)'()>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET"
+      ]
+    ],
+    "\u3bd0": [
+      "Z",
+      "Not(v_27_ == 0)",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>.RET"
+      ]
+    ],
+    "\u3cc3": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: long getOffsetStartOfData()>"
+    ],
+    "\u3ce8": [
+      "Z",
+      "v_11_ == 0",
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>.RET"
+      ]
+    ],
+    "\u3d50": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>"
+    ],
+    "\u3d6a": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: java.lang.Object <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_next(java.util.Iterator)>"
+    ],
+    "\u3ddc": [
+      "Z",
+      "v_27_ == 0",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>.RET"
+      ]
+    ],
+    "\u3df6": [
+      "Z",
+      "Not(v_14_ == v_50_)",
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-294974691_$i2_LOOPVAR__((int)-1)'()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-294974691_$i2_LOOPVAR__((int)-1)'()>.RET"
+      ]
+    ],
+    "\u3e45": [
+      "Z",
+      "v_14_ == v_50_",
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-294974691_$i2_LOOPVAR__((int)-1)'()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET",
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-294974691_$i2_LOOPVAR__((int)-1)'()>.RET"
+      ]
+    ],
+    "\u3ec6": [
+      "Z",
+      "Not(v_46_ == 0)",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>.RET"
+      ]
+    ],
+    "\u3ec7": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: long getUncompressedSize()>"
+    ],
+    "\u3f53": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream,char[])>"
+    ],
+    "\u3f71": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: boolean isFileNameUTF8Encoded()>"
+    ],
+    "\u3fa9": [
+      "Z",
+      "v_41_ == 0",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ]
+    ],
+    "\u406d": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>"
+    ],
+    "\u40e6": [
+      "Z",
+      "v_34_ == 0",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.RET"
+      ]
+    ],
+    "\u4100": [
+      "Z",
+      "Not(v_36_ == 0)",
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>.RET"
+      ]
+    ],
+    "\u411a": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>"
+    ],
+    "\u4167": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>"
+    ],
+    "\u4188": [
+      "F",
+      "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>"
+    ],
+    "\u418d": [
+      "F",
+      "<net.lingala.zip4j.model.ExtraDataRecord: byte[] getData()>"
+    ],
+    "\u4232": [
+      "Z",
+      "v_36_ == 0",
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>.RET"
+      ]
+    ],
+    "\u4242": [
+      "F",
+      "<net.lingala.zip4j.model.FileHeader: java.lang.String getFileName()>"
+    ],
+    "\u425b": [
+      "F",
+      "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-64883029_$i2_LOOPVAR__((int)-1)'()>"
+    ],
+    "\u4297": [
+      "Z",
+      "Not(v_34_ == 0)",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.RET"
+      ]
+    ],
+    "\u4367": [
+      "F",
+      "<net.lingala.zip4j.exception.ZipException: void <init>(java.lang.String)>"
+    ],
+    "\u43fa": [
+      "F",
+      "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.AesVersion getAesVersion()>"
+    ],
+    "\u44ad": [
+      "F",
+      "<net.lingala.zip4j.model.ExtraDataRecord: long getHeader()>"
+    ],
+    "\u4543": [
+      "F",
+      "<net.lingala.zip4j.model.Zip64ExtendedInfo: int getDiskNumberStart()>"
+    ],
+    "\u4549": [
+      "Z",
+      "v_24_ == 0",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>.RET"
+      ]
+    ],
+    "\u456e": [
+      "F",
+      "<net.lingala.zip4j.model.ZipParameters: void <init>()>"
+    ],
+    "\u4617": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.tasks.AsyncZipTask$AsyncTaskParameters buildAsyncParameters()>"
+    ],
+    "\u4634": [
+      "Z",
+      "v_44_ == 0",
+      [
+        "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>.RET"
+      ]
+    ],
+    "\u463d": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: boolean isDirectory()>"
+    ],
+    "\u46c6": [
+      "F",
+      "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>"
+    ],
+    "\u4710": [
+      "F",
+      "<net.lingala.zip4j.model.AESExtraDataRecord: java.lang.String getVendorID()>"
+    ],
+    "\u484e": [
+      "Z",
+      "v_21_ == 0",
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>.RET"
+      ]
+    ],
+    "\u4880": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: void extractAll(java.lang.String)>"
+    ],
+    "\u496e": [
+      "F",
+      "<net.lingala.zip4j.ZipFile: void <init>(java.io.File)>"
+    ],
+    "\u4985": [
+      "F",
+      "<net.lingala.zip4j.model.ExtraDataRecord: int getSizeOfData()>"
+    ],
+    "\u49e5": [
+      "Z",
+      "Not(v_11_ == 0)",
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>.RET"
+      ]
+    ],
+    "\u49e8": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: java.lang.String getFileName()>"
+    ],
+    "\u49ee": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: long getLastModifiedTimeEpoch()>"
+    ],
+    "\u4a9d": [
+      "F",
+      "<net.lingala.zip4j.model.Zip64ExtendedInfo: int getSize()>"
+    ],
+    "\u4ab8": [
+      "Z",
+      "v_46_ == 0",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>.RET"
+      ]
+    ],
+    "\u4b02": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: byte[] getExtraField()>"
+    ],
+    "\u4c87": [
+      "F",
+      "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.AesKeyStrength getAesKeyStrength()>"
+    ],
+    "\u4cfb": [
+      "F",
+      "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getCompressedSize()>"
+    ],
+    "\u4d18": [
+      "Z",
+      "Not(v_21_ == 0)",
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>.RET"
+      ]
+    ],
+    "\u4d24": [
+      "Z",
+      "Not(v_24_ == 0)",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>.RET"
+      ]
+    ],
+    "\u4d40": [
+      "Z",
+      "Not(v_41_ == 0)",
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>.RET"
+      ]
+    ],
+    "\u4d87": [
+      "F",
+      "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>"
+    ],
+    "\u4d8e": [
+      "Z",
+      "Not(v_44_ == 0)",
+      [
+        "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>.RET"
+      ],
+      [
+        "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>.RET"
+      ]
+    ]
+  },
+  "def2var": {
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>.ITR": "v_21_itr_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.io.inputstream.ZipInputStream getInputStream(net.lingala.zip4j.model.FileHeader)>.RET": "v_21_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>.ITR": "v_11_itr_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.FileHeader getFileHeader(java.lang.String)>.RET": "v_11_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.Zip4jConfig buildConfig()>.ITR": "v_48_itr_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.model.Zip4jConfig buildConfig()>.RET": "v_48_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.tasks.AsyncZipTask$AsyncTaskParameters buildAsyncParameters()>.ITR": "v_3_itr_",
+    "<net.lingala.zip4j.ZipFile: net.lingala.zip4j.tasks.AsyncZipTask$AsyncTaskParameters buildAsyncParameters()>.RET": "v_3_",
+    "<net.lingala.zip4j.ZipFile: void <init>(java.io.File)>.ITR": "v_32_itr_",
+    "<net.lingala.zip4j.ZipFile: void <init>(java.io.File)>.RET": "v_32_",
+    "<net.lingala.zip4j.ZipFile: void <init>(java.lang.String)>.ITR": "v_39_itr_",
+    "<net.lingala.zip4j.ZipFile: void <init>(java.lang.String)>.RET": "v_39_",
+    "<net.lingala.zip4j.ZipFile: void close()>.ITR": "v_13_itr_",
+    "<net.lingala.zip4j.ZipFile: void close()>.RET": "v_13_",
+    "<net.lingala.zip4j.ZipFile: void extractAll(java.lang.String)>.ITR": "v_23_itr_",
+    "<net.lingala.zip4j.ZipFile: void extractAll(java.lang.String)>.RET": "v_23_",
+    "<net.lingala.zip4j.ZipFile: void extractFile(java.lang.String,java.lang.String,java.lang.String)>.ITR": "v_37_itr_",
+    "<net.lingala.zip4j.ZipFile: void extractFile(java.lang.String,java.lang.String,java.lang.String)>.RET": "v_37_",
+    "<net.lingala.zip4j.ZipFile: void readZipInfo()>.ITR": "v_33_itr_",
+    "<net.lingala.zip4j.ZipFile: void readZipInfo()>.RET": "v_33_",
+    "<net.lingala.zip4j.exception.ZipException: void <init>(java.lang.String)>.ITR": "v_12_itr_",
+    "<net.lingala.zip4j.exception.ZipException: void <init>(java.lang.String)>.RET": "v_12_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-294974691_$i2_LOOPVAR__((int)-1)'()>.RET": "v_50_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: int '-64883029_$i2_LOOPVAR__((int)-1)'()>.RET": "v_31_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.ITR": "v_14_itr_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>.RET": "v_14_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>.ITR": "v_36_itr_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: net.lingala.zip4j.model.LocalFileHeader getNextEntry()>.RET": "v_36_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>.ITR": "v_6_itr_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>.RET": "v_6_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream,char[])>.ITR": "v_40_itr_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream,char[])>.RET": "v_40_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: void close()>.ITR": "v_18_itr_",
+    "<net.lingala.zip4j.io.inputstream.ZipInputStream: void close()>.RET": "v_18_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: int getDataSize()>.ITR": "v_4_itr_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: int getDataSize()>.RET": "v_4_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: java.lang.String getVendorID()>.ITR": "v_15_itr_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: java.lang.String getVendorID()>.RET": "v_15_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.AesKeyStrength getAesKeyStrength()>.ITR": "v_0_itr_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.AesKeyStrength getAesKeyStrength()>.RET": "v_0_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.AesVersion getAesVersion()>.ITR": "v_49_itr_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.AesVersion getAesVersion()>.RET": "v_49_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.ITR": "v_28_itr_",
+    "<net.lingala.zip4j.model.AESExtraDataRecord: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.RET": "v_28_",
+    "<net.lingala.zip4j.model.ExtraDataRecord: byte[] getData()>.ITR": "v_16_itr_",
+    "<net.lingala.zip4j.model.ExtraDataRecord: byte[] getData()>.RET": "v_16_",
+    "<net.lingala.zip4j.model.ExtraDataRecord: int getSizeOfData()>.ITR": "v_42_itr_",
+    "<net.lingala.zip4j.model.ExtraDataRecord: int getSizeOfData()>.RET": "v_42_",
+    "<net.lingala.zip4j.model.ExtraDataRecord: long getHeader()>.ITR": "v_20_itr_",
+    "<net.lingala.zip4j.model.ExtraDataRecord: long getHeader()>.RET": "v_20_",
+    "<net.lingala.zip4j.model.FileHeader: java.lang.String getFileName()>.ITR": "v_45_itr_",
+    "<net.lingala.zip4j.model.FileHeader: java.lang.String getFileName()>.RET": "v_45_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>.ITR": "v_41_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_hasNext(java.util.Iterator)>.RET": "v_41_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean isDirectory()>.ITR": "v_30_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean isDirectory()>.RET": "v_30_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean isEncrypted()>.ITR": "v_17_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean isEncrypted()>.RET": "v_17_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean isFileNameUTF8Encoded()>.ITR": "v_8_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: boolean isFileNameUTF8Encoded()>.RET": "v_8_",
+    "<net.lingala.zip4j.model.LocalFileHeader: byte[] getExtraField()>.ITR": "v_2_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: byte[] getExtraField()>.RET": "v_2_",
+    "<net.lingala.zip4j.model.LocalFileHeader: java.lang.Object <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_next(java.util.Iterator)>.ITR": "v_26_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: java.lang.Object <net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>_ITERABLE_next(java.util.Iterator)>.RET": "v_26_",
+    "<net.lingala.zip4j.model.LocalFileHeader: java.lang.String getFileName()>.ITR": "v_35_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: java.lang.String getFileName()>.RET": "v_35_",
+    "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>.ITR": "v_46_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: java.util.List getExtraDataRecords()>.RET": "v_46_",
+    "<net.lingala.zip4j.model.LocalFileHeader: long getLastModifiedTimeEpoch()>.ITR": "v_10_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: long getLastModifiedTimeEpoch()>.RET": "v_10_",
+    "<net.lingala.zip4j.model.LocalFileHeader: long getOffsetStartOfData()>.ITR": "v_19_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: long getOffsetStartOfData()>.RET": "v_19_",
+    "<net.lingala.zip4j.model.LocalFileHeader: long getUncompressedSize()>.ITR": "v_38_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: long getUncompressedSize()>.RET": "v_38_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>.ITR": "v_24_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.AESExtraDataRecord getAesExtraDataRecord()>.RET": "v_24_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>.ITR": "v_27_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.Zip64ExtendedInfo getZip64ExtendedInfo()>.RET": "v_27_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.ITR": "v_34_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.CompressionMethod getCompressionMethod()>.RET": "v_34_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.EncryptionMethod getEncryptionMethod()>.ITR": "v_9_itr_",
+    "<net.lingala.zip4j.model.LocalFileHeader: net.lingala.zip4j.model.enums.EncryptionMethod getEncryptionMethod()>.RET": "v_9_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: int getDiskNumberStart()>.ITR": "v_25_itr_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: int getDiskNumberStart()>.RET": "v_25_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: int getSize()>.ITR": "v_47_itr_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: int getSize()>.RET": "v_47_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getCompressedSize()>.ITR": "v_5_itr_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getCompressedSize()>.RET": "v_5_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getOffsetLocalHeader()>.ITR": "v_1_itr_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getOffsetLocalHeader()>.RET": "v_1_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getUncompressedSize()>.ITR": "v_43_itr_",
+    "<net.lingala.zip4j.model.Zip64ExtendedInfo: long getUncompressedSize()>.RET": "v_43_",
+    "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>.ITR": "v_44_itr_",
+    "<net.lingala.zip4j.model.ZipModel: boolean isSplitArchive()>.RET": "v_44_",
+    "<net.lingala.zip4j.model.ZipParameters: void <init>()>.ITR": "v_22_itr_",
+    "<net.lingala.zip4j.model.ZipParameters: void <init>()>.RET": "v_22_",
+    "<net.lingala.zip4j.model.enums.CompressionMethod: int getCode()>.ITR": "v_29_itr_",
+    "<net.lingala.zip4j.model.enums.CompressionMethod: int getCode()>.RET": "v_29_",
+    "<net.lingala.zip4j.model.enums.EncryptionMethod: java.lang.String toString()>.ITR": "v_7_itr_",
+    "<net.lingala.zip4j.model.enums.EncryptionMethod: java.lang.String toString()>.RET": "v_7_",
+    "null": "null"
+  }
+}

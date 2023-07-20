@@ -1,0 +1,54 @@
+{
+	"funcMeta" : {
+
+		"<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>" : {
+			"ins" : {
+				"arg0": {
+					"tag": "arg0",
+					"type": "java.io.InputStream"
+				}
+			},
+			"outs" : {
+				"ret": {
+					"tag": "ret",
+					"type": "net.lingala.zip4j.io.inputstream.ZipInputStream"
+				}
+			},
+			"isStatic" : false,
+			"name": "new net.lingala.zip4j.io.inputstream.ZipInputStream"
+		},
+		"<net.lingala.zip4j.model.LocalFileHeader: boolean isDirectory()>" : {
+			"ins" : {
+				"cls": {
+					"tag": "cls",
+					"type": "net.lingala.zip4j.model.LocalFileHeader"
+				}
+			},
+			"outs" : {
+				"ret": {
+					"tag": "ret",
+					"type": "boolean"
+				}
+			},
+			"isStatic" : false,
+			"name": "isDirectory"
+		}
+	}, 
+	"dataDeps" : [
+				[
+					"input",
+					"input",
+					"<net.lingala.zip4j.io.inputstream.ZipInputStream: void <init>(java.io.InputStream)>",
+					"arg0",
+					"manually add"
+				],
+				[
+					"constant",
+					"new byte[1024]",
+					"<net.lingala.zip4j.io.inputstream.ZipInputStream: int read(byte[])>",
+					"arg0",
+					"manually added"
+				]
+
+	]
+}
